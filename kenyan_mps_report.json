@@ -1,0 +1,193 @@
+{
+  "totalMPs": 349,
+  "leadership": [
+    {
+      "position": "Speaker of the National Assembly",
+      "mp": "HON. INJENDI MOSES MALULU"
+    },
+    {
+      "position": "Majority Leader",
+      "mp": "HON. ICHUNG’WAH ANTONY KIMANI"
+    },
+    {
+      "position": "Minority Leader",
+      "mp": "HON. ABDIRAHMAN MOHAMED ABDI"
+    },
+    {
+      "position": "Committee on Selection Vice Chairperson",
+      "mp": "HON. NG’ONGO JOHN MBADI"
+    },
+    {
+      "position": "Committee on Selection Chairperson",
+      "mp": "HON. MWAGO AMOS MAINA"
+    },
+    {
+      "position": "Deputy Speaker",
+      "mp": "HON. BOSS GLADYS JEPKOSGEI"
+    }
+  ],
+  "committees": [
+    {
+      "name": "Budget and Appropriations",
+      "description": "Investigates, inquires into and reports on all matters related to coordination, control and monitoring of the national budget",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Defence and Foreign Relations",
+      "description": "Defence, intelligence, foreign relations, diplomatic and consular services, international boundaries",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Administration and National Security",
+      "description": "National security, police services, public administration, public service, prisons, immigration",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Agriculture and Livestock",
+      "description": "Agriculture, livestock, irrigation, fisheries development, cooperatives",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Environment and Natural Resources",
+      "description": "Climate change, environment management, forestry, water resource management, wildlife, mining",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Education and Research",
+      "description": "Education, training, research and technological advancement",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Energy",
+      "description": "Fossil fuels exploration, energy, communication, broadcasting and ICT development",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Health",
+      "description": "Matters related to health, medical care and health insurance",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Justice and Legal Affairs",
+      "description": "Constitutional affairs, administration of law and justice, public prosecutions, elections",
+      "memberCount": 0,
+      "members": []
+    },
+    {
+      "name": "Committee on Appointments",
+      "description": "Vets nominees for Cabinet Secretary positions and other executive appointments",
+      "memberCount": 25,
+      "members": [
+        "HON. ABDIRAHMAN MOHAMED ABDI",
+        "HON. ADOW ADEN MOHAMMED",
+        "HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED",
+        "HON. ABDULLAIH BASHIR SHEIKH",
+        "HON. BOSS GLADYS JEPKOSGEI"
+      ]
+    }
+  ],
+  "partyDistribution": {
+    "UDA": 141,
+    "ODM": 84,
+    "JP": 28,
+    "WDM": 25,
+    "IND": 9,
+    "": 9,
+    "UDM": 8,
+    "ANC": 7,
+    "KANU": 6,
+    "DAP-K": 5,
+    "IND.": 3,
+    "FORD - K": 3,
+    "KUP": 3,
+    "FORD-K": 3,
+    "PAA": 3,
+    "UPIA": 2,
+    "TSP": 2,
+    "MCCP": 2,
+    "NAP-K": 1,
+    "NOPEU": 1,
+    "CCM": 1,
+    "GDDP": 1,
+    "MDG": 1,
+    "UPA": 1
+  },
+  "genderDistribution": {
+    "Male": 62,
+    "Female": 14,
+    "Unknown": 273
+  },
+  "countyDistribution": {
+    "NAIROBI": 16,
+    "MARSABIT": 5,
+    "KERICHO": 7,
+    "MANDERA": 7,
+    "WAJIR": 7,
+    "MURANGÁ": 1,
+    "KISUMU": 8,
+    "TANA RIVER": 4,
+    "TURKANA": 7,
+    "MERU": 9,
+    "KISII": 10,
+    "TRANS NZOIA": 4,
+    "MAKUENI": 7,
+    "MIGORI": 8,
+    "SIAYA": 7,
+    "GARISSA": 7,
+    "NAKURU": 12,
+    "TAITA TAVETA": 5,
+    "VIHIGA": 6,
+    "NANDI": 7,
+    "MURANG'A": 4,
+    "TRANS-NZOIA": 2,
+    "MOMBASA": 7,
+    "ISIOLO": 2,
+    "UASIN GISHU": 7,
+    "ELGEYO - MARAKWET": 3,
+    "BOMET": 6,
+    "MACHAKOS": 9,
+    "KILIFI": 8,
+    "BUNGOMA": 11,
+    "KWALE": 5,
+    "KIAMBU": 13,
+    "WEST POKOT": 4,
+    "KAJIADO": 6,
+    "NYAMIRA": 4,
+    "NYERI": 7,
+    "KIRINYAGA": 5,
+    "KAKAMEGA": 13,
+    "NYANDARUA": 6,
+    "HOMA BAY": 9,
+    "EMBU": 4,
+    "KITUI": 7,
+    "BARINGO": 6,
+    "BUSIA": 7,
+    "LAIKIPIA": 4,
+    "NAROK": 7,
+    "MURANGA": 2,
+    "LAMU": 3,
+    "SAMBURU": 4,
+    "MURANG’A": 2,
+    "ISIOLO NORTH": 1,
+    "MWINGI": 2,
+    "THARAKA-NITHI": 1,
+    "THARAKA NITHI": 2,
+    "ELGEYO MARAKWET": 2,
+    "THARAKA - NITHI": 1,
+    "NYAMIRA COUNTY": 1,
+    "POKOT": 1
+  },
+  "electionStatus": {
+    "Elected": 307,
+    "Nominated": 10,
+    "Other": 32
+  }
+}

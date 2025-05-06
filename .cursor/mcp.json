@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "scraperis_scraper": {
+        "command": "scraperis-mcp",
+        "args": [],
+        "env": {
+          "SCRAPERIS_API_KEY": "ws-9d361f46c8b7fdb9",
+          "DEBUG": "*"
+        }
+      }
+    }
+  }
