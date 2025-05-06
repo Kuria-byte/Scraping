@@ -1,0 +1,1092 @@
+[2025-05-06T11:56:44.016Z] [INFO] Starting Wikipedia data integration...
+[2025-05-06T11:56:44.023Z] [INFO] Starting Wikipedia enrichment for 349 MPs
+[2025-05-06T11:56:44.024Z] [INFO] Step 1: Finding Wikipedia pages for MPs
+[2025-05-06T11:56:44.026Z] [INFO] Searching for Wikipedia page for: HON.  MEJJADONK,  BENJAMIN GATHIRU
+[2025-05-06T11:56:44.106Z] [INFO] Searching for Wikipedia page for: HON. ABDI, YUSUF HASSAN
+[2025-05-06T11:56:44.110Z] [INFO] Searching for Wikipedia page for: HON. ABDIRAHMAN MOHAMED ABDI
+[2025-05-06T11:56:44.113Z] [INFO] Searching for Wikipedia page for: HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED
+[2025-05-06T11:56:44.116Z] [INFO] Searching for Wikipedia page for: HON. ABDULLAHI AMINA DIKA
+[2025-05-06T11:56:45.319Z] [WARN] No Wikipedia page found for HON.  MEJJADONK,  BENJAMIN GATHIRU
+[2025-05-06T11:56:45.374Z] [INFO] Search result found for HON. ABDIRAHMAN MOHAMED ABDI: https://en.wikipedia.org/wiki/Garissa_County
+[2025-05-06T11:56:45.412Z] [INFO] Search result found for HON. ABDI, YUSUF HASSAN: https://en.wikipedia.org/wiki/Yusuf_Hassan_Abdi
+[2025-05-06T11:56:45.440Z] [WARN] No Wikipedia page found for HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED
+[2025-05-06T11:56:47.607Z] [WARN] No Wikipedia page found for HON. ABDULLAHI AMINA DIKA
+[2025-05-06T11:56:47.609Z] [INFO] Processed 5/349 MPs
+[2025-05-06T11:56:49.611Z] [INFO] Searching for Wikipedia page for: HON. ABDULLAIH BASHIR SHEIKH
+[2025-05-06T11:56:49.614Z] [INFO] Searching for Wikipedia page for: HON. ABUBAKAR TALIB AHMED
+[2025-05-06T11:56:49.616Z] [INFO] Searching for Wikipedia page for: HON. ABUOR PAUL
+[2025-05-06T11:56:49.617Z] [INFO] Searching for Wikipedia page for: HON. ABURI DONYA DORICE
+[2025-05-06T11:56:49.620Z] [INFO] Searching for Wikipedia page for: HON. ABURI, LAWRENCE MPURU
+[2025-05-06T11:56:50.849Z] [INFO] Search result found for HON. ABURI, LAWRENCE MPURU: https://en.wikipedia.org/wiki/National_Agenda_Party_(Kenya)
+[2025-05-06T11:56:50.933Z] [WARN] No Wikipedia page found for HON. ABURI DONYA DORICE
+[2025-05-06T11:56:50.989Z] [INFO] Search result found for HON. ABDULLAIH BASHIR SHEIKH: https://en.wikipedia.org/wiki/List_of_political_families
+[2025-05-06T11:56:51.067Z] [WARN] No Wikipedia page found for HON. ABUBAKAR TALIB AHMED
+[2025-05-06T11:56:51.076Z] [INFO] Search result found for HON. ABUOR PAUL: https://en.wikipedia.org/wiki/Dalmas_Otieno
+[2025-05-06T11:56:51.077Z] [INFO] Processed 10/349 MPs
+[2025-05-06T11:56:53.088Z] [INFO] Searching for Wikipedia page for: HON. ADAGALA, BEATRICE KAHAI
+[2025-05-06T11:56:53.091Z] [INFO] Searching for Wikipedia page for: HON. (AMB.) LANGAT BENJAMIN KIPKIRUI
+[2025-05-06T11:56:53.093Z] [INFO] Searching for Wikipedia page for: HON. ADHE WARIO GUYO
+[2025-05-06T11:56:53.094Z] [INFO] Searching for Wikipedia page for: HON. (DR.) GICHUKI EDWIN MUGO
+[2025-05-06T11:56:53.096Z] [INFO] Searching for Wikipedia page for: HON. ADOW ADEN MOHAMMED
+[2025-05-06T11:56:53.931Z] [WARN] No Wikipedia page found for HON. (DR.) GICHUKI EDWIN MUGO
+[2025-05-06T11:56:53.953Z] [WARN] No Wikipedia page found for HON. ADAGALA, BEATRICE KAHAI
+[2025-05-06T11:56:53.988Z] [INFO] Search result found for HON. (AMB.) LANGAT BENJAMIN KIPKIRUI: https://en.wikipedia.org/wiki/Benjamin_Langat
+[2025-05-06T11:56:54.116Z] [WARN] No Wikipedia page found for HON. ADHE WARIO GUYO
+[2025-05-06T11:56:55.156Z] [INFO] Search result found for HON. ADOW ADEN MOHAMMED: https://en.wikipedia.org/wiki/Garissa_County
+[2025-05-06T11:56:55.157Z] [INFO] Processed 15/349 MPs
+[2025-05-06T11:56:57.163Z] [INFO] Searching for Wikipedia page for: HON. (DR.) JACKSON KIPKEMOI KOSGEI
+[2025-05-06T11:56:57.165Z] [INFO] Searching for Wikipedia page for: HON. AHMED SHAKEEL AHMED SHABBIR
+[2025-05-06T11:56:57.166Z] [INFO] Searching for Wikipedia page for: HON. (DR.) MUTUNGA JOHN KANYUITHIA
+[2025-05-06T11:56:57.168Z] [INFO] Searching for Wikipedia page for: HON. AKUJAH, PROTUS EWESIT
+[2025-05-06T11:56:57.170Z] [INFO] Searching for Wikipedia page for: HON. (DR.) PUKOSE ROBERT
+[2025-05-06T11:56:57.908Z] [INFO] Search result found for HON. (DR.) PUKOSE ROBERT: https://en.wikipedia.org/wiki/Sabaot_people
+[2025-05-06T11:56:57.971Z] [INFO] Search result found for HON. (DR.) JACKSON KIPKEMOI KOSGEI: https://en.wikipedia.org/wiki/October_2010_in_sports
+[2025-05-06T11:56:57.992Z] [WARN] No Wikipedia page found for HON. AKUJAH, PROTUS EWESIT
+[2025-05-06T11:56:58.019Z] [WARN] No Wikipedia page found for HON. AHMED SHAKEEL AHMED SHABBIR
+[2025-05-06T11:56:58.040Z] [WARN] No Wikipedia page found for HON. (DR.) MUTUNGA JOHN KANYUITHIA
+[2025-05-06T11:56:58.041Z] [INFO] Processed 20/349 MPs
+[2025-05-06T11:57:00.051Z] [INFO] Searching for Wikipedia page for: HON. ALFAH ONDIEKI MIRUKA
+[2025-05-06T11:57:00.054Z] [INFO] Searching for Wikipedia page for: HON. (ENG.)  NZAMBIA KITHUA THUDDEUS
+[2025-05-06T11:57:00.055Z] [INFO] Searching for Wikipedia page for: HON. ALI ABDISIRAT KHALIF
+[2025-05-06T11:57:00.058Z] [INFO] Searching for Wikipedia page for: HON. ABDI ALI ABDI
+[2025-05-06T11:57:00.060Z] [INFO] Searching for Wikipedia page for: HON. AMOLLO PAUL OTIENDE
+[2025-05-06T11:57:00.944Z] [WARN] No Wikipedia page found for HON. AMOLLO PAUL OTIENDE
+[2025-05-06T11:57:00.964Z] [WARN] No Wikipedia page found for HON. ALFAH ONDIEKI MIRUKA
+[2025-05-06T11:57:01.128Z] [INFO] Search result found for HON. ABDI ALI ABDI: https://en.wikipedia.org/wiki/Operation_Ocean_Shield
+[2025-05-06T11:57:01.179Z] [WARN] No Wikipedia page found for HON. ALI ABDISIRAT KHALIF
+[2025-05-06T11:57:01.222Z] [WARN] No Wikipedia page found for HON. (ENG.)  NZAMBIA KITHUA THUDDEUS
+[2025-05-06T11:57:01.223Z] [INFO] Processed 25/349 MPs
+[2025-05-06T11:57:03.234Z] [INFO] Searching for Wikipedia page for: HON. ARAMA SAMUEL
+[2025-05-06T11:57:03.247Z] [INFO] Searching for Wikipedia page for: HON. ABDI KHAMIS CHOME
+[2025-05-06T11:57:03.254Z] [INFO] Searching for Wikipedia page for: HON. ARIKO JOHN NAMOIT
+[2025-05-06T11:57:03.260Z] [INFO] Searching for Wikipedia page for: HON. ATANDI SAMUEL ONUNGA
+[2025-05-06T11:57:03.264Z] [INFO] Searching for Wikipedia page for: HON. BABU OWINO PAUL ONGILI
+[2025-05-06T11:57:04.081Z] [WARN] No Wikipedia page found for HON. ATANDI SAMUEL ONUNGA
+[2025-05-06T11:57:04.106Z] [WARN] No Wikipedia page found for HON. BABU OWINO PAUL ONGILI
+[2025-05-06T11:57:04.117Z] [INFO] Search result found for HON. ARAMA SAMUEL: https://en.wikipedia.org/wiki/Samuel_Arama
+[2025-05-06T11:57:04.249Z] [INFO] Search result found for HON. ARIKO JOHN NAMOIT: https://en.wikipedia.org/wiki/Turkana_South_Constituency
+[2025-05-06T11:57:04.403Z] [WARN] No Wikipedia page found for HON. ABDI KHAMIS CHOME
+[2025-05-06T11:57:04.404Z] [INFO] Processed 30/349 MPs
+[2025-05-06T11:57:06.411Z] [INFO] Searching for Wikipedia page for: HON. BIEGO PAUL KIBICHIY
+[2025-05-06T11:57:06.414Z] [INFO] Searching for Wikipedia page for: HON. CHEGE NJUGUNA
+[2025-05-06T11:57:06.416Z] [INFO] Searching for Wikipedia page for: HON. BADY BADY TWALIB
+[2025-05-06T11:57:06.419Z] [INFO] Searching for Wikipedia page for: HON. BISAU, MAURICE KAKAI
+[2025-05-06T11:57:06.421Z] [INFO] Searching for Wikipedia page for: HON. BARASA PATRICK SIMIYU
+[2025-05-06T11:57:07.161Z] [INFO] Search result found for HON. CHEGE NJUGUNA: https://en.wikipedia.org/wiki/Nyandarua_County
+[2025-05-06T11:57:07.260Z] [INFO] Search result found for HON. BADY BADY TWALIB: https://en.wikipedia.org/wiki/Badi_Twalib
+[2025-05-06T11:57:07.285Z] [INFO] Search result found for HON. BARASA PATRICK SIMIYU: https://en.wikipedia.org/wiki/Joshua_Kutuny
+[2025-05-06T11:57:07.357Z] [WARN] No Wikipedia page found for HON. BISAU, MAURICE KAKAI
+[2025-05-06T11:57:08.081Z] [WARN] No Wikipedia page found for HON. BIEGO PAUL KIBICHIY
+[2025-05-06T11:57:08.082Z] [INFO] Processed 35/349 MPs
+[2025-05-06T11:57:10.090Z] [INFO] Searching for Wikipedia page for: HON. CHEGE SABINA WANJIRU
+[2025-05-06T11:57:10.092Z] [INFO] Searching for Wikipedia page for: HON. BONAYA MUMINA GOLLO
+[2025-05-06T11:57:10.093Z] [INFO] Searching for Wikipedia page for: HON. CHELULE, LIZA CHEPKORIR
+[2025-05-06T11:57:10.095Z] [INFO] Searching for Wikipedia page for: HON. BARONGO NOLFASON OBADIAH
+[2025-05-06T11:57:10.096Z] [INFO] Searching for Wikipedia page for: HON. BARRE HUSSEIN ABDI
+[2025-05-06T11:57:10.950Z] [WARN] No Wikipedia page found for HON. CHELULE, LIZA CHEPKORIR
+[2025-05-06T11:57:10.978Z] [INFO] Search result found for HON. BARRE HUSSEIN ABDI: https://en.wikipedia.org/wiki/Aden_Duale
+[2025-05-06T11:57:11.022Z] [WARN] No Wikipedia page found for HON. BARONGO NOLFASON OBADIAH
+[2025-05-06T11:57:11.030Z] [WARN] No Wikipedia page found for HON. BONAYA MUMINA GOLLO
+[2025-05-06T11:57:11.124Z] [INFO] Search result found for HON. CHEGE SABINA WANJIRU: https://en.wikipedia.org/wiki/Murang%27a_County
+[2025-05-06T11:57:11.125Z] [INFO] Processed 40/349 MPs
+[2025-05-06T11:57:13.137Z] [INFO] Searching for Wikipedia page for: HON. CHEPKONGA, SAMUEL KIPRONO
+[2025-05-06T11:57:13.142Z] [INFO] Searching for Wikipedia page for: HON. BOSS GLADYS JEPKOSGEI
+[2025-05-06T11:57:13.146Z] [INFO] Searching for Wikipedia page for: HON. BARTOO PHYLIS JEPKEMOI
+[2025-05-06T11:57:13.149Z] [INFO] Searching for Wikipedia page for: HON. CHEPKORIR, LINET
+[2025-05-06T11:57:13.152Z] [INFO] Searching for Wikipedia page for: HON. BOWEN DAVID KANGOGO
+[2025-05-06T11:57:14.011Z] [WARN] No Wikipedia page found for HON. BARTOO PHYLIS JEPKEMOI
+[2025-05-06T11:57:14.043Z] [WARN] No Wikipedia page found for HON. BOWEN DAVID KANGOGO
+[2025-05-06T11:57:14.083Z] [INFO] Search result found for HON. BOSS GLADYS JEPKOSGEI: https://en.wikipedia.org/wiki/Gladys_Boss_Shollei
+[2025-05-06T11:57:14.216Z] [INFO] Search result found for HON. CHEPKONGA, SAMUEL KIPRONO: https://en.wikipedia.org/wiki/William_Chepkut
+[2025-05-06T11:57:14.842Z] [INFO] Search result found for HON. CHEPKORIR, LINET: https://en.wikipedia.org/wiki/Linet_Toto
+[2025-05-06T11:57:14.843Z] [INFO] Processed 45/349 MPs
+[2025-05-06T11:57:16.851Z] [INFO] Searching for Wikipedia page for: HON. BASIL ROBERT NGUI
+[2025-05-06T11:57:16.859Z] [INFO] Searching for Wikipedia page for: HON. CHEPKWONY  CHARITY KATHAMBI
+[2025-05-06T11:57:16.867Z] [INFO] Searching for Wikipedia page for: HON. CHEROROT JOSEPH KIMUTAI
+[2025-05-06T11:57:16.875Z] [INFO] Searching for Wikipedia page for: HON. BAYA OWEN YAA
+[2025-05-06T11:57:16.884Z] [INFO] Searching for Wikipedia page for: HON. BUSIA RUTH ADHIAMBO ODINGA
+[2025-05-06T11:57:17.764Z] [INFO] Search result found for HON. CHEPKWONY  CHARITY KATHAMBI: https://en.wikipedia.org/wiki/Charity_Kathambi_Chepkwony
+[2025-05-06T11:57:17.841Z] [WARN] No Wikipedia page found for HON. BAYA OWEN YAA
+[2025-05-06T11:57:17.852Z] [INFO] Search result found for HON. BASIL ROBERT NGUI: https://en.wikipedia.org/wiki/Deaths_in_August_2019
+[2025-05-06T11:57:17.888Z] [WARN] No Wikipedia page found for HON. CHEROROT JOSEPH KIMUTAI
+[2025-05-06T11:57:17.902Z] [WARN] No Wikipedia page found for HON. BUSIA RUTH ADHIAMBO ODINGA
+[2025-05-06T11:57:17.903Z] [INFO] Processed 50/349 MPs
+[2025-05-06T11:57:19.910Z] [INFO] Searching for Wikipedia page for: HON. CHESEBE FRED KAPONDI
+[2025-05-06T11:57:19.918Z] [INFO] Searching for Wikipedia page for: HON. BEDZIMBA RASHID JUMA
+[2025-05-06T11:57:19.930Z] [INFO] Searching for Wikipedia page for: HON. CHIFOROMODO, MANGALE MUNGA
+[2025-05-06T11:57:19.938Z] [INFO] Searching for Wikipedia page for: HON. BUYU ROZAAH AKINYI
+[2025-05-06T11:57:19.947Z] [INFO] Searching for Wikipedia page for: HON. BIDU, MOHAMED TUBI
+[2025-05-06T11:57:20.698Z] [WARN] No Wikipedia page found for HON. BUYU ROZAAH AKINYI
+[2025-05-06T11:57:20.776Z] [WARN] No Wikipedia page found for HON. BEDZIMBA RASHID JUMA
+[2025-05-06T11:57:20.798Z] [INFO] Search result found for HON. CHESEBE FRED KAPONDI: https://en.wikipedia.org/wiki/Sabaot_people
+[2025-05-06T11:57:20.956Z] [WARN] No Wikipedia page found for HON. CHIFOROMODO, MANGALE MUNGA
+[2025-05-06T11:57:21.035Z] [INFO] Search result found for HON. BIDU, MOHAMED TUBI: https://en.wikipedia.org/wiki/Order_of_the_Rising_Sun
+[2025-05-06T11:57:21.037Z] [INFO] Processed 55/349 MPs
+[2025-05-06T11:57:23.054Z] [INFO] Searching for Wikipedia page for: HON. CHIKATI JOHN MURUMBA
+[2025-05-06T11:57:23.065Z] [INFO] Searching for Wikipedia page for: HON. BWIRE JOHN OKANO
+[2025-05-06T11:57:23.072Z] [INFO] Searching for Wikipedia page for: HON. CHEBOR, PAUL KIBET
+[2025-05-06T11:57:23.079Z] [INFO] Searching for Wikipedia page for: HON. CHEGE JOHN KIRAGU
+[2025-05-06T11:57:23.088Z] [INFO] Searching for Wikipedia page for: HON. GUYO ALI WARIO
+[2025-05-06T11:57:23.932Z] [INFO] Search result found for HON. CHEGE JOHN KIRAGU: https://en.wikipedia.org/wiki/2013_Kiambu_local_elections
+[2025-05-06T11:57:24.128Z] [INFO] Search result found for HON. GUYO ALI WARIO: https://en.wikipedia.org/wiki/Garsen_Constituency
+[2025-05-06T11:57:24.179Z] [WARN] No Wikipedia page found for HON. CHEBOR, PAUL KIBET
+[2025-05-06T11:57:24.194Z] [WARN] No Wikipedia page found for HON. BWIRE JOHN OKANO
+[2025-05-06T11:57:24.216Z] [INFO] Search result found for HON. CHIKATI JOHN MURUMBA: https://en.wikipedia.org/wiki/John_Chikati
+[2025-05-06T11:57:24.218Z] [INFO] Processed 60/349 MPs
+[2025-05-06T11:57:26.223Z] [INFO] Searching for Wikipedia page for: HON. HAMISI KAKUTA MAIMAI
+[2025-05-06T11:57:26.230Z] [INFO] Searching for Wikipedia page for: HON. CHUMEL, MOROTO SAMUEL
+[2025-05-06T11:57:26.237Z] [INFO] Searching for Wikipedia page for: HON. GACHOBE SAMUEL KINUTHIA
+[2025-05-06T11:57:26.258Z] [INFO] Searching for Wikipedia page for: HON. CPA RUTTO JULIUS KIPLETTING
+[2025-05-06T11:57:26.280Z] [INFO] Searching for Wikipedia page for: HON. HARO ABDUL EBRAHIM
+[2025-05-06T11:57:27.193Z] [WARN] No Wikipedia page found for HON. CHUMEL, MOROTO SAMUEL
+[2025-05-06T11:57:27.264Z] [WARN] No Wikipedia page found for HON. CPA RUTTO JULIUS KIPLETTING
+[2025-05-06T11:57:27.275Z] [WARN] No Wikipedia page found for HON. GACHOBE SAMUEL KINUTHIA
+[2025-05-06T11:57:27.282Z] [INFO] Search result found for HON. HARO ABDUL EBRAHIM: https://en.wikipedia.org/wiki/Deaths_in_May_2024
+[2025-05-06T11:57:27.395Z] [WARN] No Wikipedia page found for HON. HAMISI KAKUTA MAIMAI
+[2025-05-06T11:57:27.398Z] [INFO] Processed 65/349 MPs
+[2025-05-06T11:57:29.409Z] [INFO] Searching for Wikipedia page for: HON. GAKUYA JAMES MWANGI
+[2025-05-06T11:57:29.417Z] [INFO] Searching for Wikipedia page for: HON. DAWOOD, ABDUL RAHIM
+[2025-05-06T11:57:29.426Z] [INFO] Searching for Wikipedia page for: HON. GIDEON KIMAIYO
+[2025-05-06T11:57:29.432Z] [INFO] Searching for Wikipedia page for: HON. HASSAN KULOW MAALIM
+[2025-05-06T11:57:29.439Z] [INFO] Searching for Wikipedia page for: HON. DENA JOSEPH HAMISI
+[2025-05-06T11:57:30.329Z] [WARN] No Wikipedia page found for HON. HASSAN KULOW MAALIM
+[2025-05-06T11:57:30.360Z] [WARN] No Wikipedia page found for HON. GAKUYA JAMES MWANGI
+[2025-05-06T11:57:30.412Z] [INFO] Search result found for HON. DENA JOSEPH HAMISI: https://en.wikipedia.org/wiki/Joseph_Chamberlain
+[2025-05-06T11:57:30.422Z] [WARN] No Wikipedia page found for HON. DAWOOD, ABDUL RAHIM
+[2025-05-06T11:57:30.521Z] [WARN] No Wikipedia page found for HON. GIDEON KIMAIYO
+[2025-05-06T11:57:30.522Z] [INFO] Processed 70/349 MPs
+[2025-05-06T11:57:32.538Z] [INFO] Searching for Wikipedia page for: HON. HIRIBAE SAID BUYA
+[2025-05-06T11:57:32.546Z] [INFO] Searching for Wikipedia page for: HON. EKWOM NABUIN
+[2025-05-06T11:57:32.553Z] [INFO] Searching for Wikipedia page for: HON. ICHUNG’WAH ANTONY KIMANI
+[2025-05-06T11:57:32.563Z] [INFO] Searching for Wikipedia page for: HON. ELACHI BEATRICE KADEVERESIA
+[2025-05-06T11:57:32.573Z] [INFO] Searching for Wikipedia page for: HON. IKANA FREDRICK LUSULI
+[2025-05-06T11:57:33.530Z] [WARN] No Wikipedia page found for HON. EKWOM NABUIN
+[2025-05-06T11:57:33.555Z] [INFO] Search result found for HON. ICHUNG’WAH ANTONY KIMANI: https://en.wikipedia.org/wiki/Kimani_Ichung%27wah
+[2025-05-06T11:57:33.564Z] [WARN] No Wikipedia page found for HON. HIRIBAE SAID BUYA
+[2025-05-06T11:57:33.615Z] [WARN] No Wikipedia page found for HON. IKANA FREDRICK LUSULI
+[2025-05-06T11:57:33.625Z] [INFO] Search result found for HON. ELACHI BEATRICE KADEVERESIA: https://en.wikipedia.org/wiki/Beatrice_Elachi
+[2025-05-06T11:57:33.627Z] [INFO] Processed 75/349 MPs
+[2025-05-06T11:57:35.638Z] [INFO] Searching for Wikipedia page for: HON. ERIC WAMUMBI
+[2025-05-06T11:57:35.649Z] [INFO] Searching for Wikipedia page for: HON. GIKARIA, DAVID
+[2025-05-06T11:57:35.659Z] [INFO] Searching for Wikipedia page for: HON. IKIARA, DOROTHY MUTHONI
+[2025-05-06T11:57:35.667Z] [INFO] Searching for Wikipedia page for: HON. FARAH SALAH YAKUB
+[2025-05-06T11:57:35.676Z] [INFO] Searching for Wikipedia page for: HON. INJENDI MOSES MALULU
+[2025-05-06T11:57:36.367Z] [INFO] Search result found for HON. FARAH SALAH YAKUB: https://en.wikipedia.org/wiki/Garissa_County
+[2025-05-06T11:57:36.490Z] [WARN] No Wikipedia page found for HON. INJENDI MOSES MALULU
+[2025-05-06T11:57:36.708Z] [INFO] Search result found for HON. ERIC WAMUMBI: https://en.wikipedia.org/wiki/Rigathi_Gachagua
+[2025-05-06T11:57:36.746Z] [INFO] Search result found for HON. GIKARIA, DAVID: https://en.wikipedia.org/wiki/David_Gikaria
+[2025-05-06T11:57:36.789Z] [WARN] No Wikipedia page found for HON. IKIARA, DOROTHY MUTHONI
+[2025-05-06T11:57:36.790Z] [INFO] Processed 80/349 MPs
+[2025-05-06T11:57:38.795Z] [INFO] Searching for Wikipedia page for: HON. GIMOSE, CHARLES GUMINI
+[2025-05-06T11:57:38.804Z] [INFO] Searching for Wikipedia page for: HON. ITHINJI SHADRACK MWITI
+[2025-05-06T11:57:38.814Z] [INFO] Searching for Wikipedia page for: HON. FARAH YUSSUF MOHAMED
+[2025-05-06T11:57:38.820Z] [INFO] Searching for Wikipedia page for: HON. GISAIRO CLIVE OMBANE
+[2025-05-06T11:57:38.834Z] [INFO] Searching for Wikipedia page for: HON. GACHAGUA GEORGE
+[2025-05-06T11:57:39.645Z] [WARN] No Wikipedia page found for HON. GISAIRO CLIVE OMBANE
+[2025-05-06T11:57:39.769Z] [WARN] No Wikipedia page found for HON. GIMOSE, CHARLES GUMINI
+[2025-05-06T11:57:39.818Z] [WARN] No Wikipedia page found for HON. ITHINJI SHADRACK MWITI
+[2025-05-06T11:57:39.943Z] [INFO] Search result found for HON. GACHAGUA GEORGE: https://en.wikipedia.org/wiki/William_Ruto
+[2025-05-06T11:57:39.980Z] [INFO] Search result found for HON. FARAH YUSSUF MOHAMED: https://en.wikipedia.org/wiki/Wajir_West_Constituency
+[2025-05-06T11:57:39.982Z] [INFO] Processed 85/349 MPs
+[2025-05-06T11:57:41.994Z] [INFO] Searching for Wikipedia page for: HON. GITARI, JOSEPH GACHOKI
+[2025-05-06T11:57:42.001Z] [INFO] Searching for Wikipedia page for: HON. GITAU FAITH WAIRIMU
+[2025-05-06T11:57:42.009Z] [INFO] Searching for Wikipedia page for: HON. GITHINJI, ROBERT GICHIMU
+[2025-05-06T11:57:42.016Z] [INFO] Searching for Wikipedia page for: HON. GOGO, LILIAN ACHIENG
+[2025-05-06T11:57:42.023Z] [INFO] Searching for Wikipedia page for: HON. JALDESA GUYO WAQO
+[2025-05-06T11:57:42.779Z] [INFO] Search result found for HON. GITHINJI, ROBERT GICHIMU: https://en.wikipedia.org/wiki/Robert_Gichimu_Githinji
+[2025-05-06T11:57:42.923Z] [WARN] No Wikipedia page found for HON. GITAU FAITH WAIRIMU
+[2025-05-06T11:57:43.029Z] [WARN] No Wikipedia page found for HON. GOGO, LILIAN ACHIENG
+[2025-05-06T11:57:43.218Z] [WARN] No Wikipedia page found for HON. GITARI, JOSEPH GACHOKI
+[2025-05-06T11:57:43.245Z] [WARN] No Wikipedia page found for HON. JALDESA GUYO WAQO
+[2025-05-06T11:57:43.249Z] [INFO] Processed 90/349 MPs
+[2025-05-06T11:57:45.266Z] [INFO] Searching for Wikipedia page for: HON. KAREMBA, ERIC MUCHANGI.N.
+[2025-05-06T11:57:45.272Z] [INFO] Searching for Wikipedia page for: HON. KAILEMIA ELIZABETH KARAMBU
+[2025-05-06T11:57:45.281Z] [INFO] Searching for Wikipedia page for: HON. KARIUKI GEORGE MACHARIA
+[2025-05-06T11:57:45.291Z] [INFO] Searching for Wikipedia page for: HON. JEHOW FATUMA ABDI
+[2025-05-06T11:57:45.299Z] [INFO] Searching for Wikipedia page for: HON. KAJWANG’, FRANCIS TOM JOSEPH
+[2025-05-06T11:57:46.128Z] [INFO] Search result found for HON. KARIUKI GEORGE MACHARIA: https://en.wikipedia.org/wiki/William_Ruto
+[2025-05-06T11:57:46.238Z] [INFO] Search result found for HON. KAREMBA, ERIC MUCHANGI.N.: https://en.wikipedia.org/wiki/Muchangi_Karemba
+[2025-05-06T11:57:46.261Z] [INFO] Search result found for HON. KAJWANG’, FRANCIS TOM JOSEPH: https://en.wikipedia.org/wiki/Deaths_in_November_2014
+[2025-05-06T11:57:46.273Z] [INFO] Search result found for HON. JEHOW FATUMA ABDI: https://en.wikipedia.org/wiki/Fatuma_Gedi
+[2025-05-06T11:57:46.395Z] [WARN] No Wikipedia page found for HON. KAILEMIA ELIZABETH KARAMBU
+[2025-05-06T11:57:46.399Z] [INFO] Processed 95/349 MPs
+[2025-05-06T11:57:48.433Z] [INFO] Searching for Wikipedia page for: HON. KASALU, IRENE MUTHONI
+[2025-05-06T11:57:48.439Z] [INFO] Searching for Wikipedia page for: HON. JHANDA ZAHEER
+[2025-05-06T11:57:48.446Z] [INFO] Searching for Wikipedia page for: HON. KASIWAI RAEL KASIWAI
+[2025-05-06T11:57:48.454Z] [INFO] Searching for Wikipedia page for: HON. KALUMA GEORGE PETER OPONDO
+[2025-05-06T11:57:48.457Z] [INFO] Searching for Wikipedia page for: HON. JOSEPH WAINAINA IRAYA
+[2025-05-06T11:57:49.298Z] [WARN] No Wikipedia page found for HON. JHANDA ZAHEER
+[2025-05-06T11:57:49.427Z] [WARN] No Wikipedia page found for HON. KALUMA GEORGE PETER OPONDO
+[2025-05-06T11:57:49.477Z] [WARN] No Wikipedia page found for HON. JOSEPH WAINAINA IRAYA
+[2025-05-06T11:57:49.492Z] [INFO] Search result found for HON. KASALU, IRENE MUTHONI: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:57:49.519Z] [WARN] No Wikipedia page found for HON. KASIWAI RAEL KASIWAI
+[2025-05-06T11:57:49.520Z] [INFO] Processed 100/349 MPs
+[2025-05-06T11:57:51.524Z] [INFO] Searching for Wikipedia page for: HON. KAMENE, JOYCE
+[2025-05-06T11:57:51.531Z] [INFO] Searching for Wikipedia page for: HON. KATANA PAUL KAHINDI
+[2025-05-06T11:57:51.537Z] [INFO] Searching for Wikipedia page for: HON. JUNET SHEIKH NUH MOHAMED
+[2025-05-06T11:57:51.545Z] [INFO] Searching for Wikipedia page for: HON. KAMKET KASSAIT WILLIAM
+[2025-05-06T11:57:51.551Z] [INFO] Searching for Wikipedia page for: HON. KAUNYA EDWARD OKU
+[2025-05-06T11:57:52.447Z] [WARN] No Wikipedia page found for HON. KAUNYA EDWARD OKU
+[2025-05-06T11:57:52.478Z] [INFO] Search result found for HON. JUNET SHEIKH NUH MOHAMED: https://en.wikipedia.org/wiki/Junet_Mohamed
+[2025-05-06T11:57:52.568Z] [WARN] No Wikipedia page found for HON. KATANA PAUL KAHINDI
+[2025-05-06T11:57:52.585Z] [INFO] Search result found for HON. KAMENE, JOYCE: https://en.wikipedia.org/wiki/Deaths_in_May_2024
+[2025-05-06T11:57:52.656Z] [WARN] No Wikipedia page found for HON. KAMKET KASSAIT WILLIAM
+[2025-05-06T11:57:52.661Z] [INFO] Processed 105/349 MPs
+[2025-05-06T11:57:54.679Z] [INFO] Searching for Wikipedia page for: HON. KAGESI ERNEST OGESI KIVAI
+[2025-05-06T11:57:54.683Z] [INFO] Searching for Wikipedia page for: HON. KAMUREN, CHARLES
+[2025-05-06T11:57:54.685Z] [INFO] Searching for Wikipedia page for: HON. KEMEI JUSTICE KIPSANG
+[2025-05-06T11:57:54.688Z] [INFO] Searching for Wikipedia page for: HON. KAGIRI JANE WANGECHI
+[2025-05-06T11:57:54.691Z] [INFO] Searching for Wikipedia page for: HON. KANCHORY, ELIJAH MEMUSI
+[2025-05-06T11:57:55.525Z] [WARN] No Wikipedia page found for HON. KAMUREN, CHARLES
+[2025-05-06T11:57:55.597Z] [INFO] Search result found for HON. KAGIRI JANE WANGECHI: https://en.wikipedia.org/wiki/Jane_Kagiri
+[2025-05-06T11:57:55.622Z] [WARN] No Wikipedia page found for HON. KANCHORY, ELIJAH MEMUSI
+[2025-05-06T11:57:55.661Z] [WARN] No Wikipedia page found for HON. KEMEI JUSTICE KIPSANG
+[2025-05-06T11:57:56.623Z] [WARN] No Wikipedia page found for HON. KAGESI ERNEST OGESI KIVAI
+[2025-05-06T11:57:56.625Z] [INFO] Processed 110/349 MPs
+[2025-05-06T11:57:58.645Z] [INFO] Searching for Wikipedia page for: HON. KAGOMBE GABRIEL GATHUKA
+[2025-05-06T11:57:58.655Z] [INFO] Searching for Wikipedia page for: HON. KEMEI, BEATRICE CHEPNGENO
+[2025-05-06T11:57:58.666Z] [INFO] Searching for Wikipedia page for: HON. KAGUCHIA JOHN PHILIP GICHOHI
+[2025-05-06T11:57:58.677Z] [INFO] Searching for Wikipedia page for: HON. KANDIE, JOSHUA CHEPYEGON
+[2025-05-06T11:57:58.684Z] [INFO] Searching for Wikipedia page for: HON. KEYNAN, WEHLIYE ADAN
+[2025-05-06T11:57:59.555Z] [WARN] No Wikipedia page found for HON. KAGUCHIA JOHN PHILIP GICHOHI
+[2025-05-06T11:57:59.902Z] [WARN] No Wikipedia page found for HON. KANDIE, JOSHUA CHEPYEGON
+[2025-05-06T11:58:00.124Z] [WARN] No Wikipedia page found for HON. KEMEI, BEATRICE CHEPNGENO
+[2025-05-06T11:58:00.185Z] [WARN] No Wikipedia page found for HON. KAGOMBE GABRIEL GATHUKA
+[2025-05-06T11:58:00.280Z] [INFO] Search result found for HON. KEYNAN, WEHLIYE ADAN: https://en.wikipedia.org/wiki/Adan_Keynan_Wehliye
+[2025-05-06T11:58:00.283Z] [INFO] Processed 115/349 MPs
+[2025-05-06T11:58:02.307Z] [INFO] Searching for Wikipedia page for: HON. KHAMISI MBOKO MISHI JUMA
+[2025-05-06T11:58:02.334Z] [INFO] Searching for Wikipedia page for: HON. KAHANGARA JOSEPH MBURU
+[2025-05-06T11:58:02.359Z] [INFO] Searching for Wikipedia page for: HON. KARANI STEPHEN WACHIRA
+[2025-05-06T11:58:02.366Z] [INFO] Searching for Wikipedia page for: HON. KARAURI, RONALD KAMWIKO
+[2025-05-06T11:58:02.381Z] [INFO] Searching for Wikipedia page for: HON. KIPKOROS, JOSEPH MAKILAP
+[2025-05-06T11:58:03.287Z] [WARN] No Wikipedia page found for HON. KARAURI, RONALD KAMWIKO
+[2025-05-06T11:58:03.384Z] [WARN] No Wikipedia page found for HON. KARANI STEPHEN WACHIRA
+[2025-05-06T11:58:03.443Z] [INFO] Search result found for HON. KHAMISI MBOKO MISHI JUMA: https://en.wikipedia.org/wiki/Mishi_Juma
+[2025-05-06T11:58:03.505Z] [WARN] No Wikipedia page found for HON. KIPKOROS, JOSEPH MAKILAP
+[2025-05-06T11:58:03.576Z] [INFO] Search result found for HON. KAHANGARA JOSEPH MBURU: https://en.wikipedia.org/wiki/Lari_Constituency
+[2025-05-06T11:58:03.578Z] [INFO] Processed 120/349 MPs
+[2025-05-06T11:58:05.586Z] [INFO] Searching for Wikipedia page for: HON. KOECH, NELSON
+[2025-05-06T11:58:05.594Z] [INFO] Searching for Wikipedia page for: HON. KIPLAGAT DAVID
+[2025-05-06T11:58:05.606Z] [INFO] Searching for Wikipedia page for: HON. KHODHE PHELIX ODIWUOR
+[2025-05-06T11:58:05.616Z] [INFO] Searching for Wikipedia page for: HON. KIAMBA SUZANNE NDUNGE
+[2025-05-06T11:58:05.627Z] [INFO] Searching for Wikipedia page for: HON. KIPYEGON, JOHANA NGENO
+[2025-05-06T11:58:06.858Z] [INFO] Search result found for HON. KIPYEGON, JOHANA NGENO: https://en.wikipedia.org/wiki/Emurua_Dikirr_Constituency
+[2025-05-06T11:58:06.876Z] [INFO] Search result found for HON. KHODHE PHELIX ODIWUOR: https://en.wikipedia.org/wiki/Phelix_Odiwuor
+[2025-05-06T11:58:06.887Z] [INFO] Search result found for HON. KOECH, NELSON: https://en.wikipedia.org/wiki/Kericho_High_School
+[2025-05-06T11:58:06.905Z] [INFO] Search result found for HON. KIPLAGAT DAVID: https://en.wikipedia.org/wiki/William_Ruto
+[2025-05-06T11:58:06.971Z] [WARN] No Wikipedia page found for HON. KIAMBA SUZANNE NDUNGE
+[2025-05-06T11:58:06.973Z] [INFO] Processed 125/349 MPs
+[2025-05-06T11:58:08.990Z] [INFO] Searching for Wikipedia page for: HON. KOMBE HARRISON GARAMA
+[2025-05-06T11:58:08.997Z] [INFO] Searching for Wikipedia page for: HON. KIRIMA MOSES NGUCHINE
+[2025-05-06T11:58:09.003Z] [INFO] Searching for Wikipedia page for: HON. KIARAHO, DAVID NJUGUNA
+[2025-05-06T11:58:09.012Z] [INFO] Searching for Wikipedia page for: HON. KOMINGOI KIBET KIRUI
+[2025-05-06T11:58:09.016Z] [INFO] Searching for Wikipedia page for: HON. KIBAGENDI, ANTONEY
+[2025-05-06T11:58:09.836Z] [WARN] No Wikipedia page found for HON. KOMINGOI KIBET KIRUI
+[2025-05-06T11:58:09.878Z] [INFO] Search result found for HON. KIARAHO, DAVID NJUGUNA: https://en.wikipedia.org/wiki/Nyandarua_County
+[2025-05-06T11:58:09.985Z] [WARN] No Wikipedia page found for HON. KIBAGENDI, ANTONEY
+[2025-05-06T11:58:10.135Z] [WARN] No Wikipedia page found for HON. KIRIMA MOSES NGUCHINE
+[2025-05-06T11:58:10.322Z] [WARN] No Wikipedia page found for HON. KOMBE HARRISON GARAMA
+[2025-05-06T11:58:10.326Z] [INFO] Processed 130/349 MPs
+[2025-05-06T11:58:12.348Z] [INFO] Searching for Wikipedia page for: HON. KORERE SARAH PAULATA
+[2025-05-06T11:58:12.354Z] [INFO] Searching for Wikipedia page for: HON. KIRWA ABRAHAM KIPSANG
+[2025-05-06T11:58:12.361Z] [INFO] Searching for Wikipedia page for: HON. KIHARA, JAYNE N.W
+[2025-05-06T11:58:12.369Z] [INFO] Searching for Wikipedia page for: HON. KORIR ADAMS KIPSANAI
+[2025-05-06T11:58:12.376Z] [INFO] Searching for Wikipedia page for: HON. KITANY MARIANNE
+[2025-05-06T11:58:13.204Z] [INFO] Search result found for HON. KITANY MARIANNE: https://en.wikipedia.org/wiki/Marianne_Jebet_Kitany
+[2025-05-06T11:58:13.377Z] [WARN] No Wikipedia page found for HON. KIHARA, JAYNE N.W
+[2025-05-06T11:58:13.446Z] [WARN] No Wikipedia page found for HON. KORIR ADAMS KIPSANAI
+[2025-05-06T11:58:13.476Z] [INFO] Search result found for HON. KORERE SARAH PAULATA: https://en.wikipedia.org/wiki/Sara_Korere
+[2025-05-06T11:58:13.824Z] [WARN] No Wikipedia page found for HON. KIRWA ABRAHAM KIPSANG
+[2025-05-06T11:58:13.828Z] [INFO] Processed 135/349 MPs
+[2025-05-06T11:58:15.845Z] [INFO] Searching for Wikipedia page for: HON. KIHUNGI PETER IRUNGU
+[2025-05-06T11:58:15.854Z] [INFO] Searching for Wikipedia page for: HON. KOSGEI HILARY KIPLANG’AT
+[2025-05-06T11:58:15.865Z] [INFO] Searching for Wikipedia page for: HON. KITI RICHARD KEN CHONGA
+[2025-05-06T11:58:15.874Z] [INFO] Searching for Wikipedia page for: HON. KILEL, RICHARD CHERUIYOT
+[2025-05-06T11:58:15.881Z] [INFO] Searching for Wikipedia page for: HON. KOYI JOHN WALUKE
+[2025-05-06T11:58:16.732Z] [INFO] Search result found for HON. KILEL, RICHARD CHERUIYOT: https://en.wikipedia.org/wiki/Bomet_Central_Constituency
+[2025-05-06T11:58:16.744Z] [INFO] Search result found for HON. KITI RICHARD KEN CHONGA: https://en.wikipedia.org/wiki/2015_Birthday_Honours
+[2025-05-06T11:58:16.782Z] [WARN] No Wikipedia page found for HON. KOYI JOHN WALUKE
+[2025-05-06T11:58:17.118Z] [WARN] No Wikipedia page found for HON. KOSGEI HILARY KIPLANG’AT
+[2025-05-06T11:58:17.180Z] [WARN] No Wikipedia page found for HON. KIHUNGI PETER IRUNGU
+[2025-05-06T11:58:17.183Z] [INFO] Processed 140/349 MPs
+[2025-05-06T11:58:19.200Z] [INFO] Searching for Wikipedia page for: HON. KITUR, BERNARD KIBOR
+[2025-05-06T11:58:19.210Z] [INFO] Searching for Wikipedia page for: HON. KIMILU, JOSHUA KIVINDA
+[2025-05-06T11:58:19.227Z] [INFO] Searching for Wikipedia page for: HON. KIUNJURI, MWANGI FESTUS
+[2025-05-06T11:58:19.254Z] [INFO] Searching for Wikipedia page for: HON. KUNO YAKUB ADOW
+[2025-05-06T11:58:19.263Z] [INFO] Searching for Wikipedia page for: HON. KING'OLA PATRICK MAKAU
+[2025-05-06T11:58:20.149Z] [INFO] Search result found for HON. KUNO YAKUB ADOW: https://en.wikipedia.org/wiki/Garissa_County
+[2025-05-06T11:58:20.183Z] [INFO] Search result found for HON. KING'OLA PATRICK MAKAU: https://en.wikipedia.org/wiki/Patrick_Makau_(politician)
+[2025-05-06T11:58:20.363Z] [INFO] Search result found for HON. KIUNJURI, MWANGI FESTUS: https://en.wikipedia.org/wiki/Mwangi_Kiunjuri
+[2025-05-06T11:58:20.437Z] [WARN] No Wikipedia page found for HON. KIMILU, JOSHUA KIVINDA
+[2025-05-06T11:58:20.558Z] [WARN] No Wikipedia page found for HON. KITUR, BERNARD KIBOR
+[2025-05-06T11:58:20.561Z] [INFO] Processed 145/349 MPs
+[2025-05-06T11:58:22.605Z] [INFO] Searching for Wikipedia page for: HON. KUNO, AMINA UDGOON SIYAD
+[2025-05-06T11:58:22.615Z] [INFO] Searching for Wikipedia page for: HON. KOECH KIPNGETICH VICTOR
+[2025-05-06T11:58:22.622Z] [INFO] Searching for Wikipedia page for: HON. KINGARA,  SIMON NGANGA
+[2025-05-06T11:58:22.631Z] [INFO] Searching for Wikipedia page for: HON. KURURIA ELIJAH NJORE NJOROGE
+[2025-05-06T11:58:22.639Z] [INFO] Searching for Wikipedia page for: HON. LUYAI, CALEB AMISI
+[2025-05-06T11:58:23.473Z] [WARN] No Wikipedia page found for HON. KURURIA ELIJAH NJORE NJOROGE
+[2025-05-06T11:58:23.500Z] [WARN] No Wikipedia page found for HON. LUYAI, CALEB AMISI
+[2025-05-06T11:58:23.618Z] [WARN] No Wikipedia page found for HON. KINGARA,  SIMON NGANGA
+[2025-05-06T11:58:23.724Z] [INFO] Search result found for HON. KUNO, AMINA UDGOON SIYAD: https://en.wikipedia.org/wiki/Garissa_County
+[2025-05-06T11:58:23.764Z] [WARN] No Wikipedia page found for HON. KOECH KIPNGETICH VICTOR
+[2025-05-06T11:58:23.766Z] [INFO] Processed 150/349 MPs
+[2025-05-06T11:58:25.776Z] [INFO] Searching for Wikipedia page for: HON. MARUBU MUTHONI MONICAH
+[2025-05-06T11:58:25.785Z] [INFO] Searching for Wikipedia page for: HON. LEKUTON JOSEPH
+[2025-05-06T11:58:25.795Z] [INFO] Searching for Wikipedia page for: HON. MAALIM, FARAH
+[2025-05-06T11:58:25.802Z] [INFO] Searching for Wikipedia page for: HON. LELMENGIT, JOSSES KIPTOO KOSGEY
+[2025-05-06T11:58:25.813Z] [INFO] Searching for Wikipedia page for: HON. MASARA PETER FRANCIS
+[2025-05-06T11:58:26.570Z] [WARN] No Wikipedia page found for HON. LELMENGIT, JOSSES KIPTOO KOSGEY
+[2025-05-06T11:58:26.661Z] [INFO] Search result found for HON. MAALIM, FARAH: https://en.wikipedia.org/wiki/Farah_Maalim
+[2025-05-06T11:58:26.724Z] [INFO] Search result found for HON. MASARA PETER FRANCIS: https://en.wikipedia.org/wiki/Suna_West_Constituency
+[2025-05-06T11:58:26.762Z] [INFO] Search result found for HON. LEKUTON JOSEPH: https://en.wikipedia.org/wiki/Laisamis_Constituency
+[2025-05-06T11:58:26.891Z] [WARN] No Wikipedia page found for HON. MARUBU MUTHONI MONICAH
+[2025-05-06T11:58:26.893Z] [INFO] Processed 155/349 MPs
+[2025-05-06T11:58:28.913Z] [INFO] Searching for Wikipedia page for: HON. MACHELE MOHAMED SOUD
+[2025-05-06T11:58:28.919Z] [INFO] Searching for Wikipedia page for: HON. LEMANKEN ARAMAT
+[2025-05-06T11:58:28.926Z] [INFO] Searching for Wikipedia page for: HON. MAINA JANE NJERI
+[2025-05-06T11:58:28.937Z] [INFO] Searching for Wikipedia page for: HON. MASITO, FATUMA HAMISI
+[2025-05-06T11:58:28.946Z] [INFO] Searching for Wikipedia page for: HON. LENGURIS PAULINE
+[2025-05-06T11:58:29.754Z] [WARN] No Wikipedia page found for HON. LENGURIS PAULINE
+[2025-05-06T11:58:29.799Z] [INFO] Search result found for HON. MAINA JANE NJERI: https://en.wikipedia.org/wiki/Jane_Njeri_Maina
+[2025-05-06T11:58:29.891Z] [WARN] No Wikipedia page found for HON. MASITO, FATUMA HAMISI
+[2025-05-06T11:58:30.054Z] [INFO] Search result found for HON. LEMANKEN ARAMAT: https://en.wikipedia.org/wiki/Narok_East_Constituency
+[2025-05-06T11:58:30.343Z] [INFO] Search result found for HON. MACHELE MOHAMED SOUD: https://en.wikipedia.org/wiki/Nicholas_Biwott
+[2025-05-06T11:58:30.346Z] [INFO] Processed 160/349 MPs
+[2025-05-06T11:58:32.361Z] [INFO] Searching for Wikipedia page for: HON. MAINA, BETTY NJERI
+[2025-05-06T11:58:32.368Z] [INFO] Searching for Wikipedia page for: HON. MATHENGE DUNCAN MAINA
+[2025-05-06T11:58:32.375Z] [INFO] Searching for Wikipedia page for: HON. LENTOIJONI, JACKSON LEKUMONTARE
+[2025-05-06T11:58:32.384Z] [INFO] Searching for Wikipedia page for: HON. MAINGI MARY
+[2025-05-06T11:58:32.391Z] [INFO] Searching for Wikipedia page for: HON. LESUUDA, NAISULA
+[2025-05-06T11:58:33.099Z] [INFO] Search result found for HON. LESUUDA, NAISULA: https://en.wikipedia.org/wiki/Naisula_Lesuuda
+[2025-05-06T11:58:33.306Z] [WARN] No Wikipedia page found for HON. LENTOIJONI, JACKSON LEKUMONTARE
+[2025-05-06T11:58:33.447Z] [WARN] No Wikipedia page found for HON. MAINA, BETTY NJERI
+[2025-05-06T11:58:33.686Z] [INFO] Search result found for HON. MAINGI MARY: https://en.wikipedia.org/wiki/Mwaura_Isaac_Maigua
+[2025-05-06T11:58:33.734Z] [INFO] Search result found for HON. MATHENGE DUNCAN MAINA: https://en.wikipedia.org/wiki/Uhuru_Kenyatta
+[2025-05-06T11:58:33.738Z] [INFO] Processed 165/349 MPs
+[2025-05-06T11:58:35.749Z] [INFO] Searching for Wikipedia page for: HON. MAWATHE JULIUS MUSILI
+[2025-05-06T11:58:35.757Z] [INFO] Searching for Wikipedia page for: HON. LETIPILA, DOMINIC ELI
+[2025-05-06T11:58:35.763Z] [INFO] Searching for Wikipedia page for: HON. MAYAKA IRENE NYAKERARIO
+[2025-05-06T11:58:35.772Z] [INFO] Searching for Wikipedia page for: HON. MAISORI MARWA KEMERO KITAYAMA
+[2025-05-06T11:58:35.779Z] [INFO] Searching for Wikipedia page for: HON. MAJIMBO, KALASINGA
+[2025-05-06T11:58:36.746Z] [WARN] No Wikipedia page found for HON. MAISORI MARWA KEMERO KITAYAMA
+[2025-05-06T11:58:36.868Z] [WARN] No Wikipedia page found for HON. LETIPILA, DOMINIC ELI
+[2025-05-06T11:58:37.084Z] [WARN] No Wikipedia page found for HON. MAYAKA IRENE NYAKERARIO
+[2025-05-06T11:58:37.170Z] [WARN] No Wikipedia page found for HON. MAJIMBO, KALASINGA
+[2025-05-06T11:58:37.258Z] [WARN] No Wikipedia page found for HON. MAWATHE JULIUS MUSILI
+[2025-05-06T11:58:37.260Z] [INFO] Processed 170/349 MPs
+[2025-05-06T11:58:39.290Z] [INFO] Searching for Wikipedia page for: HON. MBAI, NIMROD MBITHUKA
+[2025-05-06T11:58:39.296Z] [INFO] Searching for Wikipedia page for: HON. MAKALI JOHN OKWISIA
+[2025-05-06T11:58:39.303Z] [INFO] Searching for Wikipedia page for: HON. LOCHAKAPONG, PETER
+[2025-05-06T11:58:39.311Z] [INFO] Searching for Wikipedia page for: HON. MANDUKU, DANIEL OGWOKA
+[2025-05-06T11:58:39.318Z] [INFO] Searching for Wikipedia page for: HON. LOMWA JOSEPH SAMAL
+[2025-05-06T11:58:40.187Z] [INFO] Search result found for HON. LOMWA JOSEPH SAMAL: https://en.wikipedia.org/wiki/Joseph_Lomwa
+[2025-05-06T11:58:40.202Z] [WARN] No Wikipedia page found for HON. MANDUKU, DANIEL OGWOKA
+[2025-05-06T11:58:40.246Z] [WARN] No Wikipedia page found for HON. MAKALI JOHN OKWISIA
+[2025-05-06T11:58:40.458Z] [WARN] No Wikipedia page found for HON. LOCHAKAPONG, PETER
+[2025-05-06T11:58:41.049Z] [INFO] Search result found for HON. MBAI, NIMROD MBITHUKA: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:58:41.052Z] [INFO] Processed 175/349 MPs
+[2025-05-06T11:58:43.073Z] [INFO] Searching for Wikipedia page for: HON. MBALU JESSICA NDUKU KIKO
+[2025-05-06T11:58:43.079Z] [INFO] Searching for Wikipedia page for: HON. LOTEE TITUS
+[2025-05-06T11:58:43.085Z] [INFO] Searching for Wikipedia page for: HON. MBONI, DAVID MWALIKA
+[2025-05-06T11:58:43.093Z] [INFO] Searching for Wikipedia page for: HON. MBUI, ROBERT
+[2025-05-06T11:58:43.099Z] [INFO] Searching for Wikipedia page for: HON. MELI, JULIUS KIPBIRWOT
+[2025-05-06T11:58:44.063Z] [WARN] No Wikipedia page found for HON. MBUI, ROBERT
+[2025-05-06T11:58:44.084Z] [INFO] Search result found for HON. MBONI, DAVID MWALIKA: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:58:44.360Z] [WARN] No Wikipedia page found for HON. MELI, JULIUS KIPBIRWOT
+[2025-05-06T11:58:44.398Z] [WARN] No Wikipedia page found for HON. MBALU JESSICA NDUKU KIKO
+[2025-05-06T11:58:44.818Z] [INFO] Search result found for HON. LOTEE TITUS: https://en.wikipedia.org/wiki/John_Chikati
+[2025-05-06T11:58:44.822Z] [INFO] Processed 180/349 MPs
+[2025-05-06T11:58:46.842Z] [INFO] Searching for Wikipedia page for: HON. MULE CALEB MUTISO
+[2025-05-06T11:58:46.850Z] [INFO] Searching for Wikipedia page for: HON. MOMANYI JERUSHA MONGINA
+[2025-05-06T11:58:46.859Z] [INFO] Searching for Wikipedia page for: HON. MIZIGHI LYDIA HAIKA
+[2025-05-06T11:58:46.867Z] [INFO] Searching for Wikipedia page for: HON. MREMBO IRENE NJOKI
+[2025-05-06T11:58:46.877Z] [INFO] Searching for Wikipedia page for: HON. MULE STEPHEN MUTINDA
+[2025-05-06T11:58:47.709Z] [INFO] Search result found for HON. MULE STEPHEN MUTINDA: https://en.wikipedia.org/wiki/Matungulu_Constituency
+[2025-05-06T11:58:47.823Z] [WARN] No Wikipedia page found for HON. MIZIGHI LYDIA HAIKA
+[2025-05-06T11:58:47.991Z] [WARN] No Wikipedia page found for HON. MREMBO IRENE NJOKI
+[2025-05-06T11:58:48.028Z] [WARN] No Wikipedia page found for HON. MULE CALEB MUTISO
+[2025-05-06T11:58:48.740Z] [WARN] No Wikipedia page found for HON. MOMANYI JERUSHA MONGINA
+[2025-05-06T11:58:48.743Z] [INFO] Processed 185/349 MPs
+[2025-05-06T11:58:50.765Z] [INFO] Searching for Wikipedia page for: HON. MNYAZI AMINA LAURA
+[2025-05-06T11:58:50.769Z] [INFO] Searching for Wikipedia page for: HON. MUCHIRA, MICHAEL MWANGI
+[2025-05-06T11:58:50.771Z] [INFO] Searching for Wikipedia page for: HON. MULI FABIAN KYULE
+[2025-05-06T11:58:50.774Z] [INFO] Searching for Wikipedia page for: HON. MOGAKA STEPHEN
+[2025-05-06T11:58:50.776Z] [INFO] Searching for Wikipedia page for: HON. MUGABE INNOCENT MAINO
+[2025-05-06T11:58:51.606Z] [WARN] No Wikipedia page found for HON. MULI FABIAN KYULE
+[2025-05-06T11:58:51.664Z] [INFO] Search result found for HON. MOGAKA STEPHEN: https://en.wikipedia.org/wiki/West_Mugirango_Constituency
+[2025-05-06T11:58:51.684Z] [WARN] No Wikipedia page found for HON. MUGABE INNOCENT MAINO
+[2025-05-06T11:58:51.731Z] [INFO] Search result found for HON. MUCHIRA, MICHAEL MWANGI: https://en.wikipedia.org/wiki/Nyandarua_County
+[2025-05-06T11:58:51.811Z] [WARN] No Wikipedia page found for HON. MNYAZI AMINA LAURA
+[2025-05-06T11:58:51.812Z] [INFO] Processed 190/349 MPs
+[2025-05-06T11:58:53.820Z] [INFO] Searching for Wikipedia page for: HON. MULU MAKALI
+[2025-05-06T11:58:53.822Z] [INFO] Searching for Wikipedia page for: HON. MOHAMED ABDIKADIR HUSSEIN
+[2025-05-06T11:58:53.824Z] [INFO] Searching for Wikipedia page for: HON. MUGE CYNTHIA JEPKOSGEI
+[2025-05-06T11:58:53.825Z] [INFO] Searching for Wikipedia page for: HON. MULYUNGI, GIDEON MUTEMI
+[2025-05-06T11:58:53.828Z] [INFO] Searching for Wikipedia page for: HON. MOHAMED ADEN DAUDI
+[2025-05-06T11:58:54.662Z] [INFO] Search result found for HON. MOHAMED ADEN DAUDI: https://en.wikipedia.org/wiki/Gadabuursi
+[2025-05-06T11:58:54.688Z] [INFO] Search result found for HON. MULYUNGI, GIDEON MUTEMI: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:58:54.735Z] [WARN] No Wikipedia page found for HON. MUGE CYNTHIA JEPKOSGEI
+[2025-05-06T11:58:54.841Z] [INFO] Search result found for HON. MOHAMED ABDIKADIR HUSSEIN: https://en.wikipedia.org/wiki/Adan_Nooru
+[2025-05-06T11:58:55.198Z] [INFO] Search result found for HON. MULU MAKALI: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:58:55.200Z] [INFO] Processed 195/349 MPs
+[2025-05-06T11:58:57.205Z] [INFO] Searching for Wikipedia page for: HON. MUHANDA ELSIE BUSIHILE
+[2025-05-06T11:58:57.207Z] [INFO] Searching for Wikipedia page for: HON. MUMO, ROSE MUSEO
+[2025-05-06T11:58:57.210Z] [INFO] Searching for Wikipedia page for: HON. MOHAMED MOHAMED ALI
+[2025-05-06T11:58:57.212Z] [INFO] Searching for Wikipedia page for: HON. MUHIA WANJIKU
+[2025-05-06T11:58:57.217Z] [INFO] Searching for Wikipedia page for: HON. MUNYORO JOSEPH KAMAU
+[2025-05-06T11:58:58.226Z] [INFO] Search result found for HON. MUNYORO JOSEPH KAMAU: https://en.wikipedia.org/wiki/Kigumo_Constituency
+[2025-05-06T11:58:58.241Z] [INFO] Search result found for HON. MUHIA WANJIKU: https://en.wikipedia.org/wiki/Wanjiku_Muhia
+[2025-05-06T11:58:58.311Z] [WARN] No Wikipedia page found for HON. MUHANDA ELSIE BUSIHILE
+[2025-05-06T11:58:58.419Z] [WARN] No Wikipedia page found for HON. MUMO, ROSE MUSEO
+[2025-05-06T11:58:58.465Z] [INFO] Search result found for HON. MOHAMED MOHAMED ALI: https://en.wikipedia.org/wiki/Mohammad_Ali_(Kenyan_politician)
+[2025-05-06T11:58:58.467Z] [INFO] Processed 200/349 MPs
+[2025-05-06T11:59:00.478Z] [INFO] Searching for Wikipedia page for: HON. MOHAMED UMULKHER HARUN
+[2025-05-06T11:59:00.480Z] [INFO] Searching for Wikipedia page for: HON. MUKHWANA TITUS KHAMALA
+[2025-05-06T11:59:00.482Z] [INFO] Searching for Wikipedia page for: HON. MUPE ANTHONY KENGA
+[2025-05-06T11:59:00.484Z] [INFO] Searching for Wikipedia page for: HON. MOHAMMED FATUMA ZAINAB
+[2025-05-06T11:59:00.488Z] [INFO] Searching for Wikipedia page for: HON. MUKUNJI JOHN GITONGA MWANIKI
+[2025-05-06T11:59:01.326Z] [WARN] No Wikipedia page found for HON. MOHAMED UMULKHER HARUN
+[2025-05-06T11:59:01.471Z] [INFO] Search result found for HON. MOHAMMED FATUMA ZAINAB: https://en.wikipedia.org/wiki/List_of_guests_at_the_coronation_of_Charles_III_and_Camilla
+[2025-05-06T11:59:01.493Z] [WARN] No Wikipedia page found for HON. MUKUNJI JOHN GITONGA MWANIKI
+[2025-05-06T11:59:01.512Z] [WARN] No Wikipedia page found for HON. MUKHWANA TITUS KHAMALA
+[2025-05-06T11:59:02.009Z] [INFO] Search result found for HON. MUPE ANTHONY KENGA: https://en.wikipedia.org/wiki/Deaths_in_November_2024
+[2025-05-06T11:59:02.010Z] [INFO] Processed 205/349 MPs
+[2025-05-06T11:59:04.028Z] [INFO] Searching for Wikipedia page for: HON. MURATHA ANNE WANJIKU MUGO
+[2025-05-06T11:59:04.031Z] [INFO] Searching for Wikipedia page for: HON. MOHAMMED ZAMZAM CHIMBA
+[2025-05-06T11:59:04.033Z] [INFO] Searching for Wikipedia page for: HON. MULANYA EKESA GEOFFREY
+[2025-05-06T11:59:04.037Z] [INFO] Searching for Wikipedia page for: HON. MURIU WAKILI EDWARD
+[2025-05-06T11:59:04.043Z] [INFO] Searching for Wikipedia page for: HON. MWALE NICHOLAS SCOTT TINDI
+[2025-05-06T11:59:04.914Z] [WARN] No Wikipedia page found for HON. MWALE NICHOLAS SCOTT TINDI
+[2025-05-06T11:59:04.948Z] [WARN] No Wikipedia page found for HON. MULANYA EKESA GEOFFREY
+[2025-05-06T11:59:04.955Z] [WARN] No Wikipedia page found for HON. MURIU WAKILI EDWARD
+[2025-05-06T11:59:05.075Z] [WARN] No Wikipedia page found for HON. MOHAMMED ZAMZAM CHIMBA
+[2025-05-06T11:59:05.185Z] [WARN] No Wikipedia page found for HON. MURATHA ANNE WANJIKU MUGO
+[2025-05-06T11:59:05.186Z] [INFO] Processed 210/349 MPs
+[2025-05-06T11:59:07.199Z] [INFO] Searching for Wikipedia page for: HON. MURIUKI NEBART BERNARD
+[2025-05-06T11:59:07.203Z] [INFO] Searching for Wikipedia page for: HON. MWALYO, JOSHUA MBITHI
+[2025-05-06T11:59:07.205Z] [INFO] Searching for Wikipedia page for: HON. MURUGARA GEORGE GITONGA
+[2025-05-06T11:59:07.208Z] [INFO] Searching for Wikipedia page for: HON. MWANGI GEOFFREY WANDETO
+[2025-05-06T11:59:07.210Z] [INFO] Searching for Wikipedia page for: HON. MUSAU, VINCENT MUSYOKA
+[2025-05-06T11:59:08.125Z] [WARN] No Wikipedia page found for HON. MWALYO, JOSHUA MBITHI
+[2025-05-06T11:59:08.144Z] [INFO] Search result found for HON. MWANGI GEOFFREY WANDETO: https://en.wikipedia.org/wiki/William_Ruto
+[2025-05-06T11:59:08.233Z] [INFO] Search result found for HON. MURUGARA GEORGE GITONGA: https://en.wikipedia.org/wiki/Tharaka_Constituency
+[2025-05-06T11:59:08.242Z] [INFO] Search result found for HON. MURIUKI NEBART BERNARD: https://en.wikipedia.org/wiki/Mbeere_South_Constituency
+[2025-05-06T11:59:08.510Z] [WARN] No Wikipedia page found for HON. MUSAU, VINCENT MUSYOKA
+[2025-05-06T11:59:08.511Z] [INFO] Processed 215/349 MPs
+[2025-05-06T11:59:10.524Z] [INFO] Searching for Wikipedia page for: HON. MWANGI TERESIA WANJIRU
+[2025-05-06T11:59:10.527Z] [INFO] Searching for Wikipedia page for: HON. MUTAI KIPRONOH ALFRED
+[2025-05-06T11:59:10.529Z] [INFO] Searching for Wikipedia page for: HON. NAMUAR JOSEPH EMATHE
+[2025-05-06T11:59:10.530Z] [INFO] Searching for Wikipedia page for: HON. MWANYANJE GERTRUDE MBEYU
+[2025-05-06T11:59:10.533Z] [INFO] Searching for Wikipedia page for: HON. MUTHAMA STANLEY MUIRURI
+[2025-05-06T11:59:11.242Z] [WARN] No Wikipedia page found for HON. NAMUAR JOSEPH EMATHE
+[2025-05-06T11:59:11.359Z] [WARN] No Wikipedia page found for HON. MWANYANJE GERTRUDE MBEYU
+[2025-05-06T11:59:11.418Z] [INFO] Search result found for HON. MWANGI TERESIA WANJIRU: https://en.wikipedia.org/wiki/Mwai_Kibaki
+[2025-05-06T11:59:11.514Z] [WARN] No Wikipedia page found for HON. MUTAI KIPRONOH ALFRED
+[2025-05-06T11:59:11.946Z] [INFO] Search result found for HON. MUTHAMA STANLEY MUIRURI: https://en.wikipedia.org/wiki/Lamu_County
+[2025-05-06T11:59:11.947Z] [INFO] Processed 220/349 MPs
+[2025-05-06T11:59:13.954Z] [INFO] Searching for Wikipedia page for: HON. NANOK, DANIEL EPUYO
+[2025-05-06T11:59:13.957Z] [INFO] Searching for Wikipedia page for: HON. MWENJE MARK SAMUEL MURIITHI
+[2025-05-06T11:59:13.959Z] [INFO] Searching for Wikipedia page for: HON. MUTUA, DIDMUS WEKESA BARASA
+[2025-05-06T11:59:13.961Z] [INFO] Searching for Wikipedia page for: HON. NDUNG’U, GEORGE KOIMBURI
+[2025-05-06T11:59:13.963Z] [INFO] Searching for Wikipedia page for: HON. MWIRIGI JOHN PAUL
+[2025-05-06T11:59:14.747Z] [INFO] Search result found for HON. MWIRIGI JOHN PAUL: https://en.wikipedia.org/wiki/Baby_of_the_House
+[2025-05-06T11:59:14.876Z] [WARN] No Wikipedia page found for HON. NDUNG’U, GEORGE KOIMBURI
+[2025-05-06T11:59:14.932Z] [INFO] Search result found for HON. MUTUA, DIDMUS WEKESA BARASA: https://en.wikipedia.org/wiki/Didmus_Wekesa_Barasa
+[2025-05-06T11:59:14.974Z] [WARN] No Wikipedia page found for HON. NANOK, DANIEL EPUYO
+[2025-05-06T11:59:15.221Z] [WARN] No Wikipedia page found for HON. MWENJE MARK SAMUEL MURIITHI
+[2025-05-06T11:59:15.223Z] [INFO] Processed 225/349 MPs
+[2025-05-06T11:59:17.243Z] [INFO] Searching for Wikipedia page for: HON. MUTUSE ECKOMAS MWENGI
+[2025-05-06T11:59:17.247Z] [INFO] Searching for Wikipedia page for: HON. NDUYO SUSAN NGUGI
+[2025-05-06T11:59:17.250Z] [INFO] Searching for Wikipedia page for: HON. NABII NABWERA DARAJA
+[2025-05-06T11:59:17.254Z] [INFO] Searching for Wikipedia page for: HON. MWAFRIKA AUGUSTINE KAMANDE
+[2025-05-06T11:59:17.258Z] [INFO] Searching for Wikipedia page for: HON. NGANGA ALICE WAMBUI
+[2025-05-06T11:59:18.082Z] [WARN] No Wikipedia page found for HON. NGANGA ALICE WAMBUI
+[2025-05-06T11:59:18.100Z] [WARN] No Wikipedia page found for HON. MWAFRIKA AUGUSTINE KAMANDE
+[2025-05-06T11:59:18.207Z] [INFO] Search result found for HON. NABII NABWERA DARAJA: https://en.wikipedia.org/wiki/Tachoni
+[2025-05-06T11:59:18.263Z] [WARN] No Wikipedia page found for HON. NDUYO SUSAN NGUGI
+[2025-05-06T11:59:18.577Z] [WARN] No Wikipedia page found for HON. MUTUSE ECKOMAS MWENGI
+[2025-05-06T11:59:18.579Z] [INFO] Processed 230/349 MPs
+[2025-05-06T11:59:20.594Z] [INFO] Searching for Wikipedia page for: HON. NABULINDO, PETER OSCAR
+[2025-05-06T11:59:20.599Z] [INFO] Searching for Wikipedia page for: HON. MWAGO AMOS MAINA
+[2025-05-06T11:59:20.605Z] [INFO] Searching for Wikipedia page for: HON. NGIKOLONG NICHOLAS NGIKOR NIXON
+[2025-05-06T11:59:20.615Z] [INFO] Searching for Wikipedia page for: HON. MWAKUWONA DANSON MWASHAKO
+[2025-05-06T11:59:20.620Z] [INFO] Searching for Wikipedia page for: HON. NAICCA JOHNSON MANYA
+[2025-05-06T11:59:21.307Z] [WARN] No Wikipedia page found for HON. MWAKUWONA DANSON MWASHAKO
+[2025-05-06T11:59:21.546Z] [WARN] No Wikipedia page found for HON. NAICCA JOHNSON MANYA
+[2025-05-06T11:59:21.578Z] [WARN] No Wikipedia page found for HON. NGIKOLONG NICHOLAS NGIKOR NIXON
+[2025-05-06T11:59:21.640Z] [WARN] No Wikipedia page found for HON. MWAGO AMOS MAINA
+[2025-05-06T11:59:21.671Z] [WARN] No Wikipedia page found for HON. NABULINDO, PETER OSCAR
+[2025-05-06T11:59:21.673Z] [INFO] Processed 235/349 MPs
+[2025-05-06T11:59:23.694Z] [INFO] Searching for Wikipedia page for: HON. NGITIT, CECILIA ASINYEN
+[2025-05-06T11:59:23.701Z] [INFO] Searching for Wikipedia page for: HON. NGUNA, NGUSYA CHARLES
+[2025-05-06T11:59:23.709Z] [INFO] Searching for Wikipedia page for: HON. NGURO ONESMUS NGOGOYO
+[2025-05-06T11:59:23.719Z] [INFO] Searching for Wikipedia page for: HON. NG’ELECHEI CAROLINE JEPTOO
+[2025-05-06T11:59:23.729Z] [INFO] Searching for Wikipedia page for: HON. NYIKAL WAMBURA JAMES
+[2025-05-06T11:59:24.570Z] [WARN] No Wikipedia page found for HON. NYIKAL WAMBURA JAMES
+[2025-05-06T11:59:24.646Z] [WARN] No Wikipedia page found for HON. NG’ELECHEI CAROLINE JEPTOO
+[2025-05-06T11:59:24.661Z] [INFO] Search result found for HON. NGUNA, NGUSYA CHARLES: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:59:24.742Z] [WARN] No Wikipedia page found for HON. NGURO ONESMUS NGOGOYO
+[2025-05-06T11:59:25.014Z] [WARN] No Wikipedia page found for HON. NGITIT, CECILIA ASINYEN
+[2025-05-06T11:59:25.017Z] [INFO] Processed 240/349 MPs
+[2025-05-06T11:59:27.038Z] [INFO] Searching for Wikipedia page for: HON. ODHIAMBO, ELISHA OCHIENG
+[2025-05-06T11:59:27.047Z] [INFO] Searching for Wikipedia page for: HON. NG’ONGO JOHN MBADI
+[2025-05-06T11:59:27.060Z] [INFO] Searching for Wikipedia page for: HON. NYORO, SAMSON NDINDI
+[2025-05-06T11:59:27.068Z] [INFO] Searching for Wikipedia page for: HON. NZENGU, PAUL MUSYIMI
+[2025-05-06T11:59:27.075Z] [INFO] Searching for Wikipedia page for: HON. NJERU PAMELA NJOKI
+[2025-05-06T11:59:27.937Z] [WARN] No Wikipedia page found for HON. NJERU PAMELA NJOKI
+[2025-05-06T11:59:27.961Z] [INFO] Search result found for HON. ODHIAMBO, ELISHA OCHIENG: https://en.wikipedia.org/wiki/Gem_Constituency
+[2025-05-06T11:59:27.976Z] [INFO] Search result found for HON. NZENGU, PAUL MUSYIMI: https://en.wikipedia.org/wiki/Kitui_County
+[2025-05-06T11:59:28.000Z] [WARN] No Wikipedia page found for HON. NG’ONGO JOHN MBADI
+[2025-05-06T11:59:28.225Z] [INFO] Search result found for HON. NYORO, SAMSON NDINDI: https://en.wikipedia.org/wiki/Ndindi_Nyoro
+[2025-05-06T11:59:28.228Z] [INFO] Processed 245/349 MPs
+[2025-05-06T11:59:30.271Z] [INFO] Searching for Wikipedia page for: HON. NZIOKA ERASTUS KIVASU
+[2025-05-06T11:59:30.279Z] [INFO] Searching for Wikipedia page for: HON. NJOROGE MARY WAMAUA WAITHIRA
+[2025-05-06T11:59:30.287Z] [INFO] Searching for Wikipedia page for: HON. OBARA EVE AKINYI
+[2025-05-06T11:59:30.294Z] [INFO] Searching for Wikipedia page for: HON. NTUTU KITILAI OLE
+[2025-05-06T11:59:30.307Z] [INFO] Searching for Wikipedia page for: HON. NTWIGA PATRICK MUNENE
+[2025-05-06T11:59:31.198Z] [INFO] Search result found for HON. OBARA EVE AKINYI: https://en.wikipedia.org/wiki/Eve_Akinyi_Obara
+[2025-05-06T11:59:31.229Z] [WARN] No Wikipedia page found for HON. NTWIGA PATRICK MUNENE
+[2025-05-06T11:59:31.322Z] [INFO] Search result found for HON. NJOROGE MARY WAMAUA WAITHIRA: https://en.wikipedia.org/wiki/Mary_Wamaua_Waithira_Njoroge
+[2025-05-06T11:59:31.431Z] [WARN] No Wikipedia page found for HON. NZIOKA ERASTUS KIVASU
+[2025-05-06T11:59:31.864Z] [WARN] No Wikipedia page found for HON. NTUTU KITILAI OLE
+[2025-05-06T11:59:31.866Z] [INFO] Processed 250/349 MPs
+[2025-05-06T11:59:33.875Z] [INFO] Searching for Wikipedia page for: HON. OBIRI, INNOCENT MOMANYI
+[2025-05-06T11:59:33.878Z] [INFO] Searching for Wikipedia page for: HON. ODHIAMBO, MILLIE GRACE AKOTH
+[2025-05-06T11:59:33.881Z] [INFO] Searching for Wikipedia page for: HON. OBO RUWEIDA MOHAMED
+[2025-05-06T11:59:33.885Z] [INFO] Searching for Wikipedia page for: HON. NYAKUNDI JAPHETH MOKAYA
+[2025-05-06T11:59:33.888Z] [INFO] Searching for Wikipedia page for: HON. OGOLLA. GIDEON OCHANDA
+[2025-05-06T11:59:34.738Z] [WARN] No Wikipedia page found for HON. OBIRI, INNOCENT MOMANYI
+[2025-05-06T11:59:34.881Z] [WARN] No Wikipedia page found for HON. OGOLLA. GIDEON OCHANDA
+[2025-05-06T11:59:34.923Z] [INFO] Search result found for HON. OBO RUWEIDA MOHAMED: https://en.wikipedia.org/wiki/Lamu_County
+[2025-05-06T11:59:35.025Z] [INFO] Search result found for HON. ODHIAMBO, MILLIE GRACE AKOTH: https://en.wikipedia.org/wiki/Millie_Odhiambo
+[2025-05-06T11:59:35.103Z] [WARN] No Wikipedia page found for HON. NYAKUNDI JAPHETH MOKAYA
+[2025-05-06T11:59:35.107Z] [INFO] Processed 255/349 MPs
+[2025-05-06T11:59:37.134Z] [INFO] Searching for Wikipedia page for: HON. OKELO, JARED ODOYO
+[2025-05-06T11:59:37.145Z] [INFO] Searching for Wikipedia page for: HON. NYAMAI RACHAEL KAKI
+[2025-05-06T11:59:37.156Z] [INFO] Searching for Wikipedia page for: HON. OCHIENG DAVID OUMA
+[2025-05-06T11:59:37.164Z] [INFO] Searching for Wikipedia page for: HON. OKUOME ADIPO ANDREW
+[2025-05-06T11:59:37.175Z] [INFO] Searching for Wikipedia page for: HON. ODANGA, GEOFFREY MAKOKHA
+[2025-05-06T11:59:38.118Z] [INFO] Search result found for HON. OKELO, JARED ODOYO: https://en.wikipedia.org/wiki/Nyando_Constituency
+[2025-05-06T11:59:38.135Z] [WARN] No Wikipedia page found for HON. OKUOME ADIPO ANDREW
+[2025-05-06T11:59:38.185Z] [WARN] No Wikipedia page found for HON. OCHIENG DAVID OUMA
+[2025-05-06T11:59:38.494Z] [WARN] No Wikipedia page found for HON. ODANGA, GEOFFREY MAKOKHA
+[2025-05-06T11:59:38.596Z] [INFO] Search result found for HON. NYAMAI RACHAEL KAKI: https://en.wikipedia.org/wiki/Rachael_Kaki_Nyamai
+[2025-05-06T11:59:38.600Z] [INFO] Processed 260/349 MPs
+[2025-05-06T11:59:40.627Z] [INFO] Searching for Wikipedia page for: HON. NYAMITA MARK OGOLLA
+[2025-05-06T11:59:40.636Z] [INFO] Searching for Wikipedia page for: HON. ODEGE TOM MBOYA
+[2025-05-06T11:59:40.645Z] [INFO] Searching for Wikipedia page for: HON. NYAMOKO, JOASH NYAMACHE
+[2025-05-06T11:59:40.653Z] [INFO] Searching for Wikipedia page for: HON. OLUOCH, ANTHONY TOM
+[2025-05-06T11:59:40.660Z] [INFO] Searching for Wikipedia page for: HON. NYENZE EDITH VETHI
+[2025-05-06T11:59:41.357Z] [WARN] No Wikipedia page found for HON. NYAMOKO, JOASH NYAMACHE
+[2025-05-06T11:59:41.697Z] [WARN] No Wikipedia page found for HON. OLUOCH, ANTHONY TOM
+[2025-05-06T11:59:41.728Z] [WARN] No Wikipedia page found for HON. NYENZE EDITH VETHI
+[2025-05-06T11:59:41.836Z] [INFO] Search result found for HON. NYAMITA MARK OGOLLA: https://en.wikipedia.org/wiki/Uriri_Constituency
+[2025-05-06T11:59:42.310Z] [WARN] No Wikipedia page found for HON. ODEGE TOM MBOYA
+[2025-05-06T11:59:42.312Z] [INFO] Processed 265/349 MPs
+[2025-05-06T11:59:44.331Z] [INFO] Searching for Wikipedia page for: HON. OMANYO, CATHERINE NAKHABI
+[2025-05-06T11:59:44.339Z] [INFO] Searching for Wikipedia page for: HON. OMBAKA ODUOR CHRISTINE
+[2025-05-06T11:59:44.346Z] [INFO] Searching for Wikipedia page for: HON. OMBOKO MILEMBA
+[2025-05-06T11:59:44.356Z] [INFO] Searching for Wikipedia page for: HON. OMONDI CAROLI
+[2025-05-06T11:59:44.363Z] [INFO] Searching for Wikipedia page for: HON. OMWERA GEORGE ALDWA
+[2025-05-06T11:59:45.257Z] [WARN] No Wikipedia page found for HON. OMWERA GEORGE ALDWA
+[2025-05-06T11:59:45.275Z] [INFO] Search result found for HON. OMONDI CAROLI: https://en.wikipedia.org/wiki/Raila_Odinga
+[2025-05-06T11:59:45.284Z] [WARN] No Wikipedia page found for HON. OMBAKA ODUOR CHRISTINE
+[2025-05-06T11:59:45.387Z] [WARN] No Wikipedia page found for HON. OMBOKO MILEMBA
+[2025-05-06T11:59:45.597Z] [WARN] No Wikipedia page found for HON. OMANYO, CATHERINE NAKHABI
+[2025-05-06T11:59:45.600Z] [INFO] Processed 270/349 MPs
+[2025-05-06T11:59:47.626Z] [INFO] Searching for Wikipedia page for: Hon. Raso, Dido Ali
+[2025-05-06T11:59:47.633Z] [INFO] Searching for Wikipedia page for: HON. OWINO, MARTIN PETERS
+[2025-05-06T11:59:47.644Z] [INFO] Searching for Wikipedia page for: HON. ONCHOKE CHARLES MAMWACHA
+[2025-05-06T11:59:47.659Z] [INFO] Searching for Wikipedia page for: HON. RASSO, COL (RTD) DIDO ALI
+[2025-05-06T11:59:47.667Z] [INFO] Searching for Wikipedia page for: HON. OWUOR, JOSHUA ADUMA
+[2025-05-06T11:59:48.539Z] [INFO] Search result found for HON. OWINO, MARTIN PETERS: https://en.wikipedia.org/wiki/List_of_people_named_David
+[2025-05-06T11:59:48.761Z] [WARN] No Wikipedia page found for HON. ONCHOKE CHARLES MAMWACHA
+[2025-05-06T11:59:48.873Z] [WARN] No Wikipedia page found for Hon. Raso, Dido Ali
+[2025-05-06T11:59:49.280Z] [WARN] No Wikipedia page found for HON. RASSO, COL (RTD) DIDO ALI
+[2025-05-06T11:59:49.341Z] [WARN] No Wikipedia page found for HON. OWUOR, JOSHUA ADUMA
+[2025-05-06T11:59:49.345Z] [INFO] Processed 275/349 MPs
+[2025-05-06T11:59:51.372Z] [INFO] Searching for Wikipedia page for: HON. ONYIEGO, SILVANUS OSORO
+[2025-05-06T11:59:51.380Z] [INFO] Searching for Wikipedia page for: HON. REUBEN KIBOREK
+[2025-05-06T11:59:51.398Z] [INFO] Searching for Wikipedia page for: HON. OYOO, JAMES ONYANGO
+[2025-05-06T11:59:51.412Z] [INFO] Searching for Wikipedia page for: HON. ORERO, PETER OCHIENG
+[2025-05-06T11:59:51.428Z] [INFO] Searching for Wikipedia page for: HON. OYUGI, DICK MAUNGU
+[2025-05-06T11:59:52.289Z] [INFO] Search result found for HON. REUBEN KIBOREK: https://en.wikipedia.org/wiki/Reuben_Kiborek
+[2025-05-06T11:59:52.392Z] [WARN] No Wikipedia page found for HON. ONYIEGO, SILVANUS OSORO
+[2025-05-06T11:59:52.472Z] [WARN] No Wikipedia page found for HON. ORERO, PETER OCHIENG
+[2025-05-06T11:59:52.739Z] [WARN] No Wikipedia page found for HON. OYUGI, DICK MAUNGU
+[2025-05-06T11:59:52.790Z] [WARN] No Wikipedia page found for HON. OYOO, JAMES ONYANGO
+[2025-05-06T11:59:52.797Z] [INFO] Processed 280/349 MPs
+[2025-05-06T11:59:54.822Z] [INFO] Searching for Wikipedia page for: HON. ROBI, MATHIAS NYAMABE
+[2025-05-06T11:59:54.829Z] [INFO] Searching for Wikipedia page for: HON. ORON JOSHUA ODONGO
+[2025-05-06T11:59:54.841Z] [INFO] Searching for Wikipedia page for: HON. OYULA, JOSEPH H. MAERO
+[2025-05-06T11:59:54.850Z] [INFO] Searching for Wikipedia page for: HON. SALASYA PETER KALERWA
+[2025-05-06T11:59:54.860Z] [INFO] Searching for Wikipedia page for: HON. OSERO PATRICK
+[2025-05-06T11:59:55.856Z] [WARN] No Wikipedia page found for HON. SALASYA PETER KALERWA
+[2025-05-06T11:59:55.902Z] [INFO] Search result found for HON. OYULA, JOSEPH H. MAERO: https://en.wikipedia.org/wiki/Joseph_Maero_Oyula
+[2025-05-06T11:59:56.027Z] [WARN] No Wikipedia page found for HON. ORON JOSHUA ODONGO
+[2025-05-06T11:59:56.091Z] [INFO] Search result found for HON. OSERO PATRICK: https://en.wikipedia.org/wiki/List_of_ministers_of_the_environment
+[2025-05-06T11:59:56.125Z] [WARN] No Wikipedia page found for HON. ROBI, MATHIAS NYAMABE
+[2025-05-06T11:59:56.126Z] [INFO] Processed 285/349 MPs
+[2025-05-06T11:59:58.146Z] [INFO] Searching for Wikipedia page for: HON. SALIM FEISAL ABDALLAH BADER
+[2025-05-06T11:59:58.157Z] [INFO] Searching for Wikipedia page for: HON. PARASHINA SAMUEL SAKIMBA
+[2025-05-06T11:59:58.168Z] [INFO] Searching for Wikipedia page for: HON. OSOGO JOYCE ATIENO BENSUDA
+[2025-05-06T11:59:58.176Z] [INFO] Searching for Wikipedia page for: HON. SANEY IBRAHIM ADBI
+[2025-05-06T11:59:58.185Z] [INFO] Searching for Wikipedia page for: HON. PAREYIO MANTAINE AGNES
+[2025-05-06T11:59:58.986Z] [INFO] Search result found for HON. OSOGO JOYCE ATIENO BENSUDA: https://en.wikipedia.org/wiki/Joyce_Osogo
+[2025-05-06T11:59:59.035Z] [INFO] Search result found for HON. PAREYIO MANTAINE AGNES: https://en.wikipedia.org/wiki/Narok_North_Constituency
+[2025-05-06T11:59:59.085Z] [WARN] No Wikipedia page found for HON. PARASHINA SAMUEL SAKIMBA
+[2025-05-06T11:59:59.198Z] [WARN] No Wikipedia page found for HON. SALIM FEISAL ABDALLAH BADER
+[2025-05-06T11:59:59.494Z] [WARN] No Wikipedia page found for HON. SANEY IBRAHIM ADBI
+[2025-05-06T11:59:59.498Z] [INFO] Processed 290/349 MPs
+[2025-05-06T12:00:01.517Z] [INFO] Searching for Wikipedia page for: HON. OTUCHO, MARY EMAASE
+[2025-05-06T12:00:01.523Z] [INFO] Searching for Wikipedia page for: HON. PASSARIS ESTHER MUTHONI
+[2025-05-06T12:00:01.530Z] [INFO] Searching for Wikipedia page for: HON. SANKAIRE LEAH SOPIATO
+[2025-05-06T12:00:01.540Z] [INFO] Searching for Wikipedia page for: HON. OUNDO, WILBERFORCE OJIAMBO
+[2025-05-06T12:00:01.547Z] [INFO] Searching for Wikipedia page for: HON. PKOSING, DAVID
+[2025-05-06T12:00:02.384Z] [INFO] Search result found for HON. PKOSING, DAVID: https://en.wikipedia.org/wiki/Pokot_South_Constituency
+[2025-05-06T12:00:02.466Z] [WARN] No Wikipedia page found for HON. OTUCHO, MARY EMAASE
+[2025-05-06T12:00:02.510Z] [WARN] No Wikipedia page found for HON. OUNDO, WILBERFORCE OJIAMBO
+[2025-05-06T12:00:02.570Z] [WARN] No Wikipedia page found for HON. PASSARIS ESTHER MUTHONI
+[2025-05-06T12:00:02.612Z] [WARN] No Wikipedia page found for HON. SANKAIRE LEAH SOPIATO
+[2025-05-06T12:00:02.613Z] [INFO] Processed 295/349 MPs
+[2025-05-06T12:00:04.622Z] [INFO] Searching for Wikipedia page for: HON. SERGON, JEMATIAH FLOWRENCE
+[2025-05-06T12:00:04.626Z] [INFO] Searching for Wikipedia page for: HON. OWINO JOHN WALTER
+[2025-05-06T12:00:04.630Z] [INFO] Searching for Wikipedia page for: HON. RAI SAMUEL GONZI
+[2025-05-06T12:00:04.634Z] [INFO] Searching for Wikipedia page for: HON. SHAKE MBOGHO PETER
+[2025-05-06T12:00:04.638Z] [INFO] Searching for Wikipedia page for: HON. TOROITICH TIMOTHY KIPCHUMBA
+[2025-05-06T12:00:05.461Z] [WARN] No Wikipedia page found for HON. TOROITICH TIMOTHY KIPCHUMBA
+[2025-05-06T12:00:05.712Z] [INFO] Search result found for HON. OWINO JOHN WALTER: https://en.wikipedia.org/wiki/List_of_people_named_David
+[2025-05-06T12:00:06.177Z] [WARN] No Wikipedia page found for HON. SHAKE MBOGHO PETER
+[2025-05-06T12:00:06.203Z] [WARN] No Wikipedia page found for HON. SERGON, JEMATIAH FLOWRENCE
+[2025-05-06T12:00:06.645Z] [INFO] Search result found for HON. RAI SAMUEL GONZI: https://en.wikipedia.org/wiki/Gonzi_Rai
+[2025-05-06T12:00:06.646Z] [INFO] Processed 300/349 MPs
+[2025-05-06T12:00:08.666Z] [INFO] Searching for Wikipedia page for: HON. SHEIKH UMUL KER KASSIM
+[2025-05-06T12:00:08.668Z] [INFO] Searching for Wikipedia page for: HON. TUNGULE CHARO KENNETH KAZUNGU
+[2025-05-06T12:00:08.669Z] [INFO] Searching for Wikipedia page for: HON. SHIMBWA OMAR MWINYI
+[2025-05-06T12:00:08.670Z] [INFO] Searching for Wikipedia page for: HON. SUDI OSCAR KIPCHUMBA
+[2025-05-06T12:00:08.673Z] [INFO] Searching for Wikipedia page for: HON. WACHIRA,  RAHAB MUKAMI
+[2025-05-06T12:00:09.495Z] [WARN] No Wikipedia page found for HON. WACHIRA,  RAHAB MUKAMI
+[2025-05-06T12:00:09.655Z] [WARN] No Wikipedia page found for HON. SHEIKH UMUL KER KASSIM
+[2025-05-06T12:00:09.749Z] [WARN] No Wikipedia page found for HON. SHIMBWA OMAR MWINYI
+[2025-05-06T12:00:09.931Z] [INFO] Search result found for HON. SUDI OSCAR KIPCHUMBA: https://en.wikipedia.org/wiki/Oscar_Sudi
+[2025-05-06T12:00:09.978Z] [INFO] Search result found for HON. TUNGULE CHARO KENNETH KAZUNGU: https://en.wikipedia.org/wiki/Ganze_Constituency
+[2025-05-06T12:00:09.982Z] [INFO] Processed 305/349 MPs
+[2025-05-06T12:00:12.013Z] [INFO] Searching for Wikipedia page for: HON. SHINALI BERNARD MASAKA
+[2025-05-06T12:00:12.021Z] [INFO] Searching for Wikipedia page for: HON. SULEKA HULBALE HARUN
+[2025-05-06T12:00:12.031Z] [INFO] Searching for Wikipedia page for: HON. WAINAINA ANTHONY NJOROGE
+[2025-05-06T12:00:12.038Z] [INFO] Searching for Wikipedia page for: HON. SHURIE ABDI OMAR
+[2025-05-06T12:00:12.046Z] [INFO] Searching for Wikipedia page for: HON. SUNKUIYA,  GEORGE RISA
+[2025-05-06T12:00:12.875Z] [WARN] No Wikipedia page found for HON. WAINAINA ANTHONY NJOROGE
+[2025-05-06T12:00:12.920Z] [WARN] No Wikipedia page found for HON. SULEKA HULBALE HARUN
+[2025-05-06T12:00:12.927Z] [WARN] No Wikipedia page found for HON. SHINALI BERNARD MASAKA
+[2025-05-06T12:00:13.097Z] [INFO] Search result found for HON. SHURIE ABDI OMAR: https://en.wikipedia.org/wiki/Garissa_County
+[2025-05-06T12:00:13.387Z] [WARN] No Wikipedia page found for HON. SUNKUIYA,  GEORGE RISA
+[2025-05-06T12:00:13.390Z] [INFO] Processed 310/349 MPs
+[2025-05-06T12:00:15.408Z] [INFO] Searching for Wikipedia page for: HON. WAINAINA, MICHAEL WAMBUGU
+[2025-05-06T12:00:15.415Z] [INFO] Searching for Wikipedia page for: HON. SUNKULI, JULIUS LEKAKENY
+[2025-05-06T12:00:15.432Z] [INFO] Searching for Wikipedia page for: HON. SIGEI, FRANCIS KIPYEGON ARAP
+[2025-05-06T12:00:15.451Z] [INFO] Searching for Wikipedia page for: HON. WAITHAKA JOHN MACHUA
+[2025-05-06T12:00:15.461Z] [INFO] Searching for Wikipedia page for: HON. TAITAMU JULIUS MÁNAIBA
+[2025-05-06T12:00:16.228Z] [WARN] No Wikipedia page found for HON. TAITAMU JULIUS MÁNAIBA
+[2025-05-06T12:00:16.282Z] [INFO] Search result found for HON. SIGEI, FRANCIS KIPYEGON ARAP: https://en.wikipedia.org/wiki/Sotik_Constituency
+[2025-05-06T12:00:16.426Z] [WARN] No Wikipedia page found for HON. WAINAINA, MICHAEL WAMBUGU
+[2025-05-06T12:00:16.568Z] [WARN] No Wikipedia page found for HON. WAITHAKA JOHN MACHUA
+[2025-05-06T12:00:16.684Z] [INFO] Search result found for HON. SUNKULI, JULIUS LEKAKENY: https://en.wikipedia.org/wiki/Ministry_of_Defence_(Kenya)
+[2025-05-06T12:00:16.687Z] [INFO] Processed 315/349 MPs
+[2025-05-06T12:00:18.716Z] [INFO] Searching for Wikipedia page for: HON. SIRMA, MUSA CHERUTICH
+[2025-05-06T12:00:18.724Z] [INFO] Searching for Wikipedia page for: HON. WAMACUKURU JAMES GITHUA KAMAU
+[2025-05-06T12:00:18.732Z] [INFO] Searching for Wikipedia page for: HON. TANDAZA KASSIM SAWA
+[2025-05-06T12:00:18.740Z] [INFO] Searching for Wikipedia page for: HON. SITATI DANIEL WANYAMA
+[2025-05-06T12:00:18.751Z] [INFO] Searching for Wikipedia page for: HON. WAMBILIANGA CATHERINE NANJALA
+[2025-05-06T12:00:19.648Z] [WARN] No Wikipedia page found for HON. TANDAZA KASSIM SAWA
+[2025-05-06T12:00:19.691Z] [WARN] No Wikipedia page found for HON. WAMBILIANGA CATHERINE NANJALA
+[2025-05-06T12:00:19.740Z] [WARN] No Wikipedia page found for HON. SITATI DANIEL WANYAMA
+[2025-05-06T12:00:19.901Z] [WARN] No Wikipedia page found for HON. SIRMA, MUSA CHERUTICH
+[2025-05-06T12:00:19.939Z] [WARN] No Wikipedia page found for HON. WAMACUKURU JAMES GITHUA KAMAU
+[2025-05-06T12:00:19.943Z] [INFO] Processed 320/349 MPs
+[2025-05-06T12:00:21.986Z] [INFO] Searching for Wikipedia page for: HON. THUKU ZACHARY KWENYA
+[2025-05-06T12:00:21.995Z] [INFO] Searching for Wikipedia page for: HON. SITIENEI, JANET JEPKEMBOI
+[2025-05-06T12:00:22.006Z] [INFO] Searching for Wikipedia page for: HON. WAMBOKA WANAMI JACK NELSON
+[2025-05-06T12:00:22.016Z] [INFO] Searching for Wikipedia page for: HON. TONGOYO, GABRIEL KOSHAL
+[2025-05-06T12:00:22.024Z] [INFO] Searching for Wikipedia page for: HON. SIYOI LILLIAN CHEBET
+[2025-05-06T12:00:22.860Z] [WARN] No Wikipedia page found for HON. SITIENEI, JANET JEPKEMBOI
+[2025-05-06T12:00:22.916Z] [WARN] No Wikipedia page found for HON. WAMBOKA WANAMI JACK NELSON
+[2025-05-06T12:00:22.932Z] [WARN] No Wikipedia page found for HON. TONGOYO, GABRIEL KOSHAL
+[2025-05-06T12:00:23.033Z] [INFO] Search result found for HON. SIYOI LILLIAN CHEBET: https://en.wikipedia.org/wiki/1943_Birthday_Honours
+[2025-05-06T12:00:23.164Z] [INFO] Search result found for HON. THUKU ZACHARY KWENYA: https://en.wikipedia.org/wiki/Nyandarua_County
+[2025-05-06T12:00:23.167Z] [INFO] Processed 325/349 MPs
+[2025-05-06T12:00:25.190Z] [INFO] Searching for Wikipedia page for: HON. WAMUCHOMBA,  GATHONI
+[2025-05-06T12:00:25.196Z] [INFO] Searching for Wikipedia page for: HON. TONKEI REBECCA NOONAISHI
+[2025-05-06T12:00:25.203Z] [INFO] Searching for Wikipedia page for: HON. SLOYA CLEMENT LOGOVA
+[2025-05-06T12:00:25.213Z] [INFO] Searching for Wikipedia page for: HON. TONUI JOSEPH KIPKOSGEI
+[2025-05-06T12:00:25.219Z] [INFO] Searching for Wikipedia page for: HON. WERE CHARLES ONG’ONDO
+[2025-05-06T12:00:26.100Z] [INFO] Search result found for HON. WERE CHARLES ONG’ONDO: https://en.wikipedia.org/wiki/List_of_assassinations_in_Africa
+[2025-05-06T12:00:26.195Z] [WARN] No Wikipedia page found for HON. TONUI JOSEPH KIPKOSGEI
+[2025-05-06T12:00:26.213Z] [WARN] No Wikipedia page found for HON. TONKEI REBECCA NOONAISHI
+[2025-05-06T12:00:26.356Z] [WARN] No Wikipedia page found for HON. WAMUCHOMBA,  GATHONI
+[2025-05-06T12:00:26.391Z] [WARN] No Wikipedia page found for HON. SLOYA CLEMENT LOGOVA
+[2025-05-06T12:00:26.394Z] [INFO] Processed 330/349 MPs
+[2025-05-06T12:00:28.422Z] [INFO] Searching for Wikipedia page for: HON. WANDAYI, JAMES OPIYO
+[2025-05-06T12:00:28.429Z] [INFO] Searching for Wikipedia page for: HON. WETANGULA TIMOTHY WANYONYI
+[2025-05-06T12:00:28.438Z] [INFO] Searching for Wikipedia page for: HON. WANGAYA CHRISTOPHER ASEKA
+[2025-05-06T12:00:28.444Z] [INFO] Searching for Wikipedia page for: HON. YEGON BRIGHTON LEONARD
+[2025-05-06T12:00:28.451Z] [INFO] Searching for Wikipedia page for: HON. WANGWE, EMMANUEL
+[2025-05-06T12:00:29.233Z] [INFO] Search result found for HON. WANGAYA CHRISTOPHER ASEKA: https://en.wikipedia.org/wiki/Khwisero_Constituency
+[2025-05-06T12:00:29.340Z] [INFO] Search result found for HON. WANDAYI, JAMES OPIYO: https://en.wikipedia.org/wiki/Opiyo_Wandayi
+[2025-05-06T12:00:29.471Z] [WARN] No Wikipedia page found for HON. WANGWE, EMMANUEL
+[2025-05-06T12:00:29.540Z] [INFO] Search result found for HON. YEGON BRIGHTON LEONARD: https://en.wikipedia.org/wiki/List_of_British_Jews
+[2025-05-06T12:00:29.563Z] [INFO] Search result found for HON. WETANGULA TIMOTHY WANYONYI: https://en.wikipedia.org/wiki/Fred_Gumo
+[2025-05-06T12:00:29.564Z] [INFO] Processed 335/349 MPs
+[2025-05-06T12:00:31.581Z] [INFO] Searching for Wikipedia page for: HON. YEGON, RICHARD KIPKEMOI
+[2025-05-06T12:00:31.589Z] [INFO] Searching for Wikipedia page for: HON. WANJALA RAPHAEL BITTA SAUTI
+[2025-05-06T12:00:31.602Z] [INFO] Searching for Wikipedia page for: HON. YUSSUF, ADAN HAJI
+[2025-05-06T12:00:31.608Z] [INFO] Searching for Wikipedia page for: HON. WANJIKU JOHN NJUGUNA
+[2025-05-06T12:00:31.617Z] [INFO] Searching for Wikipedia page for: HON. WANJIRA, MARTHA WANGARI
+[2025-05-06T12:00:32.473Z] [WARN] No Wikipedia page found for HON. WANJIRA, MARTHA WANGARI
+[2025-05-06T12:00:32.529Z] [WARN] No Wikipedia page found for HON. WANJALA RAPHAEL BITTA SAUTI
+[2025-05-06T12:00:32.572Z] [INFO] Search result found for HON. WANJIKU JOHN NJUGUNA: https://en.wikipedia.org/wiki/Murang%27a_County
+[2025-05-06T12:00:32.650Z] [INFO] Search result found for HON. YUSSUF, ADAN HAJI: https://en.wikipedia.org/wiki/Mandera_West_Constituency
+[2025-05-06T12:00:32.670Z] [WARN] No Wikipedia page found for HON. YEGON, RICHARD KIPKEMOI
+[2025-05-06T12:00:32.671Z] [INFO] Processed 340/349 MPs
+[2025-05-06T12:00:34.686Z] [INFO] Searching for Wikipedia page for: HON.(CPA) KIMANI FRANCIS KURIA
+[2025-05-06T12:00:34.692Z] [INFO] Searching for Wikipedia page for: HON. WANYONYI KEVIN FERDINAND
+[2025-05-06T12:00:34.698Z] [INFO] Searching for Wikipedia page for: HON.KARITHO KIILI DANIEL
+[2025-05-06T12:00:34.707Z] [INFO] Searching for Wikipedia page for: HON. WANYONYI MARTIN PEPELA
+[2025-05-06T12:00:34.714Z] [INFO] Searching for Wikipedia page for: HON.MBIUKI JAPHET MIRITI KAREKE
+[2025-05-06T12:00:35.530Z] [WARN] No Wikipedia page found for HON.KARITHO KIILI DANIEL
+[2025-05-06T12:00:35.545Z] [INFO] Search result found for HON. WANYONYI MARTIN PEPELA: https://en.wikipedia.org/wiki/Mwaura_Isaac_Maigua
+[2025-05-06T12:00:35.632Z] [WARN] No Wikipedia page found for HON.MBIUKI JAPHET MIRITI KAREKE
+[2025-05-06T12:00:35.844Z] [INFO] Search result found for HON. WANYONYI KEVIN FERDINAND: https://en.wikipedia.org/wiki/Noah_Wekesa
+[2025-05-06T12:00:35.911Z] [INFO] Search result found for HON.(CPA) KIMANI FRANCIS KURIA: https://en.wikipedia.org/wiki/Molo_Constituency
+[2025-05-06T12:00:35.913Z] [INFO] Processed 345/349 MPs
+[2025-05-06T12:00:37.932Z] [INFO] Searching for Wikipedia page for: HON. WAQO NAOMI JILLO
+[2025-05-06T12:00:37.936Z] [INFO] Searching for Wikipedia page for: VACANT
+[2025-05-06T12:00:37.939Z] [INFO] Searching for Wikipedia page for: HON. WAWERU, JOHN KIARIE
+[2025-05-06T12:00:37.943Z] [INFO] Searching for Wikipedia page for: VACANT
+[2025-05-06T12:00:38.717Z] [INFO] Search result found for HON. WAWERU, JOHN KIARIE: https://en.wikipedia.org/wiki/John_Kiarie_Waweru
+[2025-05-06T12:00:39.110Z] [WARN] No Wikipedia page found for HON. WAQO NAOMI JILLO
+[2025-05-06T12:00:39.295Z] [INFO] Search result found for VACANT: https://en.wikipedia.org/wiki/Cabinet_of_Kenya
+[2025-05-06T12:00:40.354Z] [INFO] Search result found for VACANT: https://en.wikipedia.org/wiki/Cabinet_of_Kenya
+[2025-05-06T12:00:40.356Z] [INFO] Processed 349/349 MPs
+[2025-05-06T12:00:40.365Z] [INFO] Step 2: Extracting detailed information from Wikipedia pages
+[2025-05-06T12:00:40.367Z] [INFO] Found Wikipedia pages for 135 MPs
+[2025-05-06T12:00:40.368Z] [INFO] Extracting details from Wikipedia for: HON. ABDI, YUSUF HASSAN
+[2025-05-06T12:00:40.371Z] [INFO] Extracting details from Wikipedia for: HON. ABDIRAHMAN MOHAMED ABDI
+[2025-05-06T12:00:40.373Z] [INFO] Extracting details from Wikipedia for: HON. ABDULLAIH BASHIR SHEIKH
+[2025-05-06T12:00:41.103Z] [INFO] Successfully extracted Wikipedia details for: HON. ABDIRAHMAN MOHAMED ABDI
+[2025-05-06T12:00:41.173Z] [INFO] Successfully extracted Wikipedia details for: HON. ABDI, YUSUF HASSAN
+[2025-05-06T12:00:44.260Z] [INFO] Successfully extracted Wikipedia details for: HON. ABDULLAIH BASHIR SHEIKH
+[2025-05-06T12:00:44.262Z] [INFO] Enriched 3/135 MPs
+[2025-05-06T12:00:46.275Z] [INFO] Extracting details from Wikipedia for: HON. ABUOR PAUL
+[2025-05-06T12:00:46.278Z] [INFO] Extracting details from Wikipedia for: HON. ABURI, LAWRENCE MPURU
+[2025-05-06T12:00:46.288Z] [INFO] Extracting details from Wikipedia for: HON. (AMB.) LANGAT BENJAMIN KIPKIRUI
+[2025-05-06T12:00:47.022Z] [INFO] Successfully extracted Wikipedia details for: HON. ABUOR PAUL
+[2025-05-06T12:00:48.770Z] [INFO] Successfully extracted Wikipedia details for: HON. ABURI, LAWRENCE MPURU
+[2025-05-06T12:00:52.381Z] [INFO] Successfully extracted Wikipedia details for: HON. (AMB.) LANGAT BENJAMIN KIPKIRUI
+[2025-05-06T12:00:52.382Z] [INFO] Enriched 6/135 MPs
+[2025-05-06T12:00:54.396Z] [INFO] Extracting details from Wikipedia for: HON. ADOW ADEN MOHAMMED
+[2025-05-06T12:00:54.402Z] [INFO] Extracting details from Wikipedia for: HON. (DR.) JACKSON KIPKEMOI KOSGEI
+[2025-05-06T12:00:54.416Z] [INFO] Extracting details from Wikipedia for: HON. (DR.) PUKOSE ROBERT
+[2025-05-06T12:00:55.092Z] [INFO] Successfully extracted Wikipedia details for: HON. ADOW ADEN MOHAMMED
+[2025-05-06T12:01:01.012Z] [INFO] Successfully extracted Wikipedia details for: HON. (DR.) JACKSON KIPKEMOI KOSGEI
+[2025-05-06T12:01:15.262Z] [ERROR] Error extracting Wikipedia details for HON. (DR.) PUKOSE ROBERT: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:15.268Z] [INFO] Enriched 9/135 MPs
+[2025-05-06T12:01:17.298Z] [INFO] Extracting details from Wikipedia for: HON. ABDI ALI ABDI
+[2025-05-06T12:01:17.313Z] [INFO] Extracting details from Wikipedia for: HON. ARAMA SAMUEL
+[2025-05-06T12:01:17.347Z] [INFO] Extracting details from Wikipedia for: HON. ARIKO JOHN NAMOIT
+[2025-05-06T12:01:38.229Z] [ERROR] Error extracting Wikipedia details for HON. ABDI ALI ABDI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:38.236Z] [ERROR] Error extracting Wikipedia details for HON. ARAMA SAMUEL: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:38.244Z] [ERROR] Error extracting Wikipedia details for HON. ARIKO JOHN NAMOIT: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:38.250Z] [INFO] Enriched 12/135 MPs
+[2025-05-06T12:01:40.271Z] [INFO] Extracting details from Wikipedia for: HON. CHEGE NJUGUNA
+[2025-05-06T12:01:40.280Z] [INFO] Extracting details from Wikipedia for: HON. BADY BADY TWALIB
+[2025-05-06T12:01:40.293Z] [INFO] Extracting details from Wikipedia for: HON. BARASA PATRICK SIMIYU
+[2025-05-06T12:01:57.072Z] [ERROR] Error extracting Wikipedia details for HON. CHEGE NJUGUNA: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:57.078Z] [ERROR] Error extracting Wikipedia details for HON. BADY BADY TWALIB: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:57.086Z] [ERROR] Error extracting Wikipedia details for HON. BARASA PATRICK SIMIYU: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:01:57.096Z] [INFO] Enriched 15/135 MPs
+[2025-05-06T12:01:59.120Z] [INFO] Extracting details from Wikipedia for: HON. CHEGE SABINA WANJIRU
+[2025-05-06T12:01:59.131Z] [INFO] Extracting details from Wikipedia for: HON. BARRE HUSSEIN ABDI
+[2025-05-06T12:01:59.145Z] [INFO] Extracting details from Wikipedia for: HON. CHEPKONGA, SAMUEL KIPRONO
+[2025-05-06T12:02:12.472Z] [ERROR] Error extracting Wikipedia details for HON. CHEGE SABINA WANJIRU: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:12.478Z] [ERROR] Error extracting Wikipedia details for HON. BARRE HUSSEIN ABDI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:12.488Z] [ERROR] Error extracting Wikipedia details for HON. CHEPKONGA, SAMUEL KIPRONO: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:12.493Z] [INFO] Enriched 18/135 MPs
+[2025-05-06T12:02:14.512Z] [INFO] Extracting details from Wikipedia for: HON. BOSS GLADYS JEPKOSGEI
+[2025-05-06T12:02:14.518Z] [INFO] Extracting details from Wikipedia for: HON. CHEPKORIR, LINET
+[2025-05-06T12:02:14.523Z] [INFO] Extracting details from Wikipedia for: HON. BASIL ROBERT NGUI
+[2025-05-06T12:02:24.093Z] [ERROR] Error extracting Wikipedia details for HON. BOSS GLADYS JEPKOSGEI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:24.099Z] [ERROR] Error extracting Wikipedia details for HON. CHEPKORIR, LINET: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:24.106Z] [ERROR] Error extracting Wikipedia details for HON. BASIL ROBERT NGUI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:24.110Z] [INFO] Enriched 21/135 MPs
+[2025-05-06T12:02:26.129Z] [INFO] Extracting details from Wikipedia for: HON. CHEPKWONY  CHARITY KATHAMBI
+[2025-05-06T12:02:26.137Z] [INFO] Extracting details from Wikipedia for: HON. CHESEBE FRED KAPONDI
+[2025-05-06T12:02:26.148Z] [INFO] Extracting details from Wikipedia for: HON. BIDU, MOHAMED TUBI
+[2025-05-06T12:02:47.030Z] [ERROR] Error extracting Wikipedia details for HON. CHEPKWONY  CHARITY KATHAMBI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:47.037Z] [ERROR] Error extracting Wikipedia details for HON. CHESEBE FRED KAPONDI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:47.049Z] [ERROR] Error extracting Wikipedia details for HON. BIDU, MOHAMED TUBI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:02:47.051Z] [INFO] Enriched 24/135 MPs
+[2025-05-06T12:02:49.060Z] [INFO] Extracting details from Wikipedia for: HON. CHIKATI JOHN MURUMBA
+[2025-05-06T12:02:49.069Z] [INFO] Extracting details from Wikipedia for: HON. CHEGE JOHN KIRAGU
+[2025-05-06T12:02:49.083Z] [INFO] Extracting details from Wikipedia for: HON. GUYO ALI WARIO
+[2025-05-06T12:03:09.964Z] [ERROR] Error extracting Wikipedia details for HON. CHIKATI JOHN MURUMBA: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:09.972Z] [ERROR] Error extracting Wikipedia details for HON. CHEGE JOHN KIRAGU: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:09.985Z] [ERROR] Error extracting Wikipedia details for HON. GUYO ALI WARIO: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:09.988Z] [INFO] Enriched 27/135 MPs
+[2025-05-06T12:03:12.011Z] [INFO] Extracting details from Wikipedia for: HON. HARO ABDUL EBRAHIM
+[2025-05-06T12:03:12.039Z] [INFO] Extracting details from Wikipedia for: HON. DENA JOSEPH HAMISI
+[2025-05-06T12:03:12.055Z] [INFO] Extracting details from Wikipedia for: HON. ICHUNG’WAH ANTONY KIMANI
+[2025-05-06T12:03:21.639Z] [ERROR] Error extracting Wikipedia details for HON. HARO ABDUL EBRAHIM: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:21.645Z] [ERROR] Error extracting Wikipedia details for HON. DENA JOSEPH HAMISI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:21.655Z] [ERROR] Error extracting Wikipedia details for HON. ICHUNG’WAH ANTONY KIMANI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:21.660Z] [INFO] Enriched 30/135 MPs
+[2025-05-06T12:03:23.680Z] [INFO] Extracting details from Wikipedia for: HON. ELACHI BEATRICE KADEVERESIA
+[2025-05-06T12:03:23.693Z] [INFO] Extracting details from Wikipedia for: HON. ERIC WAMUMBI
+[2025-05-06T12:03:23.710Z] [INFO] Extracting details from Wikipedia for: HON. GIKARIA, DAVID
+[2025-05-06T12:03:37.440Z] [ERROR] Error extracting Wikipedia details for HON. ELACHI BEATRICE KADEVERESIA: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:37.446Z] [ERROR] Error extracting Wikipedia details for HON. ERIC WAMUMBI: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:37.454Z] [ERROR] Error extracting Wikipedia details for HON. GIKARIA, DAVID: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:37.459Z] [INFO] Enriched 33/135 MPs
+[2025-05-06T12:03:39.475Z] [INFO] Extracting details from Wikipedia for: HON. FARAH SALAH YAKUB
+[2025-05-06T12:03:39.483Z] [INFO] Extracting details from Wikipedia for: HON. FARAH YUSSUF MOHAMED
+[2025-05-06T12:03:39.494Z] [INFO] Extracting details from Wikipedia for: HON. GACHAGUA GEORGE
+[2025-05-06T12:03:49.074Z] [ERROR] Error extracting Wikipedia details for HON. FARAH SALAH YAKUB: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:49.079Z] [ERROR] Error extracting Wikipedia details for HON. FARAH YUSSUF MOHAMED: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:49.083Z] [ERROR] Error extracting Wikipedia details for HON. GACHAGUA GEORGE: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:03:49.086Z] [INFO] Enriched 36/135 MPs
+[2025-05-06T12:03:51.096Z] [INFO] Extracting details from Wikipedia for: HON. GITHINJI, ROBERT GICHIMU
+[2025-05-06T12:03:51.103Z] [INFO] Extracting details from Wikipedia for: HON. KAREMBA, ERIC MUCHANGI.N.
+[2025-05-06T12:03:51.117Z] [INFO] Extracting details from Wikipedia for: HON. KARIUKI GEORGE MACHARIA
+[2025-05-06T12:04:11.710Z] [ERROR] Error extracting Wikipedia details for HON. KAREMBA, ERIC MUCHANGI.N.: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:04:11.717Z] [ERROR] Error extracting Wikipedia details for HON. GITHINJI, ROBERT GICHIMU: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:04:11.720Z] [ERROR] Error extracting Wikipedia details for HON. KARIUKI GEORGE MACHARIA: getaddrinfo ENOTFOUND en.wikipedia.org
+[2025-05-06T12:04:11.723Z] [INFO] Enriched 39/135 MPs
+[2025-05-06T12:04:13.737Z] [INFO] Extracting details from Wikipedia for: HON. JEHOW FATUMA ABDI
+[2025-05-06T12:04:13.750Z] [INFO] Extracting details from Wikipedia for: HON. KAJWANG’, FRANCIS TOM JOSEPH
+[2025-05-06T12:04:13.781Z] [INFO] Extracting details from Wikipedia for: HON. KASALU, IRENE MUTHONI
+[2025-05-06T12:04:24.334Z] [INFO] Successfully extracted Wikipedia details for: HON. KASALU, IRENE MUTHONI
+[2025-05-06T12:04:24.487Z] [INFO] Successfully extracted Wikipedia details for: HON. JEHOW FATUMA ABDI
+[2025-05-06T12:04:26.354Z] [INFO] Successfully extracted Wikipedia details for: HON. KAJWANG’, FRANCIS TOM JOSEPH
+[2025-05-06T12:04:26.355Z] [INFO] Enriched 42/135 MPs
+[2025-05-06T12:04:28.375Z] [INFO] Extracting details from Wikipedia for: HON. KAMENE, JOYCE
+[2025-05-06T12:04:28.378Z] [INFO] Extracting details from Wikipedia for: HON. JUNET SHEIKH NUH MOHAMED
+[2025-05-06T12:04:28.381Z] [INFO] Extracting details from Wikipedia for: HON. KAGIRI JANE WANGECHI
+[2025-05-06T12:04:28.610Z] [INFO] Successfully extracted Wikipedia details for: HON. KAGIRI JANE WANGECHI
+[2025-05-06T12:04:28.716Z] [INFO] Successfully extracted Wikipedia details for: HON. JUNET SHEIKH NUH MOHAMED
+[2025-05-06T12:04:29.763Z] [INFO] Successfully extracted Wikipedia details for: HON. KAMENE, JOYCE
+[2025-05-06T12:04:29.765Z] [INFO] Enriched 45/135 MPs
+[2025-05-06T12:04:31.780Z] [INFO] Extracting details from Wikipedia for: HON. KEYNAN, WEHLIYE ADAN
+[2025-05-06T12:04:31.790Z] [INFO] Extracting details from Wikipedia for: HON. KHAMISI MBOKO MISHI JUMA
+[2025-05-06T12:04:31.804Z] [INFO] Extracting details from Wikipedia for: HON. KAHANGARA JOSEPH MBURU
+[2025-05-06T12:04:32.217Z] [INFO] Successfully extracted Wikipedia details for: HON. KAHANGARA JOSEPH MBURU
+[2025-05-06T12:04:32.333Z] [INFO] Successfully extracted Wikipedia details for: HON. KHAMISI MBOKO MISHI JUMA
+[2025-05-06T12:04:32.589Z] [INFO] Successfully extracted Wikipedia details for: HON. KEYNAN, WEHLIYE ADAN
+[2025-05-06T12:04:32.590Z] [INFO] Enriched 48/135 MPs
+[2025-05-06T12:04:34.598Z] [INFO] Extracting details from Wikipedia for: HON. KOECH, NELSON
+[2025-05-06T12:04:34.601Z] [INFO] Extracting details from Wikipedia for: HON. KIPLAGAT DAVID
+[2025-05-06T12:04:34.604Z] [INFO] Extracting details from Wikipedia for: HON. KHODHE PHELIX ODIWUOR
+[2025-05-06T12:04:35.357Z] [INFO] Successfully extracted Wikipedia details for: HON. KIPLAGAT DAVID
+[2025-05-06T12:04:35.401Z] [INFO] Successfully extracted Wikipedia details for: HON. KHODHE PHELIX ODIWUOR
+[2025-05-06T12:04:35.439Z] [INFO] Successfully extracted Wikipedia details for: HON. KOECH, NELSON
+[2025-05-06T12:04:35.444Z] [INFO] Enriched 51/135 MPs
+[2025-05-06T12:04:37.450Z] [INFO] Extracting details from Wikipedia for: HON. KIPYEGON, JOHANA NGENO
+[2025-05-06T12:04:37.461Z] [INFO] Extracting details from Wikipedia for: HON. KIARAHO, DAVID NJUGUNA
+[2025-05-06T12:04:37.466Z] [INFO] Extracting details from Wikipedia for: HON. KORERE SARAH PAULATA
+[2025-05-06T12:04:37.900Z] [INFO] Successfully extracted Wikipedia details for: HON. KIARAHO, DAVID NJUGUNA
+[2025-05-06T12:04:37.966Z] [INFO] Successfully extracted Wikipedia details for: HON. KIPYEGON, JOHANA NGENO
+[2025-05-06T12:04:38.120Z] [INFO] Successfully extracted Wikipedia details for: HON. KORERE SARAH PAULATA
+[2025-05-06T12:04:38.122Z] [INFO] Enriched 54/135 MPs
+[2025-05-06T12:04:40.138Z] [INFO] Extracting details from Wikipedia for: HON. KITANY MARIANNE
+[2025-05-06T12:04:40.147Z] [INFO] Extracting details from Wikipedia for: HON. KITI RICHARD KEN CHONGA
+[2025-05-06T12:04:40.161Z] [INFO] Extracting details from Wikipedia for: HON. KILEL, RICHARD CHERUIYOT
+[2025-05-06T12:04:40.724Z] [INFO] Successfully extracted Wikipedia details for: HON. KITANY MARIANNE
+[2025-05-06T12:04:40.792Z] [INFO] Successfully extracted Wikipedia details for: HON. KILEL, RICHARD CHERUIYOT
+[2025-05-06T12:04:41.172Z] [INFO] Successfully extracted Wikipedia details for: HON. KITI RICHARD KEN CHONGA
+[2025-05-06T12:04:41.173Z] [INFO] Enriched 57/135 MPs
+[2025-05-06T12:04:43.189Z] [INFO] Extracting details from Wikipedia for: HON. KIUNJURI, MWANGI FESTUS
+[2025-05-06T12:04:43.194Z] [INFO] Extracting details from Wikipedia for: HON. KUNO YAKUB ADOW
+[2025-05-06T12:04:43.202Z] [INFO] Extracting details from Wikipedia for: HON. KING'OLA PATRICK MAKAU
+[2025-05-06T12:04:43.489Z] [INFO] Successfully extracted Wikipedia details for: HON. KING'OLA PATRICK MAKAU
+[2025-05-06T12:04:43.573Z] [INFO] Successfully extracted Wikipedia details for: HON. KUNO YAKUB ADOW
+[2025-05-06T12:04:44.319Z] [INFO] Successfully extracted Wikipedia details for: HON. KIUNJURI, MWANGI FESTUS
+[2025-05-06T12:04:44.320Z] [INFO] Enriched 60/135 MPs
+[2025-05-06T12:04:46.334Z] [INFO] Extracting details from Wikipedia for: HON. KUNO, AMINA UDGOON SIYAD
+[2025-05-06T12:04:46.341Z] [INFO] Extracting details from Wikipedia for: HON. LEKUTON JOSEPH
+[2025-05-06T12:04:46.346Z] [INFO] Extracting details from Wikipedia for: HON. MAALIM, FARAH
+[2025-05-06T12:04:46.985Z] [INFO] Successfully extracted Wikipedia details for: HON. KUNO, AMINA UDGOON SIYAD
+[2025-05-06T12:04:47.144Z] [INFO] Successfully extracted Wikipedia details for: HON. MAALIM, FARAH
+[2025-05-06T12:04:47.227Z] [INFO] Successfully extracted Wikipedia details for: HON. LEKUTON JOSEPH
+[2025-05-06T12:04:47.227Z] [INFO] Enriched 63/135 MPs
+[2025-05-06T12:04:49.232Z] [INFO] Extracting details from Wikipedia for: HON. MASARA PETER FRANCIS
+[2025-05-06T12:04:49.239Z] [INFO] Extracting details from Wikipedia for: HON. MACHELE MOHAMED SOUD
+[2025-05-06T12:04:49.248Z] [INFO] Extracting details from Wikipedia for: HON. LEMANKEN ARAMAT
+[2025-05-06T12:04:49.490Z] [INFO] Successfully extracted Wikipedia details for: HON. MASARA PETER FRANCIS
+[2025-05-06T12:04:49.784Z] [INFO] Successfully extracted Wikipedia details for: HON. MACHELE MOHAMED SOUD
+[2025-05-06T12:04:49.852Z] [INFO] Successfully extracted Wikipedia details for: HON. LEMANKEN ARAMAT
+[2025-05-06T12:04:49.853Z] [INFO] Enriched 66/135 MPs
+[2025-05-06T12:04:51.858Z] [INFO] Extracting details from Wikipedia for: HON. MAINA JANE NJERI
+[2025-05-06T12:04:51.864Z] [INFO] Extracting details from Wikipedia for: HON. MATHENGE DUNCAN MAINA
+[2025-05-06T12:04:51.871Z] [INFO] Extracting details from Wikipedia for: HON. MAINGI MARY
+[2025-05-06T12:04:52.390Z] [INFO] Successfully extracted Wikipedia details for: HON. MAINGI MARY
+[2025-05-06T12:04:52.483Z] [INFO] Successfully extracted Wikipedia details for: HON. MAINA JANE NJERI
+[2025-05-06T12:04:52.680Z] [INFO] Successfully extracted Wikipedia details for: HON. MATHENGE DUNCAN MAINA
+[2025-05-06T12:04:52.681Z] [INFO] Enriched 69/135 MPs
+[2025-05-06T12:04:54.686Z] [INFO] Extracting details from Wikipedia for: HON. LESUUDA, NAISULA
+[2025-05-06T12:04:54.692Z] [INFO] Extracting details from Wikipedia for: HON. MBAI, NIMROD MBITHUKA
+[2025-05-06T12:04:54.698Z] [INFO] Extracting details from Wikipedia for: HON. LOMWA JOSEPH SAMAL
+[2025-05-06T12:04:55.317Z] [INFO] Successfully extracted Wikipedia details for: HON. MBAI, NIMROD MBITHUKA
+[2025-05-06T12:04:55.347Z] [INFO] Successfully extracted Wikipedia details for: HON. LOMWA JOSEPH SAMAL
+[2025-05-06T12:04:55.755Z] [INFO] Successfully extracted Wikipedia details for: HON. LESUUDA, NAISULA
+[2025-05-06T12:04:55.757Z] [INFO] Enriched 72/135 MPs
+[2025-05-06T12:04:57.768Z] [INFO] Extracting details from Wikipedia for: HON. LOTEE TITUS
+[2025-05-06T12:04:57.774Z] [INFO] Extracting details from Wikipedia for: HON. MBONI, DAVID MWALIKA
+[2025-05-06T12:04:57.782Z] [INFO] Extracting details from Wikipedia for: HON. MULE STEPHEN MUTINDA
+[2025-05-06T12:04:58.082Z] [INFO] Successfully extracted Wikipedia details for: HON. MULE STEPHEN MUTINDA
+[2025-05-06T12:04:58.161Z] [INFO] Successfully extracted Wikipedia details for: HON. MBONI, DAVID MWALIKA
+[2025-05-06T12:04:58.332Z] [INFO] Successfully extracted Wikipedia details for: HON. LOTEE TITUS
+[2025-05-06T12:04:58.333Z] [INFO] Enriched 75/135 MPs
+[2025-05-06T12:05:00.349Z] [INFO] Extracting details from Wikipedia for: HON. MUCHIRA, MICHAEL MWANGI
+[2025-05-06T12:05:00.356Z] [INFO] Extracting details from Wikipedia for: HON. MOGAKA STEPHEN
+[2025-05-06T12:05:00.364Z] [INFO] Extracting details from Wikipedia for: HON. MULU MAKALI
+[2025-05-06T12:05:00.619Z] [INFO] Successfully extracted Wikipedia details for: HON. MOGAKA STEPHEN
+[2025-05-06T12:05:00.845Z] [INFO] Successfully extracted Wikipedia details for: HON. MUCHIRA, MICHAEL MWANGI
+[2025-05-06T12:05:01.053Z] [INFO] Successfully extracted Wikipedia details for: HON. MULU MAKALI
+[2025-05-06T12:05:01.054Z] [INFO] Enriched 78/135 MPs
+[2025-05-06T12:05:03.067Z] [INFO] Extracting details from Wikipedia for: HON. MOHAMED ABDIKADIR HUSSEIN
+[2025-05-06T12:05:03.073Z] [INFO] Extracting details from Wikipedia for: HON. MULYUNGI, GIDEON MUTEMI
+[2025-05-06T12:05:03.080Z] [INFO] Extracting details from Wikipedia for: HON. MOHAMED ADEN DAUDI
+[2025-05-06T12:05:03.677Z] [INFO] Successfully extracted Wikipedia details for: HON. MOHAMED ABDIKADIR HUSSEIN
+[2025-05-06T12:05:03.832Z] [INFO] Successfully extracted Wikipedia details for: HON. MOHAMED ADEN DAUDI
+[2025-05-06T12:05:03.920Z] [INFO] Successfully extracted Wikipedia details for: HON. MULYUNGI, GIDEON MUTEMI
+[2025-05-06T12:05:03.921Z] [INFO] Enriched 81/135 MPs
+[2025-05-06T12:05:05.934Z] [INFO] Extracting details from Wikipedia for: HON. MOHAMED MOHAMED ALI
+[2025-05-06T12:05:05.943Z] [INFO] Extracting details from Wikipedia for: HON. MUHIA WANJIKU
+[2025-05-06T12:05:05.953Z] [INFO] Extracting details from Wikipedia for: HON. MUNYORO JOSEPH KAMAU
+[2025-05-06T12:05:06.344Z] [INFO] Successfully extracted Wikipedia details for: HON. MUHIA WANJIKU
+[2025-05-06T12:05:06.467Z] [INFO] Successfully extracted Wikipedia details for: HON. MUNYORO JOSEPH KAMAU
+[2025-05-06T12:05:07.059Z] [INFO] Successfully extracted Wikipedia details for: HON. MOHAMED MOHAMED ALI
+[2025-05-06T12:05:07.061Z] [INFO] Enriched 84/135 MPs
+[2025-05-06T12:05:09.082Z] [INFO] Extracting details from Wikipedia for: HON. MUPE ANTHONY KENGA
+[2025-05-06T12:05:09.088Z] [INFO] Extracting details from Wikipedia for: HON. MOHAMMED FATUMA ZAINAB
+[2025-05-06T12:05:09.096Z] [INFO] Extracting details from Wikipedia for: HON. MURIUKI NEBART BERNARD
+[2025-05-06T12:05:09.386Z] [INFO] Successfully extracted Wikipedia details for: HON. MURIUKI NEBART BERNARD
+[2025-05-06T12:05:11.004Z] [INFO] Successfully extracted Wikipedia details for: HON. MUPE ANTHONY KENGA
+[2025-05-06T12:05:12.011Z] [INFO] Successfully extracted Wikipedia details for: HON. MOHAMMED FATUMA ZAINAB
+[2025-05-06T12:05:12.012Z] [INFO] Enriched 87/135 MPs
+[2025-05-06T12:05:14.028Z] [INFO] Extracting details from Wikipedia for: HON. MURUGARA GEORGE GITONGA
+[2025-05-06T12:05:14.036Z] [INFO] Extracting details from Wikipedia for: HON. MWANGI GEOFFREY WANDETO
+[2025-05-06T12:05:14.044Z] [INFO] Extracting details from Wikipedia for: HON. MWANGI TERESIA WANJIRU
+[2025-05-06T12:05:14.513Z] [INFO] Successfully extracted Wikipedia details for: HON. MWANGI TERESIA WANJIRU
+[2025-05-06T12:05:14.555Z] [INFO] Successfully extracted Wikipedia details for: HON. MURUGARA GEORGE GITONGA
+[2025-05-06T12:05:14.901Z] [INFO] Successfully extracted Wikipedia details for: HON. MWANGI GEOFFREY WANDETO
+[2025-05-06T12:05:14.902Z] [INFO] Enriched 90/135 MPs
+[2025-05-06T12:05:16.912Z] [INFO] Extracting details from Wikipedia for: HON. MUTHAMA STANLEY MUIRURI
+[2025-05-06T12:05:16.919Z] [INFO] Extracting details from Wikipedia for: HON. MUTUA, DIDMUS WEKESA BARASA
+[2025-05-06T12:05:16.930Z] [INFO] Extracting details from Wikipedia for: HON. MWIRIGI JOHN PAUL
+[2025-05-06T12:05:17.414Z] [INFO] Successfully extracted Wikipedia details for: HON. MWIRIGI JOHN PAUL
+[2025-05-06T12:05:17.466Z] [INFO] Successfully extracted Wikipedia details for: HON. MUTHAMA STANLEY MUIRURI
+[2025-05-06T12:05:17.528Z] [INFO] Successfully extracted Wikipedia details for: HON. MUTUA, DIDMUS WEKESA BARASA
+[2025-05-06T12:05:17.529Z] [INFO] Enriched 93/135 MPs
+[2025-05-06T12:05:19.544Z] [INFO] Extracting details from Wikipedia for: HON. NABII NABWERA DARAJA
+[2025-05-06T12:05:19.550Z] [INFO] Extracting details from Wikipedia for: HON. NGUNA, NGUSYA CHARLES
+[2025-05-06T12:05:19.563Z] [INFO] Extracting details from Wikipedia for: HON. ODHIAMBO, ELISHA OCHIENG
+[2025-05-06T12:05:19.887Z] [INFO] Successfully extracted Wikipedia details for: HON. ODHIAMBO, ELISHA OCHIENG
+[2025-05-06T12:05:20.166Z] [INFO] Successfully extracted Wikipedia details for: HON. NGUNA, NGUSYA CHARLES
+[2025-05-06T12:05:20.546Z] [INFO] Successfully extracted Wikipedia details for: HON. NABII NABWERA DARAJA
+[2025-05-06T12:05:20.548Z] [INFO] Enriched 96/135 MPs
+[2025-05-06T12:05:22.555Z] [INFO] Extracting details from Wikipedia for: HON. NYORO, SAMSON NDINDI
+[2025-05-06T12:05:22.561Z] [INFO] Extracting details from Wikipedia for: HON. NZENGU, PAUL MUSYIMI
+[2025-05-06T12:05:22.567Z] [INFO] Extracting details from Wikipedia for: HON. NJOROGE MARY WAMAUA WAITHIRA
+[2025-05-06T12:05:22.896Z] [INFO] Successfully extracted Wikipedia details for: HON. NYORO, SAMSON NDINDI
+[2025-05-06T12:05:23.017Z] [INFO] Successfully extracted Wikipedia details for: HON. NZENGU, PAUL MUSYIMI
+[2025-05-06T12:05:23.190Z] [INFO] Successfully extracted Wikipedia details for: HON. NJOROGE MARY WAMAUA WAITHIRA
+[2025-05-06T12:05:23.191Z] [INFO] Enriched 99/135 MPs
+[2025-05-06T12:05:25.203Z] [INFO] Extracting details from Wikipedia for: HON. OBARA EVE AKINYI
+[2025-05-06T12:05:25.209Z] [INFO] Extracting details from Wikipedia for: HON. ODHIAMBO, MILLIE GRACE AKOTH
+[2025-05-06T12:05:25.216Z] [INFO] Extracting details from Wikipedia for: HON. OBO RUWEIDA MOHAMED
+[2025-05-06T12:05:25.462Z] [INFO] Successfully extracted Wikipedia details for: HON. OBARA EVE AKINYI
+[2025-05-06T12:05:25.771Z] [INFO] Successfully extracted Wikipedia details for: HON. ODHIAMBO, MILLIE GRACE AKOTH
+[2025-05-06T12:05:26.192Z] [INFO] Successfully extracted Wikipedia details for: HON. OBO RUWEIDA MOHAMED
+[2025-05-06T12:05:26.193Z] [INFO] Enriched 102/135 MPs
+[2025-05-06T12:05:28.208Z] [INFO] Extracting details from Wikipedia for: HON. OKELO, JARED ODOYO
+[2025-05-06T12:05:28.215Z] [INFO] Extracting details from Wikipedia for: HON. NYAMAI RACHAEL KAKI
+[2025-05-06T12:05:28.222Z] [INFO] Extracting details from Wikipedia for: HON. NYAMITA MARK OGOLLA
+[2025-05-06T12:05:28.451Z] [INFO] Successfully extracted Wikipedia details for: HON. NYAMITA MARK OGOLLA
+[2025-05-06T12:05:28.690Z] [INFO] Successfully extracted Wikipedia details for: HON. OKELO, JARED ODOYO
+[2025-05-06T12:05:28.723Z] [INFO] Successfully extracted Wikipedia details for: HON. NYAMAI RACHAEL KAKI
+[2025-05-06T12:05:28.724Z] [INFO] Enriched 105/135 MPs
+[2025-05-06T12:05:30.748Z] [INFO] Extracting details from Wikipedia for: HON. OMONDI CAROLI
+[2025-05-06T12:05:30.751Z] [INFO] Extracting details from Wikipedia for: HON. OWINO, MARTIN PETERS
+[2025-05-06T12:05:30.753Z] [INFO] Extracting details from Wikipedia for: HON. REUBEN KIBOREK
+[2025-05-06T12:05:30.953Z] [INFO] Successfully extracted Wikipedia details for: HON. REUBEN KIBOREK
+[2025-05-06T12:05:31.437Z] [INFO] Successfully extracted Wikipedia details for: HON. OMONDI CAROLI
+[2025-05-06T12:05:32.135Z] [INFO] Successfully extracted Wikipedia details for: HON. OWINO, MARTIN PETERS
+[2025-05-06T12:05:32.136Z] [INFO] Enriched 108/135 MPs
+[2025-05-06T12:05:34.149Z] [INFO] Extracting details from Wikipedia for: HON. OYULA, JOSEPH H. MAERO
+[2025-05-06T12:05:34.155Z] [INFO] Extracting details from Wikipedia for: HON. OSERO PATRICK
+[2025-05-06T12:05:34.161Z] [INFO] Extracting details from Wikipedia for: HON. OSOGO JOYCE ATIENO BENSUDA
+[2025-05-06T12:05:34.423Z] [INFO] Successfully extracted Wikipedia details for: HON. OSOGO JOYCE ATIENO BENSUDA
+[2025-05-06T12:05:34.647Z] [INFO] Successfully extracted Wikipedia details for: HON. OYULA, JOSEPH H. MAERO
+[2025-05-06T12:05:35.346Z] [INFO] Successfully extracted Wikipedia details for: HON. OSERO PATRICK
+[2025-05-06T12:05:35.347Z] [INFO] Enriched 111/135 MPs
+[2025-05-06T12:05:37.361Z] [INFO] Extracting details from Wikipedia for: HON. PAREYIO MANTAINE AGNES
+[2025-05-06T12:05:37.366Z] [INFO] Extracting details from Wikipedia for: HON. PKOSING, DAVID
+[2025-05-06T12:05:37.373Z] [INFO] Extracting details from Wikipedia for: HON. OWINO JOHN WALTER
+[2025-05-06T12:05:37.878Z] [INFO] Successfully extracted Wikipedia details for: HON. OWINO JOHN WALTER
+[2025-05-06T12:05:38.110Z] [INFO] Successfully extracted Wikipedia details for: HON. PKOSING, DAVID
+[2025-05-06T12:05:38.259Z] [INFO] Successfully extracted Wikipedia details for: HON. PAREYIO MANTAINE AGNES
+[2025-05-06T12:05:38.260Z] [INFO] Enriched 114/135 MPs
+[2025-05-06T12:05:40.276Z] [INFO] Extracting details from Wikipedia for: HON. RAI SAMUEL GONZI
+[2025-05-06T12:05:40.283Z] [INFO] Extracting details from Wikipedia for: HON. TUNGULE CHARO KENNETH KAZUNGU
+[2025-05-06T12:05:40.291Z] [INFO] Extracting details from Wikipedia for: HON. SUDI OSCAR KIPCHUMBA
+[2025-05-06T12:05:40.583Z] [INFO] Successfully extracted Wikipedia details for: HON. SUDI OSCAR KIPCHUMBA
+[2025-05-06T12:05:41.067Z] [INFO] Successfully extracted Wikipedia details for: HON. TUNGULE CHARO KENNETH KAZUNGU
+[2025-05-06T12:05:43.616Z] [INFO] Successfully extracted Wikipedia details for: HON. RAI SAMUEL GONZI
+[2025-05-06T12:05:43.618Z] [INFO] Enriched 117/135 MPs
+[2025-05-06T12:05:45.634Z] [INFO] Extracting details from Wikipedia for: HON. SHURIE ABDI OMAR
+[2025-05-06T12:05:45.640Z] [INFO] Extracting details from Wikipedia for: HON. SUNKULI, JULIUS LEKAKENY
+[2025-05-06T12:05:45.652Z] [INFO] Extracting details from Wikipedia for: HON. SIGEI, FRANCIS KIPYEGON ARAP
+[2025-05-06T12:05:46.097Z] [INFO] Successfully extracted Wikipedia details for: HON. SUNKULI, JULIUS LEKAKENY
+[2025-05-06T12:05:46.210Z] [INFO] Successfully extracted Wikipedia details for: HON. SHURIE ABDI OMAR
+[2025-05-06T12:05:46.589Z] [INFO] Successfully extracted Wikipedia details for: HON. SIGEI, FRANCIS KIPYEGON ARAP
+[2025-05-06T12:05:46.590Z] [INFO] Enriched 120/135 MPs
+[2025-05-06T12:05:48.614Z] [INFO] Extracting details from Wikipedia for: HON. THUKU ZACHARY KWENYA
+[2025-05-06T12:05:48.619Z] [INFO] Extracting details from Wikipedia for: HON. SIYOI LILLIAN CHEBET
+[2025-05-06T12:05:48.625Z] [INFO] Extracting details from Wikipedia for: HON. WERE CHARLES ONG’ONDO
+[2025-05-06T12:05:49.099Z] [INFO] Successfully extracted Wikipedia details for: HON. THUKU ZACHARY KWENYA
+[2025-05-06T12:05:49.176Z] [INFO] Successfully extracted Wikipedia details for: HON. WERE CHARLES ONG’ONDO
+[2025-05-06T12:05:50.793Z] [INFO] Successfully extracted Wikipedia details for: HON. SIYOI LILLIAN CHEBET
+[2025-05-06T12:05:50.794Z] [INFO] Enriched 123/135 MPs
+[2025-05-06T12:05:52.811Z] [INFO] Extracting details from Wikipedia for: HON. WANDAYI, JAMES OPIYO
+[2025-05-06T12:05:52.817Z] [INFO] Extracting details from Wikipedia for: HON. WETANGULA TIMOTHY WANYONYI
+[2025-05-06T12:05:52.823Z] [INFO] Extracting details from Wikipedia for: HON. WANGAYA CHRISTOPHER ASEKA
+[2025-05-06T12:05:53.043Z] [INFO] Successfully extracted Wikipedia details for: HON. WANGAYA CHRISTOPHER ASEKA
+[2025-05-06T12:05:53.553Z] [INFO] Successfully extracted Wikipedia details for: HON. WETANGULA TIMOTHY WANYONYI
+[2025-05-06T12:05:53.587Z] [INFO] Successfully extracted Wikipedia details for: HON. WANDAYI, JAMES OPIYO
+[2025-05-06T12:05:53.588Z] [INFO] Enriched 126/135 MPs
+[2025-05-06T12:05:55.604Z] [INFO] Extracting details from Wikipedia for: HON. YEGON BRIGHTON LEONARD
+[2025-05-06T12:05:55.610Z] [INFO] Extracting details from Wikipedia for: HON. YUSSUF, ADAN HAJI
+[2025-05-06T12:05:55.616Z] [INFO] Extracting details from Wikipedia for: HON. WANJIKU JOHN NJUGUNA
+[2025-05-06T12:05:56.059Z] [INFO] Successfully extracted Wikipedia details for: HON. YUSSUF, ADAN HAJI
+[2025-05-06T12:05:56.468Z] [INFO] Successfully extracted Wikipedia details for: HON. YEGON BRIGHTON LEONARD
+[2025-05-06T12:05:56.530Z] [INFO] Successfully extracted Wikipedia details for: HON. WANJIKU JOHN NJUGUNA
+[2025-05-06T12:05:56.531Z] [INFO] Enriched 129/135 MPs
+[2025-05-06T12:05:58.549Z] [INFO] Extracting details from Wikipedia for: HON.(CPA) KIMANI FRANCIS KURIA
+[2025-05-06T12:05:58.559Z] [INFO] Extracting details from Wikipedia for: HON. WANYONYI KEVIN FERDINAND
+[2025-05-06T12:05:58.569Z] [INFO] Extracting details from Wikipedia for: HON. WANYONYI MARTIN PEPELA
+[2025-05-06T12:05:58.859Z] [INFO] Successfully extracted Wikipedia details for: HON. WANYONYI KEVIN FERDINAND
+[2025-05-06T12:05:59.338Z] [INFO] Successfully extracted Wikipedia details for: HON. WANYONYI MARTIN PEPELA
+[2025-05-06T12:05:59.397Z] [INFO] Successfully extracted Wikipedia details for: HON.(CPA) KIMANI FRANCIS KURIA
+[2025-05-06T12:05:59.398Z] [INFO] Enriched 132/135 MPs
+[2025-05-06T12:06:01.417Z] [INFO] Extracting details from Wikipedia for: VACANT
+[2025-05-06T12:06:01.426Z] [INFO] Extracting details from Wikipedia for: HON. WAWERU, JOHN KIARIE
+[2025-05-06T12:06:01.436Z] [INFO] Extracting details from Wikipedia for: VACANT
+[2025-05-06T12:06:01.757Z] [INFO] Successfully extracted Wikipedia details for: VACANT
+[2025-05-06T12:06:01.812Z] [INFO] Successfully extracted Wikipedia details for: VACANT
+[2025-05-06T12:06:01.830Z] [INFO] Successfully extracted Wikipedia details for: HON. WAWERU, JOHN KIARIE
+[2025-05-06T12:06:01.831Z] [INFO] Enriched 135/135 MPs
+[2025-05-06T12:06:01.838Z] [INFO] Step 3: Merging Wikipedia data with existing MPs
+[2025-05-06T12:06:01.842Z] [INFO] Wikipedia enrichment completed for 349 MPs
+[2025-05-06T12:06:01.849Z] [INFO] Wikipedia integration completed. Saved to C:\Users\USER\Desktop\2025 Web Projects\Scraping\output\data\kenyan_mps_with_wikipedia.json
+[2025-05-06T12:06:01.850Z] [INFO] All tasks completed successfully!

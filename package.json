@@ -1,7 +1,14 @@
 {
+  "name": "kenya-mps-scraper",
+  "version": "1.0.0",
+  "description": "A modular suite for scraping, enriching, and analyzing data about Kenya's Members of Parliament.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
-    "axios": "^1.9.0",
-    "cheerio": "^1.0.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
     "pdf-data-parser": "^1.2.18",
     "pdf-parse": "^1.1.1",
     "tesseract.js": "^6.0.1"

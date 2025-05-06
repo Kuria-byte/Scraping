@@ -1,0 +1,515 @@
+{
+  "timestamp": "2025-05-06T11:56:58.042Z",
+  "stage": "wikipedia_url_search",
+  "data": [
+    {
+      "name": "HON.  MEJJADONK,  BENJAMIN GATHIRU",
+      "gender": "Unknown",
+      "constituency": "EMBAKASI CENTRAL",
+      "county": "NAIROBI",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_gathiru%20cropped.jpg?itok=YBoa5txX",
+      "email": "Contact HON.  MEJJADONK,  BENJAMIN GATHIRU",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABDI, YUSUF HASSAN",
+      "gender": "Unknown",
+      "constituency": "KAMKUNJI",
+      "county": "NAIROBI",
+      "party": "JP",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0218.jpg?itok=Pa40r3RR",
+      "email": "Contact HON. ABDI, YUSUF HASSAN",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Hassan_Abdi",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Yusuf Hassan Abdi"
+    },
+    {
+      "name": "HON. ABDIRAHMAN MOHAMED ABDI",
+      "gender": "Unknown",
+      "constituency": "LAFEY",
+      "county": "MANDERA",
+      "party": "JP",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Final.jpg?itok=AIUCZN02",
+      "email": "Contact HON. ABDIRAHMAN MOHAMED ABDI",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garissa_County",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Garissa County"
+    },
+    {
+      "name": "HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED",
+      "gender": "Unknown",
+      "constituency": "MANDERA EAST",
+      "county": "MANDERA",
+      "party": "ODM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mandera_1.jpg?itok=JGCBzCoB",
+      "email": "Contact HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABDULLAHI AMINA DIKA",
+      "gender": "Unknown",
+      "constituency": "TANA RIVER",
+      "county": "TANA RIVER",
+      "party": "KANU",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tana%20river.jpg?itok=ZYsdgF8Y",
+      "email": "Contact HON. ABDULLAHI AMINA DIKA",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABDULLAIH BASHIR SHEIKH",
+      "gender": "Unknown",
+      "constituency": "MANDERA NORTH",
+      "county": "MANDERA",
+      "party": "UDM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Abdullaih%20Bashir%20Sheikh.jpg?itok=XQ9vc8zc",
+      "email": "Contact HON. ABDULLAIH BASHIR SHEIKH",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_political_families",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "List of political families"
+    },
+    {
+      "name": "HON. ABUBAKAR TALIB AHMED",
+      "gender": "Unknown",
+      "constituency": "",
+      "county": "",
+      "party": "WDM",
+      "status": "Nominated",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-12/Abubakar%20Ahmed%20Talib.jpg?itok=QuJngiIi",
+      "email": "Contact HON. ABUBAKAR TALIB AHMED",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABUOR PAUL",
+      "gender": "Male",
+      "constituency": "RONGO",
+      "county": "MIGORI",
+      "party": "ODM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20rongo.jpg?itok=jwvBm5qd",
+      "email": "Contact HON. ABUOR PAUL",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dalmas_Otieno",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Dalmas Otieno"
+    },
+    {
+      "name": "HON. ABURI DONYA DORICE",
+      "gender": "Unknown",
+      "constituency": "KISII",
+      "county": "KISII",
+      "party": "WDM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20kisii.jpg?itok=SlbDO5JS",
+      "email": "Contact HON. ABURI DONYA DORICE",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABURI, LAWRENCE MPURU",
+      "gender": "Unknown",
+      "constituency": "TIGANIA EAST",
+      "county": "MERU",
+      "party": "NOPEU",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20aburi.jpg?itok=K6S7RQXt",
+      "email": "Contact HON. ABURI, LAWRENCE MPURU",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Agenda_Party_(Kenya)",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "National Agenda Party (Kenya)"
+    },
+    {
+      "name": "HON. ADAGALA, BEATRICE KAHAI",
+      "gender": "Unknown",
+      "constituency": "VIHIGA",
+      "county": "VIHIGA",
+      "party": "ANC",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Adagala%20Beatrice%20Kahai.jpg?itok=ZkmYHXnu",
+      "email": "Contact HON. ADAGALA, BEATRICE KAHAI",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. (AMB.) LANGAT BENJAMIN KIPKIRUI",
+      "gender": "Unknown",
+      "constituency": "AINAMOI",
+      "county": "KERICHO",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_DSC_3461.JPG?itok=rk988Xxz",
+      "email": "Contact HON. (AMB.) LANGAT BENJAMIN KIPKIRUI",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Benjamin_Langat",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Benjamin Langat"
+    },
+    {
+      "name": "HON. ADHE WARIO GUYO",
+      "gender": "Unknown",
+      "constituency": "NORTH HORR",
+      "county": "MARSABIT",
+      "party": "KANU",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A9836.jpg?itok=VtLo9n4A",
+      "email": "Contact HON. ADHE WARIO GUYO",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. (DR.) GICHUKI EDWIN MUGO",
+      "gender": "Unknown",
+      "constituency": "MATHIOYA",
+      "county": "MURANGÁ",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Gichuki%20Edwin%20Mugo.jpg?itok=pUwhYirf",
+      "email": "Contact HON. (DR.) GICHUKI EDWIN MUGO",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ADOW ADEN MOHAMMED",
+      "gender": "Unknown",
+      "constituency": "WAJIR SOUTH",
+      "county": "WAJIR",
+      "party": "ODM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Adow%20Aden%20Mohamed.jpg?itok=LiWbR6BN",
+      "email": "Contact HON. ADOW ADEN MOHAMMED",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garissa_County",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Garissa County"
+    },
+    {
+      "name": "HON. (DR.) JACKSON KIPKEMOI KOSGEI",
+      "gender": "Unknown",
+      "constituency": "",
+      "county": "",
+      "party": "UDA",
+      "status": "Nominated",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/Kosgei%20Jackson%20Kipkemoi.jpg?itok=L-932ZtJ",
+      "email": "Contact HON. (DR.) JACKSON KIPKEMOI KOSGEI",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/October_2010_in_sports",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "October 2010 in sports"
+    },
+    {
+      "name": "HON. AHMED SHAKEEL AHMED SHABBIR",
+      "gender": "Unknown",
+      "constituency": "KISUMU EAST",
+      "county": "KISUMU",
+      "party": "IND.",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20shabbir.jpg?itok=kPXQ4gqS",
+      "email": "Contact HON. AHMED SHAKEEL AHMED SHABBIR",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. (DR.) MUTUNGA JOHN KANYUITHIA",
+      "gender": "Male",
+      "constituency": "TIGANIA WEST",
+      "county": "MERU",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20john.jpg?itok=oh6eToHz",
+      "email": "Contact HON. (DR.) MUTUNGA JOHN KANYUITHIA",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. AKUJAH, PROTUS EWESIT",
+      "gender": "Unknown",
+      "constituency": "LOIMA",
+      "county": "TURKANA",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_croped%20loima.jpg?itok=nLo_i_m_",
+      "email": "Contact HON. AKUJAH, PROTUS EWESIT",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. (DR.) PUKOSE ROBERT",
+      "gender": "Unknown",
+      "constituency": "ENDEBESS",
+      "county": "TRANS NZOIA",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20Pukose.jpg?itok=OjXU2HqN",
+      "email": "Contact HON. (DR.) PUKOSE ROBERT",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sabaot_people",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Sabaot people"
+    }
+  ]
+}

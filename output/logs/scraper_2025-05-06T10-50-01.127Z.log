@@ -1,0 +1,1149 @@
+[2025-05-06T10:50:01.136Z] [INFO] Starting base scraping...
+[2025-05-06T10:50:01.163Z] [INFO] Starting to scrape Kenya MPs data...
+[2025-05-06T10:50:07.181Z] [INFO] Detected 35 pages of MPs
+[2025-05-06T10:50:07.182Z] [INFO] Processing batch of pages 0-2
+[2025-05-06T10:50:07.184Z] [INFO] Scraping page 0...
+[2025-05-06T10:50:07.187Z] [INFO] Scraping page 1...
+[2025-05-06T10:50:07.191Z] [INFO] Scraping page 2...
+[2025-05-06T10:50:08.229Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:50:08.233Z] [INFO] Processing MP: HON.  MEJJADONK,  BENJAMIN GATHIRU
+[2025-05-06T10:50:08.235Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mejjadonk-benjamin-gathiru
+[2025-05-06T10:50:10.808Z] [INFO] Successfully fetched details for HON.  MEJJADONK,  BENJAMIN GATHIRU
+[2025-05-06T10:50:11.326Z] [INFO] Processing MP: HON. (AMB.) LANGAT BENJAMIN KIPKIRUI
+[2025-05-06T10:50:11.334Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-amb-langat-benjamin-kipkirui
+[2025-05-06T10:50:17.810Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:50:17.813Z] [INFO] Processing MP: HON. ABDI, YUSUF HASSAN
+[2025-05-06T10:50:17.818Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdi-yusuf-hassan
+[2025-05-06T10:50:18.431Z] [INFO] Successfully fetched details for HON. ABDI, YUSUF HASSAN
+[2025-05-06T10:50:18.942Z] [INFO] Processing MP: HON. ABDIRAHMAN MOHAMED ABDI
+[2025-05-06T10:50:18.946Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdirahman-mohamed-abdi
+[2025-05-06T10:50:19.249Z] [INFO] Successfully fetched details for HON. ABDIRAHMAN MOHAMED ABDI
+[2025-05-06T10:50:19.759Z] [INFO] Processing MP: HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED
+[2025-05-06T10:50:19.764Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdirahman-hussein-weytan-mohamed
+[2025-05-06T10:50:20.812Z] [INFO] Successfully fetched details for HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED
+[2025-05-06T10:50:21.320Z] [INFO] Processing MP: HON. ABDULLAHI AMINA DIKA
+[2025-05-06T10:50:21.325Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdullahi-amina-dika
+[2025-05-06T10:50:21.823Z] [INFO] Successfully fetched details for HON. ABDULLAHI AMINA DIKA
+[2025-05-06T10:50:22.328Z] [INFO] Processing MP: HON. ABDULLAIH BASHIR SHEIKH
+[2025-05-06T10:50:22.332Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdullaih-bashir-sheikh
+[2025-05-06T10:50:23.115Z] [INFO] Successfully fetched details for HON. ABDULLAIH BASHIR SHEIKH
+[2025-05-06T10:50:23.627Z] [INFO] Processing MP: HON. ABUBAKAR TALIB AHMED
+[2025-05-06T10:50:23.631Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abubakar-talib-ahmed
+[2025-05-06T10:50:24.024Z] [INFO] Successfully fetched details for HON. ABUBAKAR TALIB AHMED
+[2025-05-06T10:50:24.531Z] [INFO] Processing MP: HON. ABUOR PAUL
+[2025-05-06T10:50:24.534Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abuor-paul-0
+[2025-05-06T10:50:24.752Z] [INFO] Successfully fetched details for HON. ABUOR PAUL
+[2025-05-06T10:50:25.264Z] [INFO] Processing MP: HON. ABURI DONYA DORICE
+[2025-05-06T10:50:25.267Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-aburi-donya-dorice
+[2025-05-06T10:50:27.752Z] [INFO] Successfully fetched details for HON. ABURI DONYA DORICE
+[2025-05-06T10:50:28.266Z] [INFO] Processing MP: HON. ABURI, LAWRENCE MPURU
+[2025-05-06T10:50:28.268Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-aburi-lawrence-mpuru
+[2025-05-06T10:50:32.145Z] [INFO] Successfully fetched details for HON. ABURI, LAWRENCE MPURU
+[2025-05-06T10:50:32.656Z] [INFO] Processing MP: HON. ADAGALA, BEATRICE KAHAI
+[2025-05-06T10:50:32.659Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-adagala-beatrice-kahai
+[2025-05-06T10:50:34.516Z] [INFO] Successfully fetched details for HON. ADAGALA, BEATRICE KAHAI
+[2025-05-06T10:50:49.914Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:50:49.916Z] [INFO] Processing MP: HON. ADHE WARIO GUYO
+[2025-05-06T10:50:49.917Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-adhe-wario-guyo
+[2025-05-06T10:50:49.959Z] [INFO] Successfully fetched details for HON. (AMB.) LANGAT BENJAMIN KIPKIRUI
+[2025-05-06T10:50:50.161Z] [INFO] Successfully fetched details for HON. ADHE WARIO GUYO
+[2025-05-06T10:50:50.464Z] [INFO] Processing MP: HON. (DR.) GICHUKI EDWIN MUGO
+[2025-05-06T10:50:50.468Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-dr-gichuki-edwin-mugo
+[2025-05-06T10:50:50.632Z] [INFO] Successfully fetched details for HON. (DR.) GICHUKI EDWIN MUGO
+[2025-05-06T10:50:50.681Z] [INFO] Processing MP: HON. ADOW ADEN MOHAMMED
+[2025-05-06T10:50:50.682Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-adow-aden-mohammed
+[2025-05-06T10:50:50.883Z] [INFO] Successfully fetched details for HON. ADOW ADEN MOHAMMED
+[2025-05-06T10:50:51.137Z] [INFO] Processing MP: HON. (DR.) JACKSON KIPKEMOI KOSGEI
+[2025-05-06T10:50:51.140Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-dr-jackson-kipkemoi-kosgei
+[2025-05-06T10:50:51.394Z] [INFO] Processing MP: HON. AHMED SHAKEEL AHMED SHABBIR
+[2025-05-06T10:50:51.397Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ahmed-shakeel-ahmed-shabbir
+[2025-05-06T10:50:51.567Z] [INFO] Successfully fetched details for HON. (DR.) JACKSON KIPKEMOI KOSGEI
+[2025-05-06T10:50:51.713Z] [INFO] Successfully fetched details for HON. AHMED SHAKEEL AHMED SHABBIR
+[2025-05-06T10:50:52.070Z] [INFO] Processing MP: HON. (DR.) MUTUNGA JOHN KANYUITHIA
+[2025-05-06T10:50:52.074Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-dr-mutunga-john-kanyuithia
+[2025-05-06T10:50:52.223Z] [INFO] Processing MP: HON. AKUJAH, PROTUS EWESIT
+[2025-05-06T10:50:52.226Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-akujah-protus-ewesit
+[2025-05-06T10:50:52.332Z] [INFO] Successfully fetched details for HON. (DR.) MUTUNGA JOHN KANYUITHIA
+[2025-05-06T10:50:52.407Z] [INFO] Successfully fetched details for HON. AKUJAH, PROTUS EWESIT
+[2025-05-06T10:50:52.836Z] [INFO] Processing MP: HON. (DR.) PUKOSE ROBERT
+[2025-05-06T10:50:52.839Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-dr-pukose-robert
+[2025-05-06T10:50:52.914Z] [INFO] Processing MP: HON. ALFAH ONDIEKI MIRUKA
+[2025-05-06T10:50:52.919Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-alfah-ondieki-miruka
+[2025-05-06T10:50:53.176Z] [INFO] Successfully fetched details for HON. (DR.) PUKOSE ROBERT
+[2025-05-06T10:50:53.296Z] [INFO] Successfully fetched details for HON. ALFAH ONDIEKI MIRUKA
+[2025-05-06T10:50:53.693Z] [INFO] Processing MP: HON. (ENG.)  NZAMBIA KITHUA THUDDEUS
+[2025-05-06T10:50:53.697Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-eng-nzambia-kithua-thuddeus
+[2025-05-06T10:50:53.808Z] [INFO] Processing MP: HON. ALI ABDISIRAT KHALIF
+[2025-05-06T10:50:53.811Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ali-abdisirat-khalif
+[2025-05-06T10:50:54.007Z] [INFO] Successfully fetched details for HON. (ENG.)  NZAMBIA KITHUA THUDDEUS
+[2025-05-06T10:50:54.039Z] [INFO] Successfully fetched details for HON. ALI ABDISIRAT KHALIF
+[2025-05-06T10:50:54.516Z] [INFO] Processing MP: HON. ABDI ALI ABDI
+[2025-05-06T10:50:54.520Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdi-ali-abdi
+[2025-05-06T10:50:54.549Z] [INFO] Processing MP: HON. AMOLLO PAUL OTIENDE
+[2025-05-06T10:50:54.554Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-amollo-paul-otiende
+[2025-05-06T10:50:54.826Z] [INFO] Successfully fetched details for HON. ABDI ALI ABDI
+[2025-05-06T10:50:54.887Z] [INFO] Successfully fetched details for HON. AMOLLO PAUL OTIENDE
+[2025-05-06T10:50:55.339Z] [INFO] Processing MP: HON. ABDI KHAMIS CHOME
+[2025-05-06T10:50:55.345Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-abdi-khamis-chome
+[2025-05-06T10:50:55.393Z] [INFO] Processing MP: HON. ARAMA SAMUEL
+[2025-05-06T10:50:55.396Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-arama-samuel
+[2025-05-06T10:50:55.821Z] [INFO] Successfully fetched details for HON. ARAMA SAMUEL
+[2025-05-06T10:50:55.864Z] [INFO] Successfully fetched details for HON. ABDI KHAMIS CHOME
+[2025-05-06T10:50:56.324Z] [INFO] Processing MP: HON. ARIKO JOHN NAMOIT
+[2025-05-06T10:50:56.325Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ariko-john-namoit
+[2025-05-06T10:50:56.634Z] [INFO] Successfully fetched details for HON. ARIKO JOHN NAMOIT
+[2025-05-06T10:50:57.143Z] [INFO] Processing MP: HON. ATANDI SAMUEL ONUNGA
+[2025-05-06T10:50:57.146Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-atandi-samuel-onunga
+[2025-05-06T10:50:57.412Z] [INFO] Successfully fetched details for HON. ATANDI SAMUEL ONUNGA
+[2025-05-06T10:50:59.923Z] [INFO] Processing batch of pages 3-5
+[2025-05-06T10:50:59.927Z] [INFO] Scraping page 3...
+[2025-05-06T10:50:59.932Z] [INFO] Scraping page 4...
+[2025-05-06T10:50:59.941Z] [INFO] Scraping page 5...
+[2025-05-06T10:51:00.190Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:00.191Z] [INFO] Processing MP: HON. BABU OWINO PAUL ONGILI
+[2025-05-06T10:51:00.192Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-babu-owino-paul-ongili
+[2025-05-06T10:51:00.563Z] [INFO] Successfully fetched details for HON. BABU OWINO PAUL ONGILI
+[2025-05-06T10:51:00.602Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:00.604Z] [INFO] Processing MP: HON. BIEGO PAUL KIBICHIY
+[2025-05-06T10:51:00.605Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-biego-paul-kibichiy
+[2025-05-06T10:51:00.644Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:00.646Z] [INFO] Processing MP: HON. CHEGE NJUGUNA
+[2025-05-06T10:51:00.646Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chege-njuguna
+[2025-05-06T10:51:00.916Z] [INFO] Successfully fetched details for HON. BIEGO PAUL KIBICHIY
+[2025-05-06T10:51:01.072Z] [INFO] Processing MP: HON. BADY BADY TWALIB
+[2025-05-06T10:51:01.075Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bady-bady-twalib-0
+[2025-05-06T10:51:01.429Z] [INFO] Successfully fetched details for HON. CHEGE NJUGUNA
+[2025-05-06T10:51:01.434Z] [INFO] Processing MP: HON. BISAU, MAURICE KAKAI
+[2025-05-06T10:51:01.436Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bisau-maurice-kakai
+[2025-05-06T10:51:01.913Z] [INFO] Successfully fetched details for HON. BADY BADY TWALIB
+[2025-05-06T10:51:01.990Z] [INFO] Successfully fetched details for HON. BISAU, MAURICE KAKAI
+[2025-05-06T10:51:01.992Z] [INFO] Processing MP: HON. CHEGE SABINA WANJIRU
+[2025-05-06T10:51:01.992Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chege-sabina-wanjiru
+[2025-05-06T10:51:02.422Z] [INFO] Processing MP: HON. BARASA PATRICK SIMIYU
+[2025-05-06T10:51:02.426Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-barasa-patrick-simiyu
+[2025-05-06T10:51:02.502Z] [INFO] Processing MP: HON. BONAYA MUMINA GOLLO
+[2025-05-06T10:51:02.505Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bonaya-mumina-gollo
+[2025-05-06T10:51:03.120Z] [INFO] Successfully fetched details for HON. BARASA PATRICK SIMIYU
+[2025-05-06T10:51:03.240Z] [INFO] Successfully fetched details for HON. CHEGE SABINA WANJIRU
+[2025-05-06T10:51:03.630Z] [INFO] Processing MP: HON. BARONGO NOLFASON OBADIAH
+[2025-05-06T10:51:03.634Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-barongo-nolfason-obadiah
+[2025-05-06T10:51:03.750Z] [INFO] Processing MP: HON. CHELULE, LIZA CHEPKORIR
+[2025-05-06T10:51:03.754Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chelule-liza-chepkorir
+[2025-05-06T10:51:04.410Z] [INFO] Successfully fetched details for HON. BONAYA MUMINA GOLLO
+[2025-05-06T10:51:04.916Z] [INFO] Processing MP: HON. BOSS GLADYS JEPKOSGEI
+[2025-05-06T10:51:04.919Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-boss-gladys-jepkosgei
+[2025-05-06T10:51:05.467Z] [INFO] Successfully fetched details for HON. CHELULE, LIZA CHEPKORIR
+[2025-05-06T10:51:05.673Z] [INFO] Successfully fetched details for HON. BARONGO NOLFASON OBADIAH
+[2025-05-06T10:51:05.975Z] [INFO] Processing MP: HON. CHEPKONGA, SAMUEL KIPRONO
+[2025-05-06T10:51:05.978Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chepkonga-samuel-kiprono
+[2025-05-06T10:51:06.185Z] [INFO] Processing MP: HON. BARRE HUSSEIN ABDI
+[2025-05-06T10:51:06.188Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-barre-hussein-abdi
+[2025-05-06T10:51:06.650Z] [INFO] Successfully fetched details for HON. BARRE HUSSEIN ABDI
+[2025-05-06T10:51:06.764Z] [INFO] Successfully fetched details for HON. CHEPKONGA, SAMUEL KIPRONO
+[2025-05-06T10:51:07.170Z] [INFO] Processing MP: HON. BARTOO PHYLIS JEPKEMOI
+[2025-05-06T10:51:07.175Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bartoo-phylis-jepkemoi
+[2025-05-06T10:51:07.266Z] [INFO] Processing MP: HON. CHEPKORIR, LINET
+[2025-05-06T10:51:07.270Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chepkorir-linet
+[2025-05-06T10:51:07.889Z] [INFO] Successfully fetched details for HON. BOSS GLADYS JEPKOSGEI
+[2025-05-06T10:51:07.908Z] [INFO] Successfully fetched details for HON. BARTOO PHYLIS JEPKEMOI
+[2025-05-06T10:51:08.043Z] [INFO] Successfully fetched details for HON. CHEPKORIR, LINET
+[2025-05-06T10:51:08.396Z] [INFO] Processing MP: HON. BOWEN DAVID KANGOGO
+[2025-05-06T10:51:08.399Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bowen-david-kangogo
+[2025-05-06T10:51:08.418Z] [INFO] Processing MP: HON. BASIL ROBERT NGUI
+[2025-05-06T10:51:08.438Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-basil-robert-ngui
+[2025-05-06T10:51:08.553Z] [INFO] Processing MP: HON. CHEPKWONY  CHARITY KATHAMBI
+[2025-05-06T10:51:08.557Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chepkwony-charity-kathambi
+[2025-05-06T10:51:08.836Z] [INFO] Successfully fetched details for HON. BOWEN DAVID KANGOGO
+[2025-05-06T10:51:09.131Z] [INFO] Successfully fetched details for HON. BASIL ROBERT NGUI
+[2025-05-06T10:51:09.182Z] [INFO] Successfully fetched details for HON. CHEPKWONY  CHARITY KATHAMBI
+[2025-05-06T10:51:09.339Z] [INFO] Processing MP: HON. BUSIA RUTH ADHIAMBO ODINGA
+[2025-05-06T10:51:09.346Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-busia-ruth-adhiambo-odinga
+[2025-05-06T10:51:09.658Z] [INFO] Processing MP: HON. BAYA OWEN YAA
+[2025-05-06T10:51:09.662Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-baya-owen-yaa
+[2025-05-06T10:51:09.687Z] [INFO] Processing MP: HON. CHEROROT JOSEPH KIMUTAI
+[2025-05-06T10:51:09.694Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-cherorot-joseph-kimutai
+[2025-05-06T10:51:12.698Z] [INFO] Successfully fetched details for HON. CHEROROT JOSEPH KIMUTAI
+[2025-05-06T10:51:12.869Z] [INFO] Successfully fetched details for HON. BAYA OWEN YAA
+[2025-05-06T10:51:13.204Z] [INFO] Processing MP: HON. CHESEBE FRED KAPONDI
+[2025-05-06T10:51:13.207Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chesebe-fred-kapondi
+[2025-05-06T10:51:13.382Z] [INFO] Processing MP: HON. BEDZIMBA RASHID JUMA
+[2025-05-06T10:51:13.385Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bedzimba-rashid-juma
+[2025-05-06T10:51:13.518Z] [INFO] Successfully fetched details for HON. BUSIA RUTH ADHIAMBO ODINGA
+[2025-05-06T10:51:14.025Z] [INFO] Processing MP: HON. BUYU ROZAAH AKINYI
+[2025-05-06T10:51:14.028Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-buyu-rozaah-akinyi
+[2025-05-06T10:51:15.606Z] [INFO] Successfully fetched details for HON. CHESEBE FRED KAPONDI
+[2025-05-06T10:51:15.647Z] [INFO] Successfully fetched details for HON. BEDZIMBA RASHID JUMA
+[2025-05-06T10:51:16.113Z] [INFO] Processing MP: HON. CHIFOROMODO, MANGALE MUNGA
+[2025-05-06T10:51:16.116Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chiforomodo-mangale-munga
+[2025-05-06T10:51:16.162Z] [INFO] Processing MP: HON. BIDU, MOHAMED TUBI
+[2025-05-06T10:51:16.175Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bidu-mohamed-tubi
+[2025-05-06T10:51:20.097Z] [INFO] Successfully fetched details for HON. CHIFOROMODO, MANGALE MUNGA
+[2025-05-06T10:51:20.534Z] [INFO] Successfully fetched details for HON. BUYU ROZAAH AKINYI
+[2025-05-06T10:51:20.609Z] [INFO] Processing MP: HON. CHIKATI JOHN MURUMBA
+[2025-05-06T10:51:20.611Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chikati-john-murumba
+[2025-05-06T10:51:20.759Z] [INFO] Successfully fetched details for HON. BIDU, MOHAMED TUBI
+[2025-05-06T10:51:21.098Z] [INFO] Successfully fetched details for HON. CHIKATI JOHN MURUMBA
+[2025-05-06T10:51:21.101Z] [INFO] Processing MP: HON. BWIRE JOHN OKANO
+[2025-05-06T10:51:21.102Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-bwire-john-okano
+[2025-05-06T10:51:21.748Z] [INFO] Successfully fetched details for HON. BWIRE JOHN OKANO
+[2025-05-06T10:51:22.254Z] [INFO] Processing MP: HON. CHEBOR, PAUL KIBET
+[2025-05-06T10:51:22.257Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chebor-paul-kibet
+[2025-05-06T10:51:22.809Z] [INFO] Successfully fetched details for HON. CHEBOR, PAUL KIBET
+[2025-05-06T10:51:23.318Z] [INFO] Processing MP: HON. CHEGE JOHN KIRAGU
+[2025-05-06T10:51:23.320Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chege-john-kiragu
+[2025-05-06T10:51:23.733Z] [INFO] Successfully fetched details for HON. CHEGE JOHN KIRAGU
+[2025-05-06T10:51:26.256Z] [INFO] Processing batch of pages 6-8
+[2025-05-06T10:51:26.261Z] [INFO] Scraping page 6...
+[2025-05-06T10:51:26.272Z] [INFO] Scraping page 7...
+[2025-05-06T10:51:26.288Z] [INFO] Scraping page 8...
+[2025-05-06T10:51:28.715Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:28.717Z] [INFO] Processing MP: HON. GUYO ALI WARIO
+[2025-05-06T10:51:28.719Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-guyo-ali-wario
+[2025-05-06T10:51:28.754Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:28.755Z] [INFO] Processing MP: HON. CHUMEL, MOROTO SAMUEL
+[2025-05-06T10:51:28.756Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-chumel-moroto-samuel
+[2025-05-06T10:51:28.782Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:28.783Z] [INFO] Processing MP: HON. GACHOBE SAMUEL KINUTHIA
+[2025-05-06T10:51:28.784Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gachobe-samuel-kinuthia
+[2025-05-06T10:51:28.969Z] [INFO] Successfully fetched details for HON. GUYO ALI WARIO
+[2025-05-06T10:51:29.481Z] [INFO] Processing MP: HON. HAMISI KAKUTA MAIMAI
+[2025-05-06T10:51:29.483Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-hamisi-kakuta-maimai
+[2025-05-06T10:51:29.858Z] [INFO] Successfully fetched details for HON. HAMISI KAKUTA MAIMAI
+[2025-05-06T10:51:29.891Z] [INFO] Successfully fetched details for HON. CHUMEL, MOROTO SAMUEL
+[2025-05-06T10:51:30.368Z] [INFO] Processing MP: HON. HARO ABDUL EBRAHIM
+[2025-05-06T10:51:30.371Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-haro-abdul-ebrahim
+[2025-05-06T10:51:30.395Z] [INFO] Processing MP: HON. CPA RUTTO JULIUS KIPLETTING
+[2025-05-06T10:51:30.398Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-cpa-rutto-julius-kipletting
+[2025-05-06T10:51:30.768Z] [INFO] Successfully fetched details for HON. GACHOBE SAMUEL KINUTHIA
+[2025-05-06T10:51:31.282Z] [INFO] Processing MP: HON. GAKUYA JAMES MWANGI
+[2025-05-06T10:51:31.285Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gakuya-james-mwangi
+[2025-05-06T10:51:31.707Z] [INFO] Successfully fetched details for HON. CPA RUTTO JULIUS KIPLETTING
+[2025-05-06T10:51:31.835Z] [INFO] Successfully fetched details for HON. HARO ABDUL EBRAHIM
+[2025-05-06T10:51:31.871Z] [INFO] Successfully fetched details for HON. GAKUYA JAMES MWANGI
+[2025-05-06T10:51:32.218Z] [INFO] Processing MP: HON. DAWOOD, ABDUL RAHIM
+[2025-05-06T10:51:32.221Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-dawood-abdul-rahim
+[2025-05-06T10:51:32.337Z] [INFO] Processing MP: HON. HASSAN KULOW MAALIM
+[2025-05-06T10:51:32.340Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-hassan-kulow-maalim
+[2025-05-06T10:51:32.374Z] [INFO] Processing MP: HON. GIDEON KIMAIYO
+[2025-05-06T10:51:32.375Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kimaiyo-gideon
+[2025-05-06T10:51:32.444Z] [INFO] Successfully fetched details for HON. DAWOOD, ABDUL RAHIM
+[2025-05-06T10:51:32.581Z] [INFO] Successfully fetched details for HON. GIDEON KIMAIYO
+[2025-05-06T10:51:32.659Z] [INFO] Successfully fetched details for HON. HASSAN KULOW MAALIM
+[2025-05-06T10:51:32.954Z] [INFO] Processing MP: HON. DENA JOSEPH HAMISI
+[2025-05-06T10:51:32.958Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-denar-joseph-hamisi
+[2025-05-06T10:51:33.086Z] [INFO] Processing MP: HON. GIKARIA, DAVID
+[2025-05-06T10:51:33.089Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gikaria-david
+[2025-05-06T10:51:33.166Z] [INFO] Processing MP: HON. HIRIBAE SAID BUYA
+[2025-05-06T10:51:33.171Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-hiribae-said-buya
+[2025-05-06T10:51:33.799Z] [INFO] Successfully fetched details for HON. DENA JOSEPH HAMISI
+[2025-05-06T10:51:33.971Z] [INFO] Successfully fetched details for HON. HIRIBAE SAID BUYA
+[2025-05-06T10:51:34.311Z] [INFO] Processing MP: HON. EKWOM NABUIN
+[2025-05-06T10:51:34.312Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ekwom-nabuin
+[2025-05-06T10:51:34.474Z] [INFO] Processing MP: HON. ICHUNG’WAH ANTONY KIMANI
+[2025-05-06T10:51:34.476Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ichungwah-antony-kimani
+[2025-05-06T10:51:34.627Z] [INFO] Successfully fetched details for HON. EKWOM NABUIN
+[2025-05-06T10:51:34.740Z] [INFO] Successfully fetched details for HON. ICHUNG’WAH ANTONY KIMANI
+[2025-05-06T10:51:35.135Z] [INFO] Processing MP: HON. ELACHI BEATRICE KADEVERESIA
+[2025-05-06T10:51:35.137Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-elach-beatrice-kadeveresia
+[2025-05-06T10:51:35.242Z] [INFO] Processing MP: HON. IKANA FREDRICK LUSULI
+[2025-05-06T10:51:35.243Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ikana-fredrick-lusuli
+[2025-05-06T10:51:35.518Z] [INFO] Successfully fetched details for HON. ELACHI BEATRICE KADEVERESIA
+[2025-05-06T10:51:35.740Z] [INFO] Successfully fetched details for HON. IKANA FREDRICK LUSULI
+[2025-05-06T10:51:36.024Z] [INFO] Processing MP: HON. ERIC WAMUMBI
+[2025-05-06T10:51:36.025Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-eric-wamumbi
+[2025-05-06T10:51:36.248Z] [INFO] Processing MP: HON. IKIARA, DOROTHY MUTHONI
+[2025-05-06T10:51:36.249Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ikiara-dorothy-muthoni
+[2025-05-06T10:51:36.294Z] [INFO] Successfully fetched details for HON. ERIC WAMUMBI
+[2025-05-06T10:51:36.828Z] [INFO] Successfully fetched details for HON. GIKARIA, DAVID
+[2025-05-06T10:51:36.829Z] [INFO] Processing MP: HON. FARAH SALAH YAKUB
+[2025-05-06T10:51:36.830Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-farah-salah-yakub
+[2025-05-06T10:51:36.850Z] [INFO] Successfully fetched details for HON. IKIARA, DOROTHY MUTHONI
+[2025-05-06T10:51:37.329Z] [INFO] Processing MP: HON. GIMOSE, CHARLES GUMINI
+[2025-05-06T10:51:37.330Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gimose-charles-gumini
+[2025-05-06T10:51:37.371Z] [INFO] Successfully fetched details for HON. FARAH SALAH YAKUB
+[2025-05-06T10:51:37.372Z] [INFO] Processing MP: HON. INJENDI MOSES MALULU
+[2025-05-06T10:51:37.373Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-injendi-moses-malulu
+[2025-05-06T10:51:37.503Z] [INFO] Successfully fetched details for HON. INJENDI MOSES MALULU
+[2025-05-06T10:51:37.566Z] [INFO] Successfully fetched details for HON. GIMOSE, CHARLES GUMINI
+[2025-05-06T10:51:37.874Z] [INFO] Processing MP: HON. FARAH YUSSUF MOHAMED
+[2025-05-06T10:51:37.875Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-farah-yussuf-mohamed
+[2025-05-06T10:51:38.006Z] [INFO] Processing MP: HON. ITHINJI SHADRACK MWITI
+[2025-05-06T10:51:38.007Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ithinji-shadrack-mwiti
+[2025-05-06T10:51:38.076Z] [INFO] Processing MP: HON. GISAIRO CLIVE OMBANE
+[2025-05-06T10:51:38.078Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gisairo-clive-ombane
+[2025-05-06T10:51:38.415Z] [INFO] Successfully fetched details for HON. ITHINJI SHADRACK MWITI
+[2025-05-06T10:51:38.521Z] [INFO] Successfully fetched details for HON. FARAH YUSSUF MOHAMED
+[2025-05-06T10:51:38.627Z] [INFO] Successfully fetched details for HON. GISAIRO CLIVE OMBANE
+[2025-05-06T10:51:39.038Z] [INFO] Processing MP: HON. GACHAGUA GEORGE
+[2025-05-06T10:51:39.039Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gachagua-george
+[2025-05-06T10:51:39.130Z] [INFO] Processing MP: HON. GITARI, JOSEPH GACHOKI
+[2025-05-06T10:51:39.132Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gitari-joseph-gachoki
+[2025-05-06T10:51:39.250Z] [INFO] Successfully fetched details for HON. GACHAGUA GEORGE
+[2025-05-06T10:51:39.385Z] [INFO] Successfully fetched details for HON. GITARI, JOSEPH GACHOKI
+[2025-05-06T10:51:39.895Z] [INFO] Processing MP: HON. GITAU FAITH WAIRIMU
+[2025-05-06T10:51:39.896Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gitau-faith-wairimu-0
+[2025-05-06T10:51:40.331Z] [INFO] Successfully fetched details for HON. GITAU FAITH WAIRIMU
+[2025-05-06T10:51:40.843Z] [INFO] Processing MP: HON. GITHINJI, ROBERT GICHIMU
+[2025-05-06T10:51:40.844Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-githinji-robert-gichimu
+[2025-05-06T10:51:41.001Z] [INFO] Successfully fetched details for HON. GITHINJI, ROBERT GICHIMU
+[2025-05-06T10:51:41.512Z] [INFO] Processing MP: HON. GOGO, LILIAN ACHIENG
+[2025-05-06T10:51:41.514Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-gogo-lilian-achieng
+[2025-05-06T10:51:41.699Z] [INFO] Successfully fetched details for HON. GOGO, LILIAN ACHIENG
+[2025-05-06T10:51:44.216Z] [INFO] Processing batch of pages 9-11
+[2025-05-06T10:51:44.223Z] [INFO] Scraping page 9...
+[2025-05-06T10:51:44.231Z] [INFO] Scraping page 10...
+[2025-05-06T10:51:44.245Z] [INFO] Scraping page 11...
+[2025-05-06T10:51:44.606Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:44.608Z] [INFO] Processing MP: HON. JALDESA GUYO WAQO
+[2025-05-06T10:51:44.609Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-jaldesa-guyo-waqo
+[2025-05-06T10:51:44.651Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:44.653Z] [INFO] Processing MP: HON. KAREMBA, ERIC MUCHANGI.N.
+[2025-05-06T10:51:44.654Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-karemba-eric-muchangin
+[2025-05-06T10:51:44.771Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:51:44.773Z] [INFO] Processing MP: HON. KAILEMIA ELIZABETH KARAMBU
+[2025-05-06T10:51:44.775Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kailemia-elizabeth-karambu
+[2025-05-06T10:51:45.319Z] [INFO] Successfully fetched details for HON. JALDESA GUYO WAQO
+[2025-05-06T10:51:45.365Z] [INFO] Successfully fetched details for HON. KAREMBA, ERIC MUCHANGI.N.
+[2025-05-06T10:51:45.396Z] [INFO] Successfully fetched details for HON. KAILEMIA ELIZABETH KARAMBU
+[2025-05-06T10:51:45.824Z] [INFO] Processing MP: HON. JEHOW FATUMA ABDI
+[2025-05-06T10:51:45.826Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-jehow-fatuma-abdi
+[2025-05-06T10:51:45.867Z] [INFO] Processing MP: HON. KARIUKI GEORGE MACHARIA
+[2025-05-06T10:51:45.869Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kariuki-george-macharia
+[2025-05-06T10:51:45.900Z] [INFO] Processing MP: HON. KAJWANG’, FRANCIS TOM JOSEPH
+[2025-05-06T10:51:45.902Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kajwang-francis-tom-joseph
+[2025-05-06T10:51:46.335Z] [INFO] Successfully fetched details for HON. KARIUKI GEORGE MACHARIA
+[2025-05-06T10:51:46.547Z] [INFO] Successfully fetched details for HON. JEHOW FATUMA ABDI
+[2025-05-06T10:51:46.637Z] [INFO] Successfully fetched details for HON. KAJWANG’, FRANCIS TOM JOSEPH
+[2025-05-06T10:51:46.842Z] [INFO] Processing MP: HON. KASALU, IRENE MUTHONI
+[2025-05-06T10:51:46.846Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kasalu-irene-muthoni
+[2025-05-06T10:51:47.135Z] [INFO] Successfully fetched details for HON. KASALU, IRENE MUTHONI
+[2025-05-06T10:51:47.137Z] [INFO] Processing MP: HON. JHANDA ZAHEER
+[2025-05-06T10:51:47.138Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-jhanda-zaheer
+[2025-05-06T10:51:47.155Z] [INFO] Processing MP: HON. KALUMA GEORGE PETER OPONDO
+[2025-05-06T10:51:47.156Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kaluma-george-peter-opondo
+[2025-05-06T10:51:47.648Z] [INFO] Processing MP: HON. KASIWAI RAEL KASIWAI
+[2025-05-06T10:51:47.651Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kasiwai-rael-kasiwai
+[2025-05-06T10:51:47.783Z] [INFO] Successfully fetched details for HON. JHANDA ZAHEER
+[2025-05-06T10:51:48.273Z] [INFO] Successfully fetched details for HON. KASIWAI RAEL KASIWAI
+[2025-05-06T10:51:48.295Z] [INFO] Processing MP: HON. JOSEPH WAINAINA IRAYA
+[2025-05-06T10:51:48.297Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-joseph-wainaina-iraya
+[2025-05-06T10:51:48.524Z] [INFO] Successfully fetched details for HON. KALUMA GEORGE PETER OPONDO
+[2025-05-06T10:51:48.779Z] [INFO] Processing MP: HON. KATANA PAUL KAHINDI
+[2025-05-06T10:51:48.783Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-katana-paul-kahindi
+[2025-05-06T10:51:49.031Z] [INFO] Processing MP: HON. KAMENE, JOYCE
+[2025-05-06T10:51:49.034Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kamene-joyce
+[2025-05-06T10:51:49.374Z] [INFO] Successfully fetched details for HON. JOSEPH WAINAINA IRAYA
+[2025-05-06T10:51:49.475Z] [INFO] Successfully fetched details for HON. KAMENE, JOYCE
+[2025-05-06T10:51:49.633Z] [INFO] Successfully fetched details for HON. KATANA PAUL KAHINDI
+[2025-05-06T10:51:49.892Z] [INFO] Processing MP: HON. JUNET SHEIKH NUH MOHAMED
+[2025-05-06T10:51:49.896Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-junet-sheikh-nuh-mohamed
+[2025-05-06T10:51:49.976Z] [INFO] Processing MP: HON. KAMKET KASSAIT WILLIAM
+[2025-05-06T10:51:49.979Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kamket-kassait-william
+[2025-05-06T10:51:50.150Z] [INFO] Processing MP: HON. KAUNYA EDWARD OKU
+[2025-05-06T10:51:50.154Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kaunya-edward-oku
+[2025-05-06T10:51:50.555Z] [INFO] Successfully fetched details for HON. JUNET SHEIKH NUH MOHAMED
+[2025-05-06T10:51:50.670Z] [INFO] Successfully fetched details for HON. KAMKET KASSAIT WILLIAM
+[2025-05-06T10:51:50.881Z] [INFO] Successfully fetched details for HON. KAUNYA EDWARD OKU
+[2025-05-06T10:51:51.065Z] [INFO] Processing MP: HON. KAGESI ERNEST OGESI KIVAI
+[2025-05-06T10:51:51.067Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kagesi-ernest-ogesi-kivai
+[2025-05-06T10:51:51.175Z] [INFO] Processing MP: HON. KAMUREN, CHARLES
+[2025-05-06T10:51:51.178Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kamuren-charles-0
+[2025-05-06T10:51:51.372Z] [INFO] Successfully fetched details for HON. KAGESI ERNEST OGESI KIVAI
+[2025-05-06T10:51:51.387Z] [INFO] Processing MP: HON. KEMEI JUSTICE KIPSANG
+[2025-05-06T10:51:51.389Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kemei-justice-kipsang
+[2025-05-06T10:51:51.478Z] [INFO] Successfully fetched details for HON. KAMUREN, CHARLES
+[2025-05-06T10:51:51.632Z] [INFO] Successfully fetched details for HON. KEMEI JUSTICE KIPSANG
+[2025-05-06T10:51:51.886Z] [INFO] Processing MP: HON. KAGIRI JANE WANGECHI
+[2025-05-06T10:51:51.889Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kagiri-jane-wangechi
+[2025-05-06T10:51:51.986Z] [INFO] Processing MP: HON. KANCHORY, ELIJAH MEMUSI
+[2025-05-06T10:51:51.989Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kanchory-elijah-memusi
+[2025-05-06T10:51:52.144Z] [INFO] Processing MP: HON. KEMEI, BEATRICE CHEPNGENO
+[2025-05-06T10:51:52.148Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kemei-beatrice-chepngeno
+[2025-05-06T10:51:52.497Z] [INFO] Successfully fetched details for HON. KAGIRI JANE WANGECHI
+[2025-05-06T10:51:53.002Z] [INFO] Processing MP: HON. KAGOMBE GABRIEL GATHUKA
+[2025-05-06T10:51:53.005Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kagombe-gabriel-gathuka
+[2025-05-06T10:51:53.463Z] [INFO] Successfully fetched details for HON. KANCHORY, ELIJAH MEMUSI
+[2025-05-06T10:51:53.765Z] [INFO] Successfully fetched details for HON. KAGOMBE GABRIEL GATHUKA
+[2025-05-06T10:51:53.799Z] [INFO] Successfully fetched details for HON. KEMEI, BEATRICE CHEPNGENO
+[2025-05-06T10:51:53.966Z] [INFO] Processing MP: HON. KANDIE, JOSHUA CHEPYEGON
+[2025-05-06T10:51:53.969Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kandie-joshua-chepyegon
+[2025-05-06T10:51:54.275Z] [INFO] Processing MP: HON. KAGUCHIA JOHN PHILIP GICHOHI
+[2025-05-06T10:51:54.278Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kaguchia-john-philip-gichohi
+[2025-05-06T10:51:54.311Z] [INFO] Processing MP: HON. KEYNAN, WEHLIYE ADAN
+[2025-05-06T10:51:54.314Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-keynan-wehliye-adan
+[2025-05-06T10:51:55.586Z] [INFO] Successfully fetched details for HON. KAGUCHIA JOHN PHILIP GICHOHI
+[2025-05-06T10:51:55.662Z] [INFO] Successfully fetched details for HON. KANDIE, JOSHUA CHEPYEGON
+[2025-05-06T10:51:55.719Z] [INFO] Successfully fetched details for HON. KEYNAN, WEHLIYE ADAN
+[2025-05-06T10:51:56.090Z] [INFO] Processing MP: HON. KAHANGARA JOSEPH MBURU
+[2025-05-06T10:51:56.092Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kahangara-joseph-mburu
+[2025-05-06T10:51:56.169Z] [INFO] Processing MP: HON. KARANI STEPHEN WACHIRA
+[2025-05-06T10:51:56.173Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-karani-stephen-wachira
+[2025-05-06T10:51:56.223Z] [INFO] Processing MP: HON. KHAMISI MBOKO MISHI JUMA
+[2025-05-06T10:51:56.227Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-khamisi-mboko-mishi-juma
+[2025-05-06T10:51:57.782Z] [INFO] Successfully fetched details for HON. KHAMISI MBOKO MISHI JUMA
+[2025-05-06T10:51:58.002Z] [INFO] Successfully fetched details for HON. KAHANGARA JOSEPH MBURU
+[2025-05-06T10:51:58.051Z] [INFO] Successfully fetched details for HON. KARANI STEPHEN WACHIRA
+[2025-05-06T10:51:58.554Z] [INFO] Processing MP: HON. KARAURI, RONALD KAMWIKO
+[2025-05-06T10:51:58.558Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-karauri-ronald-kamwiko
+[2025-05-06T10:51:59.007Z] [INFO] Successfully fetched details for HON. KARAURI, RONALD KAMWIKO
+[2025-05-06T10:52:01.542Z] [INFO] Processing batch of pages 12-14
+[2025-05-06T10:52:01.543Z] [INFO] Scraping page 12...
+[2025-05-06T10:52:01.545Z] [INFO] Scraping page 13...
+[2025-05-06T10:52:01.547Z] [INFO] Scraping page 14...
+[2025-05-06T10:52:02.011Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:02.013Z] [INFO] Processing MP: HON. KIPKOROS, JOSEPH MAKILAP
+[2025-05-06T10:52:02.015Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kipkoros-joseph-makilap
+[2025-05-06T10:52:02.082Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:02.084Z] [INFO] Processing MP: HON. KOECH, NELSON
+[2025-05-06T10:52:02.086Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-koech-nelson
+[2025-05-06T10:52:02.136Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:02.139Z] [INFO] Processing MP: HON. KHODHE PHELIX ODIWUOR
+[2025-05-06T10:52:02.140Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-khodhe-phelix-odiwuor
+[2025-05-06T10:52:02.343Z] [INFO] Successfully fetched details for HON. KIPKOROS, JOSEPH MAKILAP
+[2025-05-06T10:52:02.861Z] [INFO] Processing MP: HON. KIPLAGAT DAVID
+[2025-05-06T10:52:02.864Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kiplagat-david
+[2025-05-06T10:52:03.041Z] [INFO] Successfully fetched details for HON. KOECH, NELSON
+[2025-05-06T10:52:03.215Z] [INFO] Successfully fetched details for HON. KIPLAGAT DAVID
+[2025-05-06T10:52:03.344Z] [INFO] Successfully fetched details for HON. KHODHE PHELIX ODIWUOR
+[2025-05-06T10:52:03.548Z] [INFO] Processing MP: HON. KOMBE HARRISON GARAMA
+[2025-05-06T10:52:03.551Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kombe-harrison-garama
+[2025-05-06T10:52:03.729Z] [INFO] Processing MP: HON. KIPYEGON, JOHANA NGENO
+[2025-05-06T10:52:03.732Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kipyegon-johana-ngeno
+[2025-05-06T10:52:03.848Z] [INFO] Processing MP: HON. KIAMBA SUZANNE NDUNGE
+[2025-05-06T10:52:03.851Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kiamba-suzanne-ndunge
+[2025-05-06T10:52:04.256Z] [INFO] Successfully fetched details for HON. KIAMBA SUZANNE NDUNGE
+[2025-05-06T10:52:04.398Z] [INFO] Successfully fetched details for HON. KIPYEGON, JOHANA NGENO
+[2025-05-06T10:52:04.555Z] [INFO] Successfully fetched details for HON. KOMBE HARRISON GARAMA
+[2025-05-06T10:52:04.760Z] [INFO] Processing MP: HON. KIARAHO, DAVID NJUGUNA
+[2025-05-06T10:52:04.762Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kiaraho-david-njuguna
+[2025-05-06T10:52:04.907Z] [INFO] Processing MP: HON. KIRIMA MOSES NGUCHINE
+[2025-05-06T10:52:04.910Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kirima-moses-nguchine
+[2025-05-06T10:52:05.068Z] [INFO] Processing MP: HON. KOMINGOI KIBET KIRUI
+[2025-05-06T10:52:05.071Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-komingoi-kibet-kirui
+[2025-05-06T10:52:05.887Z] [INFO] Successfully fetched details for HON. KIRIMA MOSES NGUCHINE
+[2025-05-06T10:52:05.957Z] [INFO] Successfully fetched details for HON. KIARAHO, DAVID NJUGUNA
+[2025-05-06T10:52:06.275Z] [INFO] Successfully fetched details for HON. KOMINGOI KIBET KIRUI
+[2025-05-06T10:52:06.392Z] [INFO] Processing MP: HON. KIRWA ABRAHAM KIPSANG
+[2025-05-06T10:52:06.395Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kirwa-abraham-kipsang
+[2025-05-06T10:52:06.464Z] [INFO] Processing MP: HON. KIBAGENDI, ANTONEY
+[2025-05-06T10:52:06.468Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kibagendi-antoney
+[2025-05-06T10:52:06.783Z] [INFO] Processing MP: HON. KORERE SARAH PAULATA
+[2025-05-06T10:52:06.786Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-korere-sarah-paulata
+[2025-05-06T10:52:07.194Z] [INFO] Progress saved: 129 MPs
+[2025-05-06T10:52:07.791Z] [INFO] Successfully fetched details for HON. KIBAGENDI, ANTONEY
+[2025-05-06T10:52:07.844Z] [INFO] Successfully fetched details for HON. KORERE SARAH PAULATA
+[2025-05-06T10:52:08.239Z] [INFO] Successfully fetched details for HON. KIRWA ABRAHAM KIPSANG
+[2025-05-06T10:52:08.300Z] [INFO] Processing MP: HON. KIHARA, JAYNE N.W
+[2025-05-06T10:52:08.302Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kihara-jayne-nw
+[2025-05-06T10:52:08.353Z] [INFO] Processing MP: HON. KORIR ADAMS KIPSANAI
+[2025-05-06T10:52:08.355Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-korir-adams-kipsanai
+[2025-05-06T10:52:08.529Z] [INFO] Successfully fetched details for HON. KIHARA, JAYNE N.W
+[2025-05-06T10:52:08.565Z] [INFO] Successfully fetched details for HON. KORIR ADAMS KIPSANAI
+[2025-05-06T10:52:08.750Z] [INFO] Processing MP: HON. KITANY MARIANNE
+[2025-05-06T10:52:08.751Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kitany-marianne
+[2025-05-06T10:52:08.873Z] [INFO] Successfully fetched details for HON. KITANY MARIANNE
+[2025-05-06T10:52:09.038Z] [INFO] Processing MP: HON. KIHUNGI PETER IRUNGU
+[2025-05-06T10:52:09.039Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kihungi-peter-irungu
+[2025-05-06T10:52:09.071Z] [INFO] Processing MP: HON. KOSGEI HILARY KIPLANG’AT
+[2025-05-06T10:52:09.073Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kosgei-hilary-kiplangat-0
+[2025-05-06T10:52:09.161Z] [INFO] Successfully fetched details for HON. KIHUNGI PETER IRUNGU
+[2025-05-06T10:52:09.261Z] [INFO] Successfully fetched details for HON. KOSGEI HILARY KIPLANG’AT
+[2025-05-06T10:52:09.383Z] [INFO] Processing MP: HON. KITI RICHARD KEN CHONGA
+[2025-05-06T10:52:09.385Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kiti-richard-ken-chonga
+[2025-05-06T10:52:09.537Z] [INFO] Successfully fetched details for HON. KITI RICHARD KEN CHONGA
+[2025-05-06T10:52:09.663Z] [INFO] Processing MP: HON. KILEL, RICHARD CHERUIYOT
+[2025-05-06T10:52:09.665Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kilel-richard-cheruiyot
+[2025-05-06T10:52:09.764Z] [INFO] Processing MP: HON. KOYI JOHN WALUKE
+[2025-05-06T10:52:09.766Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-koyi-john-waluke
+[2025-05-06T10:52:09.989Z] [INFO] Successfully fetched details for HON. KILEL, RICHARD CHERUIYOT
+[2025-05-06T10:52:10.053Z] [INFO] Successfully fetched details for HON. KOYI JOHN WALUKE
+[2025-05-06T10:52:10.055Z] [INFO] Processing MP: HON. KITUR, BERNARD KIBOR
+[2025-05-06T10:52:10.056Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kitur-bernard-kibor
+[2025-05-06T10:52:10.177Z] [INFO] Successfully fetched details for HON. KITUR, BERNARD KIBOR
+[2025-05-06T10:52:10.493Z] [INFO] Processing MP: HON. KIMILU, JOSHUA KIVINDA
+[2025-05-06T10:52:10.494Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kimilu-joshua-kivinda
+[2025-05-06T10:52:10.555Z] [INFO] Processing MP: HON. KUNO YAKUB ADOW
+[2025-05-06T10:52:10.556Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kuno-yakub-adow
+[2025-05-06T10:52:10.626Z] [INFO] Successfully fetched details for HON. KIMILU, JOSHUA KIVINDA
+[2025-05-06T10:52:10.687Z] [INFO] Processing MP: HON. KIUNJURI, MWANGI FESTUS
+[2025-05-06T10:52:10.689Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kiunjuri-mwangi-festus
+[2025-05-06T10:52:10.840Z] [INFO] Successfully fetched details for HON. KIUNJURI, MWANGI FESTUS
+[2025-05-06T10:52:10.872Z] [INFO] Successfully fetched details for HON. KUNO YAKUB ADOW
+[2025-05-06T10:52:11.135Z] [INFO] Processing MP: HON. KING'OLA PATRICK MAKAU
+[2025-05-06T10:52:11.136Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kingola-patrick-makau
+[2025-05-06T10:52:11.325Z] [INFO] Successfully fetched details for HON. KING'OLA PATRICK MAKAU
+[2025-05-06T10:52:11.349Z] [INFO] Processing MP: HON. KOECH KIPNGETICH VICTOR
+[2025-05-06T10:52:11.351Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-koech-kipngetich-victor
+[2025-05-06T10:52:11.374Z] [INFO] Processing MP: HON. KUNO, AMINA UDGOON SIYAD
+[2025-05-06T10:52:11.375Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kuno-amina-udgoon-siyad
+[2025-05-06T10:52:11.504Z] [INFO] Successfully fetched details for HON. KUNO, AMINA UDGOON SIYAD
+[2025-05-06T10:52:11.544Z] [INFO] Successfully fetched details for HON. KOECH KIPNGETICH VICTOR
+[2025-05-06T10:52:11.828Z] [INFO] Processing MP: HON. KINGARA,  SIMON NGANGA
+[2025-05-06T10:52:11.830Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kingara-simon-nganga
+[2025-05-06T10:52:11.993Z] [INFO] Successfully fetched details for HON. KINGARA,  SIMON NGANGA
+[2025-05-06T10:52:12.024Z] [INFO] Processing MP: HON. KURURIA ELIJAH NJORE NJOROGE
+[2025-05-06T10:52:12.028Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-kururia-elijah-njore-njoroge
+[2025-05-06T10:52:12.250Z] [INFO] Successfully fetched details for HON. KURURIA ELIJAH NJORE NJOROGE
+[2025-05-06T10:52:14.773Z] [INFO] Processing batch of pages 15-17
+[2025-05-06T10:52:14.776Z] [INFO] Scraping page 15...
+[2025-05-06T10:52:14.781Z] [INFO] Scraping page 16...
+[2025-05-06T10:52:14.790Z] [INFO] Scraping page 17...
+[2025-05-06T10:52:15.191Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:15.193Z] [INFO] Processing MP: HON. LUYAI, CALEB AMISI
+[2025-05-06T10:52:15.194Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-luyai-caleb-amisi
+[2025-05-06T10:52:15.230Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:15.231Z] [INFO] Processing MP: HON. MARUBU MUTHONI MONICAH
+[2025-05-06T10:52:15.232Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-marubu-muthoni-monicah
+[2025-05-06T10:52:15.260Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:15.261Z] [INFO] Processing MP: HON. LEKUTON JOSEPH
+[2025-05-06T10:52:15.262Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lekuton-joseph
+[2025-05-06T10:52:15.306Z] [INFO] Successfully fetched details for HON. LUYAI, CALEB AMISI
+[2025-05-06T10:52:15.566Z] [INFO] Successfully fetched details for HON. MARUBU MUTHONI MONICAH
+[2025-05-06T10:52:15.730Z] [INFO] Successfully fetched details for HON. LEKUTON JOSEPH
+[2025-05-06T10:52:15.821Z] [INFO] Processing MP: HON. MAALIM, FARAH
+[2025-05-06T10:52:15.822Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-maalim-farah
+[2025-05-06T10:52:16.076Z] [INFO] Processing MP: HON. MASARA PETER FRANCIS
+[2025-05-06T10:52:16.077Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-masara-peter-francis-0
+[2025-05-06T10:52:16.123Z] [INFO] Successfully fetched details for HON. MAALIM, FARAH
+[2025-05-06T10:52:16.240Z] [INFO] Processing MP: HON. LELMENGIT, JOSSES KIPTOO KOSGEY
+[2025-05-06T10:52:16.241Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lelmengit-josses-kiptoo-kosgey
+[2025-05-06T10:52:16.438Z] [INFO] Successfully fetched details for HON. LELMENGIT, JOSSES KIPTOO KOSGEY
+[2025-05-06T10:52:16.513Z] [INFO] Successfully fetched details for HON. MASARA PETER FRANCIS
+[2025-05-06T10:52:16.625Z] [INFO] Processing MP: HON. MACHELE MOHAMED SOUD
+[2025-05-06T10:52:16.626Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-machele-mohamed-soud
+[2025-05-06T10:52:16.969Z] [INFO] Successfully fetched details for HON. MACHELE MOHAMED SOUD
+[2025-05-06T10:52:16.971Z] [INFO] Processing MP: HON. LEMANKEN ARAMAT
+[2025-05-06T10:52:16.971Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lemanken-aramat
+[2025-05-06T10:52:17.021Z] [INFO] Processing MP: HON. MASITO, FATUMA HAMISI
+[2025-05-06T10:52:17.023Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-masito-fatuma-hamisi
+[2025-05-06T10:52:17.477Z] [INFO] Processing MP: HON. MAINA JANE NJERI
+[2025-05-06T10:52:17.480Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-maina-jane-njeri
+[2025-05-06T10:52:18.173Z] [INFO] Successfully fetched details for HON. LEMANKEN ARAMAT
+[2025-05-06T10:52:18.558Z] [INFO] Successfully fetched details for HON. MAINA JANE NJERI
+[2025-05-06T10:52:18.685Z] [INFO] Processing MP: HON. LENGURIS PAULINE
+[2025-05-06T10:52:18.687Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lenguris-pauline
+[2025-05-06T10:52:18.791Z] [INFO] Successfully fetched details for HON. MASITO, FATUMA HAMISI
+[2025-05-06T10:52:19.032Z] [INFO] Successfully fetched details for HON. LENGURIS PAULINE
+[2025-05-06T10:52:19.066Z] [INFO] Processing MP: HON. MAINA, BETTY NJERI
+[2025-05-06T10:52:19.067Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-maina-betty-njeri
+[2025-05-06T10:52:19.294Z] [INFO] Processing MP: HON. MATHENGE DUNCAN MAINA
+[2025-05-06T10:52:19.297Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mathenge-duncan-maina
+[2025-05-06T10:52:19.535Z] [INFO] Processing MP: HON. LENTOIJONI, JACKSON LEKUMONTARE
+[2025-05-06T10:52:19.538Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lentoijoni-jackson-lekumontare
+[2025-05-06T10:52:19.695Z] [INFO] Successfully fetched details for HON. MAINA, BETTY NJERI
+[2025-05-06T10:52:19.773Z] [INFO] Successfully fetched details for HON. MATHENGE DUNCAN MAINA
+[2025-05-06T10:52:19.908Z] [INFO] Successfully fetched details for HON. LENTOIJONI, JACKSON LEKUMONTARE
+[2025-05-06T10:52:20.210Z] [INFO] Processing MP: HON. MAINGI MARY
+[2025-05-06T10:52:20.213Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-maingi-mary
+[2025-05-06T10:52:20.284Z] [INFO] Processing MP: HON. MAWATHE JULIUS MUSILI
+[2025-05-06T10:52:20.287Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mawathe-julius-musili
+[2025-05-06T10:52:20.414Z] [INFO] Processing MP: HON. LESUUDA, NAISULA
+[2025-05-06T10:52:20.417Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lesuuda-naisula
+[2025-05-06T10:52:21.298Z] [INFO] Successfully fetched details for HON. MAINGI MARY
+[2025-05-06T10:52:21.338Z] [INFO] Successfully fetched details for HON. LESUUDA, NAISULA
+[2025-05-06T10:52:21.354Z] [INFO] Successfully fetched details for HON. MAWATHE JULIUS MUSILI
+[2025-05-06T10:52:21.816Z] [INFO] Processing MP: HON. MAISORI MARWA KEMERO KITAYAMA
+[2025-05-06T10:52:21.821Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-maisori-marwa-kemero-kitayama
+[2025-05-06T10:52:21.844Z] [INFO] Processing MP: HON. LETIPILA, DOMINIC ELI
+[2025-05-06T10:52:21.847Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-letipila-dominic-eli
+[2025-05-06T10:52:21.859Z] [INFO] Processing MP: HON. MAYAKA IRENE NYAKERARIO
+[2025-05-06T10:52:21.864Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mayaka-irene-nyakerario
+[2025-05-06T10:52:23.003Z] [INFO] Successfully fetched details for HON. LETIPILA, DOMINIC ELI
+[2025-05-06T10:52:23.268Z] [INFO] Successfully fetched details for HON. MAYAKA IRENE NYAKERARIO
+[2025-05-06T10:52:23.307Z] [INFO] Successfully fetched details for HON. MAISORI MARWA KEMERO KITAYAMA
+[2025-05-06T10:52:23.508Z] [INFO] Processing MP: HON. LOCHAKAPONG, PETER
+[2025-05-06T10:52:23.511Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lochakapong-peter
+[2025-05-06T10:52:23.780Z] [INFO] Processing MP: HON. MBAI, NIMROD MBITHUKA
+[2025-05-06T10:52:23.783Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mbai-nimrod-mbithuka-0
+[2025-05-06T10:52:23.823Z] [INFO] Processing MP: HON. MAJIMBO, KALASINGA
+[2025-05-06T10:52:23.828Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-majimbo-kalasinga
+[2025-05-06T10:52:25.094Z] [INFO] Successfully fetched details for HON. MAJIMBO, KALASINGA
+[2025-05-06T10:52:25.608Z] [INFO] Processing MP: HON. MAKALI JOHN OKWISIA
+[2025-05-06T10:52:25.611Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-makali-john-okwisia
+[2025-05-06T10:52:27.604Z] [INFO] Successfully fetched details for HON. MBAI, NIMROD MBITHUKA
+[2025-05-06T10:52:27.711Z] [INFO] Successfully fetched details for HON. MAKALI JOHN OKWISIA
+[2025-05-06T10:52:27.832Z] [INFO] Successfully fetched details for HON. LOCHAKAPONG, PETER
+[2025-05-06T10:52:28.117Z] [INFO] Processing MP: HON. MBALU JESSICA NDUKU KIKO
+[2025-05-06T10:52:28.121Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mbalu-jessica-nduku-kiko
+[2025-05-06T10:52:28.221Z] [INFO] Processing MP: HON. MANDUKU, DANIEL OGWOKA
+[2025-05-06T10:52:28.225Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-manduku-daniel-ogwoka
+[2025-05-06T10:52:28.342Z] [INFO] Processing MP: HON. LOMWA JOSEPH SAMAL
+[2025-05-06T10:52:28.354Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lomwa-joseph-samal
+[2025-05-06T10:52:28.904Z] [INFO] Successfully fetched details for HON. MANDUKU, DANIEL OGWOKA
+[2025-05-06T10:52:29.641Z] [INFO] Successfully fetched details for HON. LOMWA JOSEPH SAMAL
+[2025-05-06T10:52:29.671Z] [INFO] Successfully fetched details for HON. MBALU JESSICA NDUKU KIKO
+[2025-05-06T10:52:30.150Z] [INFO] Processing MP: HON. LOTEE TITUS
+[2025-05-06T10:52:30.152Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-lotee-titus
+[2025-05-06T10:52:30.181Z] [INFO] Processing MP: HON. MBONI, DAVID MWALIKA
+[2025-05-06T10:52:30.182Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mboni-david-mwalika
+[2025-05-06T10:52:30.886Z] [INFO] Successfully fetched details for HON. LOTEE TITUS
+[2025-05-06T10:52:30.937Z] [INFO] Successfully fetched details for HON. MBONI, DAVID MWALIKA
+[2025-05-06T10:52:31.441Z] [INFO] Processing MP: HON. MBUI, ROBERT
+[2025-05-06T10:52:31.444Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mbui-robert
+[2025-05-06T10:52:31.810Z] [INFO] Successfully fetched details for HON. MBUI, ROBERT
+[2025-05-06T10:52:34.331Z] [INFO] Processing batch of pages 18-20
+[2025-05-06T10:52:34.335Z] [INFO] Scraping page 18...
+[2025-05-06T10:52:34.341Z] [INFO] Scraping page 19...
+[2025-05-06T10:52:34.347Z] [INFO] Scraping page 20...
+[2025-05-06T10:52:35.263Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:35.265Z] [INFO] Processing MP: HON. MELI, JULIUS KIPBIRWOT
+[2025-05-06T10:52:35.266Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-melly-julius-kipbiwott
+[2025-05-06T10:52:35.293Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:35.294Z] [INFO] Processing MP: HON. MULE CALEB MUTISO
+[2025-05-06T10:52:35.295Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mule-caleb-mutiso
+[2025-05-06T10:52:35.702Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:35.704Z] [INFO] Processing MP: HON. MOMANYI JERUSHA MONGINA
+[2025-05-06T10:52:35.705Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-momanyi-jerusha-mongina
+[2025-05-06T10:52:35.868Z] [INFO] Successfully fetched details for HON. MELI, JULIUS KIPBIRWOT
+[2025-05-06T10:52:36.028Z] [INFO] Successfully fetched details for HON. MULE CALEB MUTISO
+[2025-05-06T10:52:36.121Z] [INFO] Successfully fetched details for HON. MOMANYI JERUSHA MONGINA
+[2025-05-06T10:52:36.381Z] [INFO] Processing MP: HON. MIZIGHI LYDIA HAIKA
+[2025-05-06T10:52:36.384Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mizighi-lydia-haika
+[2025-05-06T10:52:36.536Z] [INFO] Processing MP: HON. MULE STEPHEN MUTINDA
+[2025-05-06T10:52:36.539Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mule-stephen-mutinda
+[2025-05-06T10:52:36.628Z] [INFO] Processing MP: HON. MREMBO IRENE NJOKI
+[2025-05-06T10:52:36.631Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mrembo-irene-njoki
+[2025-05-06T10:52:36.780Z] [INFO] Successfully fetched details for HON. MIZIGHI LYDIA HAIKA
+[2025-05-06T10:52:37.060Z] [INFO] Successfully fetched details for HON. MREMBO IRENE NJOKI
+[2025-05-06T10:52:37.114Z] [INFO] Successfully fetched details for HON. MULE STEPHEN MUTINDA
+[2025-05-06T10:52:37.288Z] [INFO] Processing MP: HON. MNYAZI AMINA LAURA
+[2025-05-06T10:52:37.291Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mnyazi-amina-laura
+[2025-05-06T10:52:37.572Z] [INFO] Processing MP: HON. MUCHIRA, MICHAEL MWANGI
+[2025-05-06T10:52:37.576Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muchira-michael-mwangi
+[2025-05-06T10:52:37.621Z] [INFO] Processing MP: HON. MULI FABIAN KYULE
+[2025-05-06T10:52:37.626Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muli-fabian-kyule
+[2025-05-06T10:52:38.135Z] [INFO] Successfully fetched details for HON. MNYAZI AMINA LAURA
+[2025-05-06T10:52:38.197Z] [INFO] Successfully fetched details for HON. MUCHIRA, MICHAEL MWANGI
+[2025-05-06T10:52:38.609Z] [INFO] Successfully fetched details for HON. MULI FABIAN KYULE
+[2025-05-06T10:52:38.642Z] [INFO] Processing MP: HON. MOGAKA STEPHEN
+[2025-05-06T10:52:38.644Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mogaka-stephen
+[2025-05-06T10:52:38.701Z] [INFO] Processing MP: HON. MUGABE INNOCENT MAINO
+[2025-05-06T10:52:38.703Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mugabe-innocent-maino-0
+[2025-05-06T10:52:38.832Z] [INFO] Successfully fetched details for HON. MOGAKA STEPHEN
+[2025-05-06T10:52:38.892Z] [INFO] Successfully fetched details for HON. MUGABE INNOCENT MAINO
+[2025-05-06T10:52:39.126Z] [INFO] Processing MP: HON. MULU MAKALI
+[2025-05-06T10:52:39.130Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mulu-makali
+[2025-05-06T10:52:39.335Z] [INFO] Successfully fetched details for HON. MULU MAKALI
+[2025-05-06T10:52:39.336Z] [INFO] Processing MP: HON. MOHAMED ABDIKADIR HUSSEIN
+[2025-05-06T10:52:39.337Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mohamed-abdikadir-hussein
+[2025-05-06T10:52:39.395Z] [INFO] Processing MP: HON. MUGE CYNTHIA JEPKOSGEI
+[2025-05-06T10:52:39.396Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muge-cynthia-jepkosgei
+[2025-05-06T10:52:39.489Z] [INFO] Successfully fetched details for HON. MOHAMED ABDIKADIR HUSSEIN
+[2025-05-06T10:52:39.674Z] [INFO] Successfully fetched details for HON. MUGE CYNTHIA JEPKOSGEI
+[2025-05-06T10:52:39.848Z] [INFO] Processing MP: HON. MULYUNGI, GIDEON MUTEMI
+[2025-05-06T10:52:39.852Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mulyungi-gideon-mutemi
+[2025-05-06T10:52:40.033Z] [INFO] Successfully fetched details for HON. MULYUNGI, GIDEON MUTEMI
+[2025-05-06T10:52:40.035Z] [INFO] Processing MP: HON. MOHAMED ADEN DAUDI
+[2025-05-06T10:52:40.036Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mohamed-aden-daudi
+[2025-05-06T10:52:40.177Z] [INFO] Processing MP: HON. MUHANDA ELSIE BUSIHILE
+[2025-05-06T10:52:40.180Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muhanda-elsie-busihile
+[2025-05-06T10:52:40.322Z] [INFO] Successfully fetched details for HON. MOHAMED ADEN DAUDI
+[2025-05-06T10:52:40.370Z] [INFO] Successfully fetched details for HON. MUHANDA ELSIE BUSIHILE
+[2025-05-06T10:52:40.545Z] [INFO] Processing MP: HON. MUMO, ROSE MUSEO
+[2025-05-06T10:52:40.547Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mumo-rose-museo
+[2025-05-06T10:52:40.796Z] [INFO] Successfully fetched details for HON. MUMO, ROSE MUSEO
+[2025-05-06T10:52:40.824Z] [INFO] Processing MP: HON. MOHAMED MOHAMED ALI
+[2025-05-06T10:52:40.826Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mohamed-mohamed-ali-0
+[2025-05-06T10:52:40.872Z] [INFO] Processing MP: HON. MUHIA WANJIKU
+[2025-05-06T10:52:40.874Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muhia-wanjiku
+[2025-05-06T10:52:41.019Z] [INFO] Successfully fetched details for HON. MOHAMED MOHAMED ALI
+[2025-05-06T10:52:41.129Z] [INFO] Successfully fetched details for HON. MUHIA WANJIKU
+[2025-05-06T10:52:41.313Z] [INFO] Processing MP: HON. MUNYORO JOSEPH KAMAU
+[2025-05-06T10:52:41.317Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-munyoro-joseph-kamau
+[2025-05-06T10:52:41.531Z] [INFO] Successfully fetched details for HON. MUNYORO JOSEPH KAMAU
+[2025-05-06T10:52:41.536Z] [INFO] Processing MP: HON. MOHAMED UMULKHER HARUN
+[2025-05-06T10:52:41.541Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mohamed-umulkher-harun
+[2025-05-06T10:52:41.633Z] [INFO] Processing MP: HON. MUKHWANA TITUS KHAMALA
+[2025-05-06T10:52:41.635Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mukhwana-titus-khamala
+[2025-05-06T10:52:41.754Z] [INFO] Successfully fetched details for HON. MOHAMED UMULKHER HARUN
+[2025-05-06T10:52:42.026Z] [INFO] Successfully fetched details for HON. MUKHWANA TITUS KHAMALA
+[2025-05-06T10:52:42.038Z] [INFO] Processing MP: HON. MUPE ANTHONY KENGA
+[2025-05-06T10:52:42.040Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mupe-anthony-kenga
+[2025-05-06T10:52:42.256Z] [INFO] Successfully fetched details for HON. MUPE ANTHONY KENGA
+[2025-05-06T10:52:42.259Z] [INFO] Processing MP: HON. MOHAMMED FATUMA ZAINAB
+[2025-05-06T10:52:42.261Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mohammed-fatuma-zainab
+[2025-05-06T10:52:42.404Z] [INFO] Successfully fetched details for HON. MOHAMMED FATUMA ZAINAB
+[2025-05-06T10:52:42.528Z] [INFO] Processing MP: HON. MUKUNJI JOHN GITONGA MWANIKI
+[2025-05-06T10:52:42.534Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mukunji-john-gitonga-mwaniki
+[2025-05-06T10:52:42.733Z] [INFO] Successfully fetched details for HON. MUKUNJI JOHN GITONGA MWANIKI
+[2025-05-06T10:52:42.767Z] [INFO] Processing MP: HON. MURATHA ANNE WANJIKU MUGO
+[2025-05-06T10:52:42.771Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muratha-anne-wanjiku-mugo
+[2025-05-06T10:52:42.968Z] [INFO] Successfully fetched details for HON. MURATHA ANNE WANJIKU MUGO
+[2025-05-06T10:52:42.973Z] [INFO] Processing MP: HON. MOHAMMED ZAMZAM CHIMBA
+[2025-05-06T10:52:42.975Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mohammed-zamzam-chimba
+[2025-05-06T10:52:43.221Z] [INFO] Successfully fetched details for HON. MOHAMMED ZAMZAM CHIMBA
+[2025-05-06T10:52:43.262Z] [INFO] Processing MP: HON. MULANYA EKESA GEOFFREY
+[2025-05-06T10:52:43.263Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mulanya-ekesa-geoffrey
+[2025-05-06T10:52:43.375Z] [INFO] Successfully fetched details for HON. MULANYA EKESA GEOFFREY
+[2025-05-06T10:52:43.483Z] [INFO] Processing MP: HON. MURIU WAKILI EDWARD
+[2025-05-06T10:52:43.486Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muriu-wakili-edward
+[2025-05-06T10:52:43.850Z] [INFO] Successfully fetched details for HON. MURIU WAKILI EDWARD
+[2025-05-06T10:52:46.374Z] [INFO] Processing batch of pages 21-23
+[2025-05-06T10:52:46.377Z] [INFO] Scraping page 21...
+[2025-05-06T10:52:46.381Z] [INFO] Scraping page 22...
+[2025-05-06T10:52:46.389Z] [INFO] Scraping page 23...
+[2025-05-06T10:52:47.072Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:47.073Z] [INFO] Processing MP: HON. MWALE NICHOLAS SCOTT TINDI
+[2025-05-06T10:52:47.074Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwale-nicholas-scott-tindi
+[2025-05-06T10:52:47.103Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:47.104Z] [INFO] Processing MP: HON. MURIUKI NEBART BERNARD
+[2025-05-06T10:52:47.106Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muriuki-nebart-bernard
+[2025-05-06T10:52:47.165Z] [INFO] Successfully fetched details for HON. MWALE NICHOLAS SCOTT TINDI
+[2025-05-06T10:52:47.311Z] [INFO] Successfully fetched details for HON. MURIUKI NEBART BERNARD
+[2025-05-06T10:52:47.668Z] [INFO] Processing MP: HON. MWALYO, JOSHUA MBITHI
+[2025-05-06T10:52:47.674Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwalyo-joshua-mbithi
+[2025-05-06T10:52:47.819Z] [INFO] Processing MP: HON. MURUGARA GEORGE GITONGA
+[2025-05-06T10:52:47.824Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-murugara-george-gitonga
+[2025-05-06T10:52:47.965Z] [INFO] Successfully fetched details for HON. MWALYO, JOSHUA MBITHI
+[2025-05-06T10:52:48.002Z] [INFO] Successfully fetched details for HON. MURUGARA GEORGE GITONGA
+[2025-05-06T10:52:48.473Z] [INFO] Processing MP: HON. MWANGI GEOFFREY WANDETO
+[2025-05-06T10:52:48.476Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwangi-geoffrey-wandeto
+[2025-05-06T10:52:48.513Z] [INFO] Processing MP: HON. MUSAU, VINCENT MUSYOKA
+[2025-05-06T10:52:48.515Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-musau-vincent-musyoka
+[2025-05-06T10:52:48.747Z] [INFO] Successfully fetched details for HON. MWANGI GEOFFREY WANDETO
+[2025-05-06T10:52:48.792Z] [INFO] Successfully fetched details for HON. MUSAU, VINCENT MUSYOKA
+[2025-05-06T10:52:49.264Z] [INFO] Processing MP: HON. MWANGI TERESIA WANJIRU
+[2025-05-06T10:52:49.267Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwangi-teresia-wanjiru
+[2025-05-06T10:52:49.305Z] [INFO] Processing MP: HON. MUTAI KIPRONOH ALFRED
+[2025-05-06T10:52:49.318Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mutai-kipronoh-alfred
+[2025-05-06T10:52:49.467Z] [INFO] Successfully fetched details for HON. MWANGI TERESIA WANJIRU
+[2025-05-06T10:52:49.545Z] [INFO] Successfully fetched details for HON. MUTAI KIPRONOH ALFRED
+[2025-05-06T10:52:49.691Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:52:49.694Z] [INFO] Processing MP: HON. NAMUAR JOSEPH EMATHE
+[2025-05-06T10:52:49.696Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-namuar-joseph-emathe
+[2025-05-06T10:52:49.907Z] [INFO] Successfully fetched details for HON. NAMUAR JOSEPH EMATHE
+[2025-05-06T10:52:49.972Z] [INFO] Processing MP: HON. MWANYANJE GERTRUDE MBEYU
+[2025-05-06T10:52:49.978Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwanyanje-gertrude-mbeyu
+[2025-05-06T10:52:50.051Z] [INFO] Processing MP: HON. MUTHAMA STANLEY MUIRURI
+[2025-05-06T10:52:50.058Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-muthama-stanley-muiruri
+[2025-05-06T10:52:50.144Z] [INFO] Successfully fetched details for HON. MWANYANJE GERTRUDE MBEYU
+[2025-05-06T10:52:50.366Z] [INFO] Successfully fetched details for HON. MUTHAMA STANLEY MUIRURI
+[2025-05-06T10:52:50.420Z] [INFO] Processing MP: HON. NANOK, DANIEL EPUYO
+[2025-05-06T10:52:50.422Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nanok-daniel-epuyo
+[2025-05-06T10:52:50.650Z] [INFO] Processing MP: HON. MWENJE MARK SAMUEL MURIITHI
+[2025-05-06T10:52:50.654Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwenje-mark-samuel-muriithi
+[2025-05-06T10:52:50.874Z] [INFO] Processing MP: HON. MUTUA, DIDMUS WEKESA BARASA
+[2025-05-06T10:52:50.878Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mutua-didmus-wekesa-barasa-0
+[2025-05-06T10:52:51.874Z] [INFO] Successfully fetched details for HON. NANOK, DANIEL EPUYO
+[2025-05-06T10:52:51.981Z] [INFO] Successfully fetched details for HON. MWENJE MARK SAMUEL MURIITHI
+[2025-05-06T10:52:52.109Z] [INFO] Successfully fetched details for HON. MUTUA, DIDMUS WEKESA BARASA
+[2025-05-06T10:52:52.379Z] [INFO] Processing MP: HON. NDUNG’U, GEORGE KOIMBURI
+[2025-05-06T10:52:52.383Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ndungu-george-koimburi
+[2025-05-06T10:52:52.500Z] [INFO] Processing MP: HON. MWIRIGI JOHN PAUL
+[2025-05-06T10:52:52.504Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwirigi-john-paul
+[2025-05-06T10:52:52.612Z] [INFO] Processing MP: HON. MUTUSE ECKOMAS MWENGI
+[2025-05-06T10:52:52.616Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mutuse-eckomas-mwengi
+[2025-05-06T10:52:52.730Z] [INFO] Successfully fetched details for HON. NDUNG’U, GEORGE KOIMBURI
+[2025-05-06T10:52:53.268Z] [INFO] Successfully fetched details for HON. MWIRIGI JOHN PAUL
+[2025-05-06T10:52:53.272Z] [INFO] Processing MP: HON. NDUYO SUSAN NGUGI
+[2025-05-06T10:52:53.274Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nduyo-susan-ngugi
+[2025-05-06T10:52:53.338Z] [INFO] Successfully fetched details for HON. MUTUSE ECKOMAS MWENGI
+[2025-05-06T10:52:53.619Z] [INFO] Successfully fetched details for HON. NDUYO SUSAN NGUGI
+[2025-05-06T10:52:53.773Z] [INFO] Processing MP: HON. NABII NABWERA DARAJA
+[2025-05-06T10:52:53.776Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nabii-nabwera-daraja
+[2025-05-06T10:52:53.842Z] [INFO] Processing MP: HON. MWAFRIKA AUGUSTINE KAMANDE
+[2025-05-06T10:52:53.846Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwafrika-augustine-kamande
+[2025-05-06T10:52:53.988Z] [INFO] Successfully fetched details for HON. NABII NABWERA DARAJA
+[2025-05-06T10:52:54.009Z] [INFO] Successfully fetched details for HON. MWAFRIKA AUGUSTINE KAMANDE
+[2025-05-06T10:52:54.133Z] [INFO] Processing MP: HON. NGANGA ALICE WAMBUI
+[2025-05-06T10:52:54.138Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nganga-alice-wambui
+[2025-05-06T10:52:54.489Z] [INFO] Processing MP: HON. NABULINDO, PETER OSCAR
+[2025-05-06T10:52:54.491Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nabulindo-peter-oscar
+[2025-05-06T10:52:54.511Z] [INFO] Processing MP: HON. MWAGO AMOS MAINA
+[2025-05-06T10:52:54.513Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwago-amos-maina
+[2025-05-06T10:52:54.545Z] [INFO] Successfully fetched details for HON. NGANGA ALICE WAMBUI
+[2025-05-06T10:52:54.628Z] [INFO] Successfully fetched details for HON. NABULINDO, PETER OSCAR
+[2025-05-06T10:52:54.781Z] [INFO] Successfully fetched details for HON. MWAGO AMOS MAINA
+[2025-05-06T10:52:55.056Z] [INFO] Processing MP: HON. NGIKOLONG NICHOLAS NGIKOR NIXON
+[2025-05-06T10:52:55.057Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ngikolong-nicholas-ngikor-nixon
+[2025-05-06T10:52:55.129Z] [INFO] Processing MP: HON. NAICCA JOHNSON MANYA
+[2025-05-06T10:52:55.130Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-naicca-johnson-manya-0
+[2025-05-06T10:52:55.156Z] [INFO] Successfully fetched details for HON. NGIKOLONG NICHOLAS NGIKOR NIXON
+[2025-05-06T10:52:55.288Z] [INFO] Processing MP: HON. MWAKUWONA DANSON MWASHAKO
+[2025-05-06T10:52:55.289Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-mwakuwona-danson-mwashako
+[2025-05-06T10:52:55.663Z] [INFO] Processing MP: HON. NGITIT, CECILIA ASINYEN
+[2025-05-06T10:52:55.664Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ngitit-cecilia-asinyen
+[2025-05-06T10:52:55.906Z] [INFO] Successfully fetched details for HON. MWAKUWONA DANSON MWASHAKO
+[2025-05-06T10:52:55.959Z] [INFO] Successfully fetched details for HON. NAICCA JOHNSON MANYA
+[2025-05-06T10:52:56.031Z] [INFO] Successfully fetched details for HON. NGITIT, CECILIA ASINYEN
+[2025-05-06T10:52:56.536Z] [INFO] Processing MP: HON. NGUNA, NGUSYA CHARLES
+[2025-05-06T10:52:56.538Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nguna-ngusya-charles
+[2025-05-06T10:52:56.742Z] [INFO] Successfully fetched details for HON. NGUNA, NGUSYA CHARLES
+[2025-05-06T10:52:57.259Z] [INFO] Processing MP: HON. NGURO ONESMUS NGOGOYO
+[2025-05-06T10:52:57.262Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nguro-onesmus-ngogoyo
+[2025-05-06T10:52:57.902Z] [INFO] Successfully fetched details for HON. NGURO ONESMUS NGOGOYO
+[2025-05-06T10:52:58.417Z] [INFO] Processing MP: HON. NG’ELECHEI CAROLINE JEPTOO
+[2025-05-06T10:52:58.418Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ngelechei-caroline-jeptoo
+[2025-05-06T10:52:58.989Z] [INFO] Successfully fetched details for HON. NG’ELECHEI CAROLINE JEPTOO
+[2025-05-06T10:53:01.502Z] [INFO] Processing batch of pages 24-26
+[2025-05-06T10:53:01.503Z] [INFO] Scraping page 24...
+[2025-05-06T10:53:01.506Z] [INFO] Scraping page 25...
+[2025-05-06T10:53:01.509Z] [INFO] Scraping page 26...
+[2025-05-06T10:53:03.390Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:03.391Z] [INFO] Processing MP: HON. NG’ONGO JOHN MBADI
+[2025-05-06T10:53:03.392Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ngongo-john-mbadi
+[2025-05-06T10:53:03.492Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:03.494Z] [INFO] Processing MP: HON. ODHIAMBO, ELISHA OCHIENG
+[2025-05-06T10:53:03.494Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-odhiambo-elisha-ochieng-0
+[2025-05-06T10:53:03.519Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:03.520Z] [INFO] Processing MP: HON. NYIKAL WAMBURA JAMES
+[2025-05-06T10:53:03.521Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyikal-wambura-james
+[2025-05-06T10:53:04.442Z] [INFO] Successfully fetched details for HON. NYIKAL WAMBURA JAMES
+[2025-05-06T10:53:04.515Z] [INFO] Successfully fetched details for HON. ODHIAMBO, ELISHA OCHIENG
+[2025-05-06T10:53:04.959Z] [INFO] Processing MP: HON. NYORO, SAMSON NDINDI
+[2025-05-06T10:53:04.961Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyoro-samson-ndindi
+[2025-05-06T10:53:05.024Z] [INFO] Processing MP: HON. ODHIAMBO, MILLIE GRACE AKOTH
+[2025-05-06T10:53:05.026Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-odhiambo-millie-grace-akoth-0
+[2025-05-06T10:53:05.442Z] [INFO] Successfully fetched details for HON. NG’ONGO JOHN MBADI
+[2025-05-06T10:53:05.951Z] [INFO] Processing MP: HON. NJERU PAMELA NJOKI
+[2025-05-06T10:53:05.954Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-njeru-pamela-njoki
+[2025-05-06T10:53:06.210Z] [INFO] Successfully fetched details for HON. NYORO, SAMSON NDINDI
+[2025-05-06T10:53:06.714Z] [INFO] Processing MP: HON. NZENGU, PAUL MUSYIMI
+[2025-05-06T10:53:06.717Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nzengu-paul-musyimi
+[2025-05-06T10:53:09.164Z] [INFO] Successfully fetched details for HON. NZENGU, PAUL MUSYIMI
+[2025-05-06T10:53:09.667Z] [INFO] Processing MP: HON. NZIOKA ERASTUS KIVASU
+[2025-05-06T10:53:09.670Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nzioka-erastus-kivasu
+[2025-05-06T10:53:09.954Z] [INFO] Successfully fetched details for HON. NJERU PAMELA NJOKI
+[2025-05-06T10:53:10.076Z] [INFO] Successfully fetched details for HON. NZIOKA ERASTUS KIVASU
+[2025-05-06T10:53:10.458Z] [INFO] Processing MP: HON. NJOROGE MARY WAMAUA WAITHIRA
+[2025-05-06T10:53:10.462Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-njoroge-mary-wamaua-waithira
+[2025-05-06T10:53:10.583Z] [INFO] Processing MP: HON. OBARA EVE AKINYI
+[2025-05-06T10:53:10.586Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-obara-eve-akinyi
+[2025-05-06T10:53:10.951Z] [INFO] Successfully fetched details for HON. NJOROGE MARY WAMAUA WAITHIRA
+[2025-05-06T10:53:11.500Z] [INFO] Successfully fetched details for HON. OBARA EVE AKINYI
+[2025-05-06T10:53:11.501Z] [INFO] Processing MP: HON. NTUTU KITILAI OLE
+[2025-05-06T10:53:11.502Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ntutu-kitilai-ole
+[2025-05-06T10:53:11.860Z] [INFO] Successfully fetched details for HON. NTUTU KITILAI OLE
+[2025-05-06T10:53:12.014Z] [INFO] Processing MP: HON. OBIRI, INNOCENT MOMANYI
+[2025-05-06T10:53:12.018Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-obiri-innocent-momanyi
+[2025-05-06T10:53:12.374Z] [INFO] Processing MP: HON. NTWIGA PATRICK MUNENE
+[2025-05-06T10:53:12.376Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ntwiga-patrick-munene
+[2025-05-06T10:53:12.875Z] [INFO] Successfully fetched details for HON. NTWIGA PATRICK MUNENE
+[2025-05-06T10:53:12.983Z] [INFO] Successfully fetched details for HON. OBIRI, INNOCENT MOMANYI
+[2025-05-06T10:53:13.175Z] [INFO] Successfully fetched details for HON. ODHIAMBO, MILLIE GRACE AKOTH
+[2025-05-06T10:53:13.387Z] [INFO] Processing MP: HON. NYAKUNDI JAPHETH MOKAYA
+[2025-05-06T10:53:13.391Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyakundi-japheth-mokaya
+[2025-05-06T10:53:13.489Z] [INFO] Processing MP: HON. OBO RUWEIDA MOHAMED
+[2025-05-06T10:53:13.493Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-obo-ruweida-mohamed
+[2025-05-06T10:53:13.693Z] [INFO] Processing MP: HON. OGOLLA. GIDEON OCHANDA
+[2025-05-06T10:53:13.696Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ogolla-gideon-ochanda-0
+[2025-05-06T10:53:15.464Z] [INFO] Successfully fetched details for HON. OBO RUWEIDA MOHAMED
+[2025-05-06T10:53:15.533Z] [INFO] Successfully fetched details for HON. NYAKUNDI JAPHETH MOKAYA
+[2025-05-06T10:53:15.630Z] [INFO] Successfully fetched details for HON. OGOLLA. GIDEON OCHANDA
+[2025-05-06T10:53:15.977Z] [INFO] Processing MP: HON. OCHIENG DAVID OUMA
+[2025-05-06T10:53:15.981Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ochieng-david-ouma
+[2025-05-06T10:53:16.038Z] [INFO] Processing MP: HON. NYAMAI RACHAEL KAKI
+[2025-05-06T10:53:16.045Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyamai-rachael-kaki-0
+[2025-05-06T10:53:16.136Z] [INFO] Processing MP: HON. OKELO, JARED ODOYO
+[2025-05-06T10:53:16.140Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-okello-jared-odoyo
+[2025-05-06T10:53:16.832Z] [INFO] Successfully fetched details for HON. OKELO, JARED ODOYO
+[2025-05-06T10:53:16.898Z] [INFO] Successfully fetched details for HON. NYAMAI RACHAEL KAKI
+[2025-05-06T10:53:16.928Z] [INFO] Successfully fetched details for HON. OCHIENG DAVID OUMA
+[2025-05-06T10:53:17.341Z] [INFO] Processing MP: HON. OKUOME ADIPO ANDREW
+[2025-05-06T10:53:17.343Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-okuome-adipo-andrew
+[2025-05-06T10:53:17.402Z] [INFO] Processing MP: HON. NYAMITA MARK OGOLLA
+[2025-05-06T10:53:17.404Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyamita-mark-ogolla-0
+[2025-05-06T10:53:17.436Z] [INFO] Processing MP: HON. ODANGA, GEOFFREY MAKOKHA
+[2025-05-06T10:53:17.437Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-odanga-geoffrey-makokha-0
+[2025-05-06T10:53:17.489Z] [INFO] Successfully fetched details for HON. OKUOME ADIPO ANDREW
+[2025-05-06T10:53:17.578Z] [INFO] Successfully fetched details for HON. ODANGA, GEOFFREY MAKOKHA
+[2025-05-06T10:53:17.652Z] [INFO] Successfully fetched details for HON. NYAMITA MARK OGOLLA
+[2025-05-06T10:53:17.995Z] [INFO] Processing MP: HON. OLUOCH, ANTHONY TOM
+[2025-05-06T10:53:17.997Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-oluoch-anthony-tom-0
+[2025-05-06T10:53:18.087Z] [INFO] Processing MP: HON. ODEGE TOM MBOYA
+[2025-05-06T10:53:18.089Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-odege-tom-mboya-0
+[2025-05-06T10:53:18.160Z] [INFO] Processing MP: HON. NYAMOKO, JOASH NYAMACHE
+[2025-05-06T10:53:18.162Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyamoko-joash-nyamache-0
+[2025-05-06T10:53:18.698Z] [INFO] Successfully fetched details for HON. ODEGE TOM MBOYA
+[2025-05-06T10:53:18.740Z] [INFO] Successfully fetched details for HON. NYAMOKO, JOASH NYAMACHE
+[2025-05-06T10:53:18.784Z] [INFO] Successfully fetched details for HON. OLUOCH, ANTHONY TOM
+[2025-05-06T10:53:19.249Z] [INFO] Processing MP: HON. NYENZE EDITH VETHI
+[2025-05-06T10:53:19.251Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-nyenze-edith-vethi
+[2025-05-06T10:53:19.296Z] [INFO] Processing MP: HON. OMANYO, CATHERINE NAKHABI
+[2025-05-06T10:53:19.297Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-omanyo-catherine-nakhabi
+[2025-05-06T10:53:19.566Z] [INFO] Successfully fetched details for HON. NYENZE EDITH VETHI
+[2025-05-06T10:53:19.601Z] [INFO] Successfully fetched details for HON. OMANYO, CATHERINE NAKHABI
+[2025-05-06T10:53:20.103Z] [INFO] Processing MP: HON. OMBAKA ODUOR CHRISTINE
+[2025-05-06T10:53:20.104Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-ombaka-oduor-christine
+[2025-05-06T10:53:20.262Z] [INFO] Successfully fetched details for HON. OMBAKA ODUOR CHRISTINE
+[2025-05-06T10:53:20.772Z] [INFO] Processing MP: HON. OMBOKO MILEMBA
+[2025-05-06T10:53:20.773Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-omboko-milemba
+[2025-05-06T10:53:21.986Z] [INFO] Successfully fetched details for HON. OMBOKO MILEMBA
+[2025-05-06T10:53:22.499Z] [INFO] Processing MP: HON. OMONDI CAROLI
+[2025-05-06T10:53:22.502Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-omondi-caroli
+[2025-05-06T10:53:22.662Z] [INFO] Successfully fetched details for HON. OMONDI CAROLI
+[2025-05-06T10:53:25.195Z] [INFO] Processing batch of pages 27-29
+[2025-05-06T10:53:25.197Z] [INFO] Scraping page 27...
+[2025-05-06T10:53:25.201Z] [INFO] Scraping page 28...
+[2025-05-06T10:53:25.209Z] [INFO] Scraping page 29...
+[2025-05-06T10:53:25.578Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:25.581Z] [INFO] Processing MP: HON. OMWERA GEORGE ALDWA
+[2025-05-06T10:53:25.584Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-omwera-george-aladwa-1
+[2025-05-06T10:53:25.686Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:25.687Z] [INFO] Processing MP: Hon. Raso, Dido Ali
+[2025-05-06T10:53:25.688Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-raso-dido-ali-0
+[2025-05-06T10:53:25.749Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:25.750Z] [INFO] Processing MP: HON. OWINO, MARTIN PETERS
+[2025-05-06T10:53:25.750Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-owino-martin-peters-0
+[2025-05-06T10:53:26.350Z] [INFO] Successfully fetched details for HON. OMWERA GEORGE ALDWA
+[2025-05-06T10:53:26.865Z] [INFO] Processing MP: HON. ONCHOKE CHARLES MAMWACHA
+[2025-05-06T10:53:26.868Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-onchoke-charles-mamwacha
+[2025-05-06T10:53:27.956Z] [INFO] Successfully fetched details for Hon. Raso, Dido Ali
+[2025-05-06T10:53:28.467Z] [INFO] Processing MP: HON. RASSO, COL (RTD) DIDO ALI
+[2025-05-06T10:53:28.471Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-rasso-col-rtd-dido-ali
+[2025-05-06T10:53:29.931Z] [INFO] Successfully fetched details for HON. OWINO, MARTIN PETERS
+[2025-05-06T10:53:30.471Z] [INFO] Successfully fetched details for HON. ONCHOKE CHARLES MAMWACHA
+[2025-05-06T10:53:30.473Z] [INFO] Processing MP: HON. OWUOR, JOSHUA ADUMA
+[2025-05-06T10:53:30.474Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-owuor-joshua-aduma-0
+[2025-05-06T10:53:30.508Z] [INFO] Successfully fetched details for HON. RASSO, COL (RTD) DIDO ALI
+[2025-05-06T10:53:30.855Z] [INFO] Successfully fetched details for HON. OWUOR, JOSHUA ADUMA
+[2025-05-06T10:53:30.981Z] [INFO] Processing MP: HON. ONYIEGO, SILVANUS OSORO
+[2025-05-06T10:53:30.982Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-onyiego-silvanus-osoro-0
+[2025-05-06T10:53:31.013Z] [INFO] Processing MP: HON. REUBEN KIBOREK
+[2025-05-06T10:53:31.015Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-reuben-kiborek
+[2025-05-06T10:53:31.172Z] [INFO] Successfully fetched details for HON. ONYIEGO, SILVANUS OSORO
+[2025-05-06T10:53:31.210Z] [INFO] Successfully fetched details for HON. REUBEN KIBOREK
+[2025-05-06T10:53:31.369Z] [INFO] Processing MP: HON. OYOO, JAMES ONYANGO
+[2025-05-06T10:53:31.372Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-oyoo-james-onyango-0
+[2025-05-06T10:53:31.683Z] [INFO] Processing MP: HON. ORERO, PETER OCHIENG
+[2025-05-06T10:53:31.701Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-orero-peter-ochieng
+[2025-05-06T10:53:31.712Z] [INFO] Processing MP: HON. ROBI, MATHIAS NYAMABE
+[2025-05-06T10:53:31.716Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-robi-mathias-nyamabe-0
+[2025-05-06T10:53:31.881Z] [INFO] Successfully fetched details for HON. OYOO, JAMES ONYANGO
+[2025-05-06T10:53:32.382Z] [INFO] Processing MP: HON. OYUGI, DICK MAUNGU
+[2025-05-06T10:53:32.385Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-oyugi-dick-maungu
+[2025-05-06T10:53:32.782Z] [INFO] Successfully fetched details for HON. ORERO, PETER OCHIENG
+[2025-05-06T10:53:32.895Z] [INFO] Successfully fetched details for HON. OYUGI, DICK MAUNGU
+[2025-05-06T10:53:33.100Z] [INFO] Successfully fetched details for HON. ROBI, MATHIAS NYAMABE
+[2025-05-06T10:53:33.289Z] [INFO] Processing MP: HON. ORON JOSHUA ODONGO
+[2025-05-06T10:53:33.291Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-oron-joshua-odongo
+[2025-05-06T10:53:33.406Z] [INFO] Processing MP: HON. OYULA, JOSEPH H. MAERO
+[2025-05-06T10:53:33.409Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-oyula-joseph-h-maero-0
+[2025-05-06T10:53:33.574Z] [INFO] Successfully fetched details for HON. ORON JOSHUA ODONGO
+[2025-05-06T10:53:33.647Z] [INFO] Successfully fetched details for HON. OYULA, JOSEPH H. MAERO
+[2025-05-06T10:53:33.649Z] [INFO] Processing MP: HON. SALASYA PETER KALERWA
+[2025-05-06T10:53:33.650Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-salasya-peter-kalerwa
+[2025-05-06T10:53:33.776Z] [INFO] Successfully fetched details for HON. SALASYA PETER KALERWA
+[2025-05-06T10:53:34.089Z] [INFO] Processing MP: HON. OSERO PATRICK
+[2025-05-06T10:53:34.090Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-osero-patrick
+[2025-05-06T10:53:34.152Z] [INFO] Processing MP: HON. PARASHINA SAMUEL SAKIMBA
+[2025-05-06T10:53:34.153Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-parashina-samuel-sakimba
+[2025-05-06T10:53:34.283Z] [INFO] Processing MP: HON. SALIM FEISAL ABDALLAH BADER
+[2025-05-06T10:53:34.286Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-salim-feisal-abdallah-bader
+[2025-05-06T10:53:34.422Z] [INFO] Successfully fetched details for HON. OSERO PATRICK
+[2025-05-06T10:53:34.581Z] [INFO] Successfully fetched details for HON. SALIM FEISAL ABDALLAH BADER
+[2025-05-06T10:53:34.619Z] [INFO] Successfully fetched details for HON. PARASHINA SAMUEL SAKIMBA
+[2025-05-06T10:53:34.935Z] [INFO] Processing MP: HON. OSOGO JOYCE ATIENO BENSUDA
+[2025-05-06T10:53:34.937Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-osogo-joyce-atieno-bensuda
+[2025-05-06T10:53:35.084Z] [INFO] Processing MP: HON. SANEY IBRAHIM ADBI
+[2025-05-06T10:53:35.088Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-saney-ibrahim-adbi
+[2025-05-06T10:53:35.120Z] [INFO] Processing MP: HON. PAREYIO MANTAINE AGNES
+[2025-05-06T10:53:35.121Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-pareyio-mantaine-agnes
+[2025-05-06T10:53:35.160Z] [INFO] Successfully fetched details for HON. OSOGO JOYCE ATIENO BENSUDA
+[2025-05-06T10:53:35.664Z] [INFO] Processing MP: HON. OTUCHO, MARY EMAASE
+[2025-05-06T10:53:35.667Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-otucho-mary-emaase
+[2025-05-06T10:53:35.960Z] [INFO] Successfully fetched details for HON. SANEY IBRAHIM ADBI
+[2025-05-06T10:53:36.000Z] [INFO] Successfully fetched details for HON. PAREYIO MANTAINE AGNES
+[2025-05-06T10:53:36.040Z] [INFO] Successfully fetched details for HON. OTUCHO, MARY EMAASE
+[2025-05-06T10:53:36.470Z] [INFO] Processing MP: HON. SANKAIRE LEAH SOPIATO
+[2025-05-06T10:53:36.473Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sankaire-leah-sopiato
+[2025-05-06T10:53:36.509Z] [INFO] Processing MP: HON. PASSARIS ESTHER MUTHONI
+[2025-05-06T10:53:36.516Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-passaris-esther-muthoni
+[2025-05-06T10:53:36.547Z] [INFO] Processing MP: HON. OUNDO, WILBERFORCE OJIAMBO
+[2025-05-06T10:53:36.563Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-oundo-wilberforce-ojiambo-0
+[2025-05-06T10:53:36.856Z] [INFO] Successfully fetched details for HON. PASSARIS ESTHER MUTHONI
+[2025-05-06T10:53:36.966Z] [INFO] Successfully fetched details for HON. SANKAIRE LEAH SOPIATO
+[2025-05-06T10:53:37.006Z] [INFO] Successfully fetched details for HON. OUNDO, WILBERFORCE OJIAMBO
+[2025-05-06T10:53:37.369Z] [INFO] Processing MP: HON. PKOSING, DAVID
+[2025-05-06T10:53:37.372Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-pkosing-david-losiakou-0
+[2025-05-06T10:53:37.473Z] [INFO] Processing MP: HON. SERGON, JEMATIAH FLOWRENCE
+[2025-05-06T10:53:37.476Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sergon-jematiah-flowrence
+[2025-05-06T10:53:37.588Z] [INFO] Successfully fetched details for HON. PKOSING, DAVID
+[2025-05-06T10:53:37.591Z] [INFO] Processing MP: HON. OWINO JOHN WALTER
+[2025-05-06T10:53:37.592Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-owino-john-walter-0
+[2025-05-06T10:53:37.781Z] [INFO] Successfully fetched details for HON. SERGON, JEMATIAH FLOWRENCE
+[2025-05-06T10:53:37.966Z] [INFO] Successfully fetched details for HON. OWINO JOHN WALTER
+[2025-05-06T10:53:38.098Z] [INFO] Processing MP: HON. RAI SAMUEL GONZI
+[2025-05-06T10:53:38.102Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-rai-samuel-gonzi
+[2025-05-06T10:53:38.292Z] [INFO] Successfully fetched details for HON. RAI SAMUEL GONZI
+[2025-05-06T10:53:38.294Z] [INFO] Processing MP: HON. SHAKE MBOGHO PETER
+[2025-05-06T10:53:38.295Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-shake-mbogho-peter
+[2025-05-06T10:53:38.429Z] [INFO] Successfully fetched details for HON. SHAKE MBOGHO PETER
+[2025-05-06T10:53:40.959Z] [INFO] Processing batch of pages 30-32
+[2025-05-06T10:53:40.962Z] [INFO] Scraping page 30...
+[2025-05-06T10:53:40.969Z] [INFO] Scraping page 31...
+[2025-05-06T10:53:40.977Z] [INFO] Scraping page 32...
+[2025-05-06T10:53:43.716Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:43.718Z] [INFO] Processing MP: HON. SUDI OSCAR KIPCHUMBA
+[2025-05-06T10:53:43.719Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sudi-oscar-kipchumba-0
+[2025-05-06T10:53:43.747Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:43.748Z] [INFO] Processing MP: HON. TOROITICH TIMOTHY KIPCHUMBA
+[2025-05-06T10:53:43.749Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-toroitich-timothy-kipchumba
+[2025-05-06T10:53:43.780Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:43.782Z] [INFO] Processing MP: HON. SHEIKH UMUL KER KASSIM
+[2025-05-06T10:53:43.782Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sheikh-umul-ker-kassim
+[2025-05-06T10:53:44.702Z] [INFO] Successfully fetched details for HON. TOROITICH TIMOTHY KIPCHUMBA
+[2025-05-06T10:53:45.216Z] [INFO] Processing MP: HON. TUNGULE CHARO KENNETH KAZUNGU
+[2025-05-06T10:53:45.219Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-tungule-charo-kenneth-kazungu
+[2025-05-06T10:53:45.431Z] [INFO] Successfully fetched details for HON. SHEIKH UMUL KER KASSIM
+[2025-05-06T10:53:45.944Z] [INFO] Processing MP: HON. SHIMBWA OMAR MWINYI
+[2025-05-06T10:53:45.947Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-shimbwa-omar-mwinyi-0
+[2025-05-06T10:53:47.080Z] [INFO] Successfully fetched details for HON. TUNGULE CHARO KENNETH KAZUNGU
+[2025-05-06T10:53:47.212Z] [INFO] Successfully fetched details for HON. SHIMBWA OMAR MWINYI
+[2025-05-06T10:53:47.597Z] [INFO] Processing MP: HON. WACHIRA,  RAHAB MUKAMI
+[2025-05-06T10:53:47.600Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wachira-rahab-mukami-0
+[2025-05-06T10:53:47.730Z] [INFO] Processing MP: HON. SHINALI BERNARD MASAKA
+[2025-05-06T10:53:47.734Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-shinali-bernard-masaka
+[2025-05-06T10:53:48.076Z] [INFO] Successfully fetched details for HON. SUDI OSCAR KIPCHUMBA
+[2025-05-06T10:53:48.284Z] [INFO] Successfully fetched details for HON. WACHIRA,  RAHAB MUKAMI
+[2025-05-06T10:53:48.403Z] [INFO] Successfully fetched details for HON. SHINALI BERNARD MASAKA
+[2025-05-06T10:53:48.591Z] [INFO] Processing MP: HON. SULEKA HULBALE HARUN
+[2025-05-06T10:53:48.595Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-suleka-hulbale-harun
+[2025-05-06T10:53:48.797Z] [INFO] Processing MP: HON. WAINAINA ANTHONY NJOROGE
+[2025-05-06T10:53:48.801Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wainaina-anthony-njoroge
+[2025-05-06T10:53:48.877Z] [INFO] Successfully fetched details for HON. SULEKA HULBALE HARUN
+[2025-05-06T10:53:48.913Z] [INFO] Processing MP: HON. SHURIE ABDI OMAR
+[2025-05-06T10:53:48.916Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-shurie-abdi-omar-0
+[2025-05-06T10:53:49.084Z] [INFO] Successfully fetched details for HON. WAINAINA ANTHONY NJOROGE
+[2025-05-06T10:53:49.181Z] [INFO] Successfully fetched details for HON. SHURIE ABDI OMAR
+[2025-05-06T10:53:49.381Z] [INFO] Processing MP: HON. SUNKUIYA,  GEORGE RISA
+[2025-05-06T10:53:49.384Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sunkuyia-george-risa-0
+[2025-05-06T10:53:49.591Z] [INFO] Processing MP: HON. WAINAINA, MICHAEL WAMBUGU
+[2025-05-06T10:53:49.594Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wainaina-michael-wambugu
+[2025-05-06T10:53:49.690Z] [INFO] Processing MP: HON. SIGEI, FRANCIS KIPYEGON ARAP
+[2025-05-06T10:53:49.695Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sigei-francis-kipyegon-arap
+[2025-05-06T10:53:49.913Z] [INFO] Successfully fetched details for HON. SUNKUIYA,  GEORGE RISA
+[2025-05-06T10:53:50.438Z] [INFO] Successfully fetched details for HON. WAINAINA, MICHAEL WAMBUGU
+[2025-05-06T10:53:50.439Z] [INFO] Processing MP: HON. SUNKULI, JULIUS LEKAKENY
+[2025-05-06T10:53:50.440Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sunkuli-julius-lekakeny
+[2025-05-06T10:53:50.941Z] [INFO] Successfully fetched details for HON. SUNKULI, JULIUS LEKAKENY
+[2025-05-06T10:53:50.942Z] [INFO] Processing MP: HON. WAITHAKA JOHN MACHUA
+[2025-05-06T10:53:50.943Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-waithaka-john-machua
+[2025-05-06T10:53:50.972Z] [INFO] Successfully fetched details for HON. SIGEI, FRANCIS KIPYEGON ARAP
+[2025-05-06T10:53:51.190Z] [INFO] Successfully fetched details for HON. WAITHAKA JOHN MACHUA
+[2025-05-06T10:53:51.450Z] [INFO] Processing MP: HON. TAITAMU JULIUS MÁNAIBA
+[2025-05-06T10:53:51.453Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-taitumu-julius-manaiba
+[2025-05-06T10:53:51.480Z] [INFO] Processing MP: HON. SIRMA, MUSA CHERUTICH
+[2025-05-06T10:53:51.486Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sirma-musa-cherutich
+[2025-05-06T10:53:51.634Z] [INFO] Successfully fetched details for HON. TAITAMU JULIUS MÁNAIBA
+[2025-05-06T10:53:51.698Z] [INFO] Successfully fetched details for HON. SIRMA, MUSA CHERUTICH
+[2025-05-06T10:53:51.699Z] [INFO] Processing MP: HON. WAMACUKURU JAMES GITHUA KAMAU
+[2025-05-06T10:53:51.700Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wamacukuru-james-githua-kamau-0
+[2025-05-06T10:53:51.965Z] [INFO] Successfully fetched details for HON. WAMACUKURU JAMES GITHUA KAMAU
+[2025-05-06T10:53:52.140Z] [INFO] Processing MP: HON. TANDAZA KASSIM SAWA
+[2025-05-06T10:53:52.143Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-tandaza-kassim-sawa-0
+[2025-05-06T10:53:52.207Z] [INFO] Processing MP: HON. SITATI DANIEL WANYAMA
+[2025-05-06T10:53:52.214Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sitati-daniel-wanyama-0
+[2025-05-06T10:53:52.344Z] [INFO] Successfully fetched details for HON. TANDAZA KASSIM SAWA
+[2025-05-06T10:53:52.506Z] [INFO] Successfully fetched details for HON. SITATI DANIEL WANYAMA
+[2025-05-06T10:53:52.510Z] [INFO] Processing MP: HON. WAMBILIANGA CATHERINE NANJALA
+[2025-05-06T10:53:52.512Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wambilianga-catherine-nanjala-0
+[2025-05-06T10:53:52.661Z] [INFO] Successfully fetched details for HON. WAMBILIANGA CATHERINE NANJALA
+[2025-05-06T10:53:52.852Z] [INFO] Processing MP: HON. THUKU ZACHARY KWENYA
+[2025-05-06T10:53:52.855Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-thuku-zachary-kwenya-0
+[2025-05-06T10:53:53.053Z] [INFO] Successfully fetched details for HON. THUKU ZACHARY KWENYA
+[2025-05-06T10:53:53.056Z] [INFO] Processing MP: HON. SITIENEI, JANET JEPKEMBOI
+[2025-05-06T10:53:53.058Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sitienei-janet-jepkemboi-0
+[2025-05-06T10:53:53.222Z] [INFO] Successfully fetched details for HON. SITIENEI, JANET JEPKEMBOI
+[2025-05-06T10:53:53.226Z] [INFO] Processing MP: HON. WAMBOKA WANAMI JACK NELSON
+[2025-05-06T10:53:53.232Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wamboka-wanami-jack-nelson
+[2025-05-06T10:53:53.474Z] [INFO] Successfully fetched details for HON. WAMBOKA WANAMI JACK NELSON
+[2025-05-06T10:53:53.569Z] [INFO] Processing MP: HON. TONGOYO, GABRIEL KOSHAL
+[2025-05-06T10:53:53.572Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-tongoyo-gabriel-koshal-0
+[2025-05-06T10:53:53.727Z] [INFO] Processing MP: HON. SIYOI LILLIAN CHEBET
+[2025-05-06T10:53:53.730Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-siyoi-lillian-chebet
+[2025-05-06T10:53:54.010Z] [INFO] Successfully fetched details for HON. TONGOYO, GABRIEL KOSHAL
+[2025-05-06T10:53:54.015Z] [INFO] Processing MP: HON. WAMUCHOMBA,  GATHONI
+[2025-05-06T10:53:54.016Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wamuchomba-gathoni-0
+[2025-05-06T10:53:54.125Z] [INFO] Successfully fetched details for HON. SIYOI LILLIAN CHEBET
+[2025-05-06T10:53:54.186Z] [INFO] Successfully fetched details for HON. WAMUCHOMBA,  GATHONI
+[2025-05-06T10:53:54.516Z] [INFO] Processing MP: HON. TONKEI REBECCA NOONAISHI
+[2025-05-06T10:53:54.521Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-tonkei-rebecca-noonaishi
+[2025-05-06T10:53:54.759Z] [INFO] Successfully fetched details for HON. TONKEI REBECCA NOONAISHI
+[2025-05-06T10:53:54.762Z] [INFO] Processing MP: HON. SLOYA CLEMENT LOGOVA
+[2025-05-06T10:53:54.764Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-sloya-clement-logova
+[2025-05-06T10:53:55.040Z] [INFO] Successfully fetched details for HON. SLOYA CLEMENT LOGOVA
+[2025-05-06T10:53:55.265Z] [INFO] Processing MP: HON. TONUI JOSEPH KIPKOSGEI
+[2025-05-06T10:53:55.270Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-tonui-joseph-kipkosgei
+[2025-05-06T10:53:55.430Z] [INFO] Successfully fetched details for HON. TONUI JOSEPH KIPKOSGEI
+[2025-05-06T10:53:57.953Z] [INFO] Processing batch of pages 33-34
+[2025-05-06T10:53:57.956Z] [INFO] Scraping page 33...
+[2025-05-06T10:53:57.965Z] [INFO] Scraping page 34...
+[2025-05-06T10:53:58.550Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:58.552Z] [INFO] Processing MP: HON. WERE CHARLES ONG’ONDO
+[2025-05-06T10:53:58.554Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-were-charles-ongondo-0
+[2025-05-06T10:53:58.591Z] [INFO] Found 10 MPs on this page
+[2025-05-06T10:53:58.593Z] [INFO] Processing MP: HON. WANDAYI, JAMES OPIYO
+[2025-05-06T10:53:58.593Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wandayi-james-opiyo-0
+[2025-05-06T10:53:58.634Z] [INFO] Successfully fetched details for HON. WERE CHARLES ONG’ONDO
+[2025-05-06T10:53:58.671Z] [INFO] Successfully fetched details for HON. WANDAYI, JAMES OPIYO
+[2025-05-06T10:53:59.138Z] [INFO] Processing MP: HON. WETANGULA TIMOTHY WANYONYI
+[2025-05-06T10:53:59.142Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wetangula-timothy-wanyonyi-0
+[2025-05-06T10:53:59.177Z] [INFO] Processing MP: HON. WANGAYA CHRISTOPHER ASEKA
+[2025-05-06T10:53:59.181Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wangaya-christopher-aseka-0
+[2025-05-06T10:53:59.417Z] [INFO] Successfully fetched details for HON. WETANGULA TIMOTHY WANYONYI
+[2025-05-06T10:53:59.483Z] [INFO] Successfully fetched details for HON. WANGAYA CHRISTOPHER ASEKA
+[2025-05-06T10:53:59.927Z] [INFO] Processing MP: HON. YEGON BRIGHTON LEONARD
+[2025-05-06T10:53:59.930Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-yegon-brighton-leonard
+[2025-05-06T10:53:59.988Z] [INFO] Processing MP: HON. WANGWE, EMMANUEL
+[2025-05-06T10:53:59.991Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wangwe-emmanuel-0
+[2025-05-06T10:54:00.098Z] [INFO] Successfully fetched details for HON. YEGON BRIGHTON LEONARD
+[2025-05-06T10:54:00.157Z] [INFO] Successfully fetched details for HON. WANGWE, EMMANUEL
+[2025-05-06T10:54:00.604Z] [INFO] Processing MP: HON. YEGON, RICHARD KIPKEMOI
+[2025-05-06T10:54:00.608Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-yegon-richard-kipkemoi
+[2025-05-06T10:54:00.669Z] [INFO] Processing MP: HON. WANJALA RAPHAEL BITTA SAUTI
+[2025-05-06T10:54:00.674Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wanjala-raphael-bitta-sauti-0
+[2025-05-06T10:54:00.849Z] [INFO] Successfully fetched details for HON. YEGON, RICHARD KIPKEMOI
+[2025-05-06T10:54:00.906Z] [INFO] Successfully fetched details for HON. WANJALA RAPHAEL BITTA SAUTI
+[2025-05-06T10:54:01.359Z] [INFO] Processing MP: HON. YUSSUF, ADAN HAJI
+[2025-05-06T10:54:01.362Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-yussuf-adan-haji-0
+[2025-05-06T10:54:01.411Z] [INFO] Processing MP: HON. WANJIKU JOHN NJUGUNA
+[2025-05-06T10:54:01.414Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wanjiku-john-njuguna-0
+[2025-05-06T10:54:01.805Z] [INFO] Successfully fetched details for HON. YUSSUF, ADAN HAJI
+[2025-05-06T10:54:01.853Z] [INFO] Successfully fetched details for HON. WANJIKU JOHN NJUGUNA
+[2025-05-06T10:54:02.317Z] [INFO] Processing MP: HON.(CPA) KIMANI FRANCIS KURIA
+[2025-05-06T10:54:02.321Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/honcpa-kimani-francis-kuria
+[2025-05-06T10:54:02.368Z] [INFO] Processing MP: HON. WANJIRA, MARTHA WANGARI
+[2025-05-06T10:54:02.374Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wanjira-martha-wangari-0
+[2025-05-06T10:54:02.864Z] [INFO] Successfully fetched details for HON. WANJIRA, MARTHA WANGARI
+[2025-05-06T10:54:02.898Z] [INFO] Successfully fetched details for HON.(CPA) KIMANI FRANCIS KURIA
+[2025-05-06T10:54:03.376Z] [INFO] Processing MP: HON. WANYONYI KEVIN FERDINAND
+[2025-05-06T10:54:03.380Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wanyonyi-kevin-ferdinand
+[2025-05-06T10:54:03.412Z] [INFO] Processing MP: HON.KARITHO KIILI DANIEL
+[2025-05-06T10:54:03.416Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/honkaritho-kiili-daniel
+[2025-05-06T10:54:03.564Z] [INFO] Successfully fetched details for HON. WANYONYI KEVIN FERDINAND
+[2025-05-06T10:54:03.637Z] [INFO] Successfully fetched details for HON.KARITHO KIILI DANIEL
+[2025-05-06T10:54:04.080Z] [INFO] Processing MP: HON. WANYONYI MARTIN PEPELA
+[2025-05-06T10:54:04.083Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-wanyonyi-martin-pepela
+[2025-05-06T10:54:04.152Z] [INFO] Processing MP: HON.MBIUKI JAPHET MIRITI KAREKE
+[2025-05-06T10:54:04.158Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/honmbiuki-japhet-miriti-kareke
+[2025-05-06T10:54:04.660Z] [INFO] Successfully fetched details for HON. WANYONYI MARTIN PEPELA
+[2025-05-06T10:54:05.172Z] [INFO] Processing MP: HON. WAQO NAOMI JILLO
+[2025-05-06T10:54:05.177Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-waqo-naomi-jillo
+[2025-05-06T10:54:05.582Z] [INFO] Successfully fetched details for HON.MBIUKI JAPHET MIRITI KAREKE
+[2025-05-06T10:54:06.031Z] [INFO] Successfully fetched details for HON. WAQO NAOMI JILLO
+[2025-05-06T10:54:06.097Z] [INFO] Processing MP: VACANT
+[2025-05-06T10:54:06.100Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/vacant-0
+[2025-05-06T10:54:06.538Z] [INFO] Processing MP: HON. WAWERU, JOHN KIARIE
+[2025-05-06T10:54:06.541Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/hon-waweru-john-kiarie-0
+[2025-05-06T10:54:07.206Z] [INFO] Progress saved: 346 MPs
+[2025-05-06T10:54:07.922Z] [INFO] Successfully fetched details for VACANT
+[2025-05-06T10:54:08.433Z] [INFO] Processing MP: VACANT
+[2025-05-06T10:54:08.436Z] [INFO] Fetching additional details from: http://www.parliament.go.ke/the-national-assembly/vacant
+[2025-05-06T10:54:08.562Z] [INFO] Successfully fetched details for HON. WAWERU, JOHN KIARIE
+[2025-05-06T10:54:10.784Z] [INFO] Successfully fetched details for VACANT
+[2025-05-06T10:54:13.318Z] [INFO] Scraping completed. 349 MPs saved to C:\Users\USER\Desktop\2025 Web Projects\Scraping\output\data\kenyan_mps_data.json
+[2025-05-06T10:54:13.321Z] [INFO] Starting enrichment...
+[2025-05-06T10:54:13.374Z] [INFO] Enrichment completed. Saved to C:\Users\USER\Desktop\2025 Web Projects\Scraping\output\data\kenyan_mps_enhanced.json
+[2025-05-06T10:54:13.377Z] [INFO] Starting Wikipedia data integration...
+[2025-05-06T10:54:16.387Z] [ERROR] Error in main: Request failed with status code 404
+[2025-05-06T10:54:16.389Z] [ERROR] AxiosError: Request failed with status code 404
+    at settle (C:\Users\USER\Desktop\2025 Web Projects\Scraping\node_modules\axios\dist\node\axios.cjs:2049:12)
+    at Unzip.handleStreamEnd (C:\Users\USER\Desktop\2025 Web Projects\Scraping\node_modules\axios\dist\node\axios.cjs:3166:11)
+    at Unzip.emit (node:events:536:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (C:\Users\USER\Desktop\2025 Web Projects\Scraping\node_modules\axios\dist\node\axios.cjs:4276:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WikipediaScraper.scrapeWikipediaMPs (C:\Users\USER\Desktop\2025 Web Projects\Scraping\src\scrapers\wikipedia-scraper.js:13:22)
+    at async main (C:\Users\USER\Desktop\2025 Web Projects\Scraping\src\index.js:56:28)

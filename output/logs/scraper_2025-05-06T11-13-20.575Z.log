@@ -1,0 +1,12 @@
+[2025-05-06T11:13:20.583Z] [INFO] Starting Wikipedia data integration...
+[2025-05-06T11:13:20.590Z] [INFO] Starting Wikipedia MP extraction...
+[2025-05-06T11:13:20.591Z] [INFO] Fetching Wikipedia page: https://en.wikipedia.org/wiki/13th_Parliament_of_Kenya
+[2025-05-06T11:13:21.558Z] [INFO] Found 5 tables on https://en.wikipedia.org/wiki/13th_Parliament_of_Kenya
+[2025-05-06T11:13:21.590Z] [INFO] Fetching Wikipedia page: https://en.wikipedia.org/wiki/List_of_members_of_the_National_Assembly_of_Kenya,_2022-2027
+[2025-05-06T11:13:31.834Z] [ERROR] Failed to fetch Wikipedia page: https://en.wikipedia.org/wiki/List_of_members_of_the_National_Assembly_of_Kenya,_2022-2027 (Request failed with status code 404)
+[2025-05-06T11:13:31.836Z] [INFO] Extracted 94 MPs from Wikipedia
+[2025-05-06T11:13:31.838Z] [INFO] After deduplication: 94 unique MPs
+[2025-05-06T11:13:31.839Z] [INFO] Merging Wikipedia data with existing MP data...
+[2025-05-06T11:13:31.883Z] [INFO] Match statistics: Direct: 0, Constituency: 0, County fuzzy: 34, Fuzzy: 43, No match: 17
+[2025-05-06T11:13:31.888Z] [INFO] Wikipedia integration completed. Saved to C:\Users\USER\Desktop\2025 Web Projects\Scraping\output\data\kenyan_mps_with_wikipedia.json
+[2025-05-06T11:13:31.889Z] [INFO] All tasks completed successfully!

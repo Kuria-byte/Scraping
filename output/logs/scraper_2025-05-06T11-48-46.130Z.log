@@ -1,0 +1,13 @@
+[2025-05-06T11:48:46.138Z] [INFO] Starting Wikipedia data integration...
+[2025-05-06T11:48:46.146Z] [ERROR] Error in main: wikipediaScraper.scrapeWikipediaMPs is not a function
+[2025-05-06T11:48:46.148Z] [ERROR] TypeError: wikipediaScraper.scrapeWikipediaMPs is not a function
+    at main (C:\Users\USER\Desktop\2025 Web Projects\Scraping\src\index.js:56:51)
+    at Object.<anonymous> (C:\Users\USER\Desktop\2025 Web Projects\Scraping\src\index.js:95:3)
+    at Module._compile (node:internal/modules/cjs/loader:1562:14)
+    at Object..js (node:internal/modules/cjs/loader:1699:10)
+    at Module.load (node:internal/modules/cjs/loader:1313:32)
+    at Function._load (node:internal/modules/cjs/loader:1123:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:217:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:170:5)
+    at node:internal/main/run_main_module:36:49

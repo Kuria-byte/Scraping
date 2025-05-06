@@ -1,146 +1,124 @@
-const axios = require('axios');
+/**
+ * Enhanced Wikipedia Scraper for Kenya MPs
+ * Extracts detailed biographical and career information from Wikipedia
+ */
+
 const cheerio = require('cheerio');
-const fs = require('fs');
 const path = require('path');
+const HttpClient = require('../utils/http-client');
+const logger = require('../utils/logger');
+const { saveCheckpoint, findLatestCheckpoint } = require('../utils/file-utils');
+const { normalizeNameForComparison } = require('../utils/name-utils');
+const { urls, outputConfig } = require('../../config');
 
-// Configuration
-const WIKIPEDIA_MP_URLS = [
-  'https://en.wikipedia.org/wiki/13th_Parliament_of_Kenya',
-  'https://en.wikipedia.org/wiki/List_of_members_of_the_National_Assembly_of_Kenya,_2022-2027'
-];
-const WIKIPEDIA_API_URL = 'https://en.wikipedia.org/w/api.php';
+// Updated URLs based on actual Wikipedia pages
+const WIKIPEDIA_SOURCES = {
+  // Main lists of MPs
+  mpLists: [
+    'https://en.wikipedia.org/wiki/13th_Parliament_of_Kenya',
+    'https://en.wikipedia.org/wiki/List_of_members_of_the_National_Assembly_of_Kenya,_2017%E2%80%932022'
+  ],
+  // Categories containing politicians
+  categories: [
+    'https://en.wikipedia.org/wiki/Category:21st-century_Kenyan_politicians',
+    'https://en.wikipedia.org/wiki/Category:Kenyan_politicians',
+    'https://en.wikipedia.org/wiki/Category:Members_of_the_13th_Parliament_of_Kenya'
+  ],
+  // Fallback to official parliament website
+  official: [
+    'http://www.parliament.go.ke/the-national-assembly/mps'
+  ]
+};
 
-// Load existing MP data for matching
-function loadExistingMPData(filePath) {
-  try {
-    const rawData = fs.readFileSync(filePath, 'utf8');
-    return JSON.parse(rawData);
-  } catch (error) {
-    console.error(`Error loading MP data: ${error.message}`);
-    return [];
+class WikipediaScraper {
+  constructor() {
+    this.httpClient = new HttpClient();
+    this.processedLinks = new Set(); // Track already processed links to avoid duplicates
   }
-}
 
-// Axios instance with custom settings
-const axiosInstance = axios.create({
-  timeout: 30000,
-  headers: {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-    'Accept-Language': 'en-US,en;q=0.5'
-  }
-});
-
-// Function to fetch content from Wikipedia
-async function fetchWikipediaPage(url) {
-  try {
-    console.log(`Fetching Wikipedia page: ${url}`);
-    const response = await axiosInstance.get(url);
-    return response.data;
-  } catch (error) {
-    console.error(`Error fetching Wikipedia page: ${error.message}`);
-    return null;
-  }
-}
-
-// Function to get MP biographies from Wikipedia API
-async function getWikipediaBio(mpName) {
-  try {
-    // Normalize the name for Wikipedia search
-    let searchName = mpName.replace(/^HON\.\s*/, '').replace(/\(.*?\)/, '').trim();
+  /**
+   * Main method to scrape Wikipedia for MP data
+   */
+  async scrapeWikipediaMPs() {
+    logger.info('Starting enhanced Wikipedia MP extraction...');
     
-    // Add Kenya MP to improve search results
-    searchName = `${searchName} Kenya MP`;
+    // Check for existing checkpoint
+    const checkpoint = findLatestCheckpoint('wikipedia_extraction');
+    if (checkpoint) {
+      logger.info(`Resuming from checkpoint with ${checkpoint.data.length} MPs`);
+      return checkpoint.data;
+    }
     
-    console.log(`Searching Wikipedia for: ${searchName}`);
+    const allMPs = [];
     
-    // First, search for the page
-    const searchResponse = await axiosInstance.get(WIKIPEDIA_API_URL, {
-      params: {
-        action: 'query',
-        list: 'search',
-        srsearch: searchName,
-        format: 'json',
-        utf8: 1
+    // First extract MPs from main Parliament pages
+    for (const url of WIKIPEDIA_SOURCES.mpLists) {
+      try {
+        logger.info(`Fetching Wikipedia page: ${url}`);
+        const html = await this.httpClient.get(url);
+        const pageMPs = this.extractMPsFromPage(html, url);
+        allMPs.push(...pageMPs);
+        
+        // Save checkpoint after each main page
+        saveCheckpoint('wikipedia_extraction', allMPs);
+      } catch (err) {
+        logger.error(`Failed to fetch Wikipedia page: ${url} (${err.message})`);
       }
-    });
-    
-    const searchResults = searchResponse.data.query.search;
-    
-    // If no results, return empty bio
-    if (!searchResults || searchResults.length === 0) {
-      return { found: false };
     }
     
-    // Get the first result (most relevant)
-    const topResult = searchResults[0];
-    
-    // Now get the page extract
-    const extractResponse = await axiosInstance.get(WIKIPEDIA_API_URL, {
-      params: {
-        action: 'query',
-        prop: 'extracts|pageimages',
-        exintro: 1,
-        explaintext: 1,
-        titles: topResult.title,
-        pithumbsize: 500,
-        format: 'json',
-        utf8: 1
+    // Then try to extract MPs from category pages
+    for (const url of WIKIPEDIA_SOURCES.categories) {
+      try {
+        logger.info(`Fetching Wikipedia category: ${url}`);
+        const html = await this.httpClient.get(url);
+        const categoryMPs = await this.extractMPsFromCategory(html, url);
+        allMPs.push(...categoryMPs);
+        
+        // Save checkpoint after each category
+        saveCheckpoint('wikipedia_extraction', allMPs);
+      } catch (err) {
+        logger.error(`Failed to fetch Wikipedia category: ${url} (${err.message})`);
       }
-    });
-    
-    // Process the response
-    const pages = extractResponse.data.query.pages;
-    const pageId = Object.keys(pages)[0];
-    const page = pages[pageId];
-    
-    // Check if this is actually about the MP (simple heuristic)
-    const isRelevant = 
-      page.extract.toLowerCase().includes('parliament') || 
-      page.extract.toLowerCase().includes('mp') ||
-      page.extract.toLowerCase().includes('politician') ||
-      page.extract.toLowerCase().includes('elected') ||
-      page.extract.toLowerCase().includes('constituency');
-    
-    if (!isRelevant) {
-      return { found: false };
     }
     
-    // Return the bio info
-    return {
-      found: true,
-      title: page.title,
-      extract: page.extract,
-      url: `https://en.wikipedia.org/wiki/${encodeURIComponent(page.title.replace(/ /g, '_'))}`,
-      image: page.thumbnail ? page.thumbnail.source : null
-    };
-  } catch (error) {
-    console.error(`Error getting Wikipedia bio for ${mpName}: ${error.message}`);
-    return { found: false };
+    // If we still don't have enough MPs, try the official website
+    if (allMPs.length < 50) {
+      logger.warn('Few MPs found on Wikipedia. Trying official Parliament website...');
+      for (const url of WIKIPEDIA_SOURCES.official) {
+        try {
+          logger.info(`Fetching official page: ${url}`);
+          const html = await this.httpClient.get(url);
+          const officialMPs = this.extractMPsFromOfficialSite(html, url);
+          allMPs.push(...officialMPs);
+          
+          saveCheckpoint('wikipedia_extraction', allMPs);
+        } catch (err) {
+          logger.error(`Failed to fetch official page: ${url} (${err.message})`);
+        }
+      }
+    }
+    
+    logger.info(`Extracted ${allMPs.length} MPs from all sources`);
+    
+    // Deduplicate MPs based on normalized name
+    const uniqueMPs = this.deduplicateMPs(allMPs);
+    logger.info(`After deduplication: ${uniqueMPs.length} unique MPs`);
+    
+    return uniqueMPs;
   }
-}
 
-// Extract MPs from Wikipedia tables
-async function extractMPsFromWikipedia() {
-  const allMPs = [];
-  
-  for (const url of WIKIPEDIA_MP_URLS) {
-    const html = await fetchWikipediaPage(url);
-    
-    if (!html) {
-      console.log(`Skipping ${url} due to fetch error`);
-      continue;
-    }
-    
+  /**
+   * Extract MPs from a Wikipedia page containing tables
+   */
+  extractMPsFromPage(html, sourceUrl) {
     const $ = cheerio.load(html);
+    const pageMPs = [];
     
     // Find all tables that might contain MP data
     const tables = $('table.wikitable');
-    
-    console.log(`Found ${tables.length} tables on ${url}`);
+    logger.info(`Found ${tables.length} tables on ${sourceUrl}`);
     
     tables.each((tableIndex, table) => {
-      // Check if this table has headers that match what we're looking for
       const headers = $(table).find('th');
       const headerText = headers.map((i, el) => $(el).text().trim()).get().join('|').toLowerCase();
       
@@ -150,38 +128,36 @@ async function extractMPsFromWikipedia() {
           headerText.includes('party') || 
           headerText.includes('county')) {
         
-        console.log(`Found potential MP table with headers: ${headerText}`);
-        
-        // Find the index of important columns
         const headerArray = headers.map((i, el) => $(el).text().trim().toLowerCase()).get();
         const nameIndex = headerArray.findIndex(h => h.includes('name') || h.includes('member'));
         const constituencyIndex = headerArray.findIndex(h => h.includes('constituency'));
         const countyIndex = headerArray.findIndex(h => h.includes('county'));
         const partyIndex = headerArray.findIndex(h => h.includes('party'));
+        const genderIndex = headerArray.findIndex(h => h.includes('gender'));
         
-        // Process rows if we found a name column
         if (nameIndex !== -1) {
-          // Process each row
           $(table).find('tr').each((rowIndex, row) => {
-            // Skip header row
-            if (rowIndex === 0) return;
+            if (rowIndex === 0) return; // Skip header row
             
             const columns = $(row).find('td');
-            
-            // Skip rows with insufficient columns
             if (columns.length <= nameIndex) return;
             
-            // Extract the MP name
             let name = $(columns[nameIndex]).text().trim();
-            
-            // Skip empty names
             if (!name) return;
             
-            // Create MP object
+            // Check for links to MP's own Wikipedia page
+            const nameCell = $(columns[nameIndex]);
+            const link = nameCell.find('a').attr('href');
+            const wikipediaUrl = link && link.startsWith('/wiki/') 
+              ? `https://en.wikipedia.org${link}` 
+              : '';
+            
+            // Create MP object with available information
             const mp = {
               name,
               source: 'Wikipedia',
-              url: url,
+              sourceUrl,
+              wikipediaUrl,
               wikipediaData: {}
             };
             
@@ -200,205 +176,666 @@ async function extractMPsFromWikipedia() {
               mp.party = $(columns[partyIndex]).text().trim();
             }
             
-            // Check for links to MP's own Wikipedia page
-            const nameCell = $(columns[nameIndex]);
-            const link = nameCell.find('a').attr('href');
-            
-            if (link && link.startsWith('/wiki/')) {
-              mp.wikipediaUrl = `https://en.wikipedia.org${link}`;
+            // Add gender if available
+            if (genderIndex !== -1 && columns.length > genderIndex) {
+              mp.gender = $(columns[genderIndex]).text().trim();
             }
             
-            allMPs.push(mp);
+            // Add this MP to the collection
+            pageMPs.push(mp);
+            
+            // Remember this link to avoid processing it again
+            if (wikipediaUrl) {
+              this.processedLinks.add(wikipediaUrl);
+            }
           });
         }
       }
     });
-  }
-  
-  console.log(`Extracted ${allMPs.length} MPs from Wikipedia`);
-  return allMPs;
-}
-
-// Function to get additional data for each MP from their Wikipedia page
-async function enrichMPsWithWikipediaData(mps) {
-  console.log('Enriching MPs with Wikipedia data...');
-  
-  const enrichedMPs = [];
-  
-  for (let i = 0; i < mps.length; i++) {
-    const mp = { ...mps[i] };
     
-    // If we already have a Wikipedia URL, use it directly
-    if (mp.wikipediaUrl) {
-      try {
-        const html = await fetchWikipediaPage(mp.wikipediaUrl);
+    // Look for MP links outside of tables (e.g., in lists)
+    this.extractMPLinksFromPage($, sourceUrl, pageMPs);
+    
+    return pageMPs;
+  }
+
+  /**
+   * Extract MP links from text content of a page
+   */
+  extractMPLinksFromPage($, sourceUrl, pageMPs) {
+    // Look for lists of MPs
+    $('ul li a, ol li a').each((i, link) => {
+      const $link = $(link);
+      const href = $link.attr('href');
+      const text = $link.text().trim();
+      
+      // Check if this might be an MP link
+      if (href && href.startsWith('/wiki/') && 
+          !href.includes(':') && // Exclude category and special pages
+          !this.processedLinks.has(`https://en.wikipedia.org${href}`)) {
         
-        if (html) {
-          const $ = cheerio.load(html);
+        // Add as potential MP
+        pageMPs.push({
+          name: text,
+          source: 'Wikipedia',
+          sourceUrl,
+          wikipediaUrl: `https://en.wikipedia.org${href}`,
+          wikipediaData: {}
+        });
+        
+        // Remember this link
+        this.processedLinks.add(`https://en.wikipedia.org${href}`);
+      }
+    });
+  }
+
+  /**
+   * Extract MPs from a Wikipedia category page
+   */
+  async extractMPsFromCategory(html, sourceUrl) {
+    const $ = cheerio.load(html);
+    const categoryMPs = [];
+    
+    // Find all category members
+    const categoryMembers = $('#mw-pages .mw-category-group li a');
+    logger.info(`Found ${categoryMembers.length} entries in category ${sourceUrl}`);
+    
+    // Process batch of members to avoid overwhelming the server
+    const batchSize = 5;
+    for (let i = 0; i < categoryMembers.length; i += batchSize) {
+      const batch = categoryMembers.slice(i, i + batchSize);
+      const batchPromises = [];
+      
+      batch.each((j, link) => {
+        const $link = $(link);
+        const href = $link.attr('href');
+        const text = $link.text().trim();
+        
+        if (href && href.startsWith('/wiki/') && 
+            !this.processedLinks.has(`https://en.wikipedia.org${href}`)) {
           
-          // Extract infobox data (if available)
-          const infobox = $('.infobox');
-          if (infobox.length > 0) {
-            mp.wikipediaData.infobox = {};
-            
-            infobox.find('tr').each((_, row) => {
-              const header = $(row).find('th').text().trim();
-              const value = $(row).find('td').text().trim();
-              
-              if (header && value) {
-                mp.wikipediaData.infobox[header] = value;
-              }
-            });
-          }
+          // Add as potential MP with basic info
+          const mp = {
+            name: text,
+            source: 'Wikipedia',
+            sourceUrl,
+            wikipediaUrl: `https://en.wikipedia.org${href}`,
+            wikipediaData: {}
+          };
           
-          // Extract first paragraph of content (biography)
-          const firstPara = $('#mw-content-text p').first().text().trim();
-          if (firstPara) {
-            mp.wikipediaData.biography = firstPara;
-          }
+          categoryMPs.push(mp);
           
-          console.log(`Enriched MP with Wikipedia data: ${mp.name}`);
+          // Remember this link
+          this.processedLinks.add(`https://en.wikipedia.org${href}`);
+          
+          // Queue this MP page for detailed extraction
+          batchPromises.push(this.getWikipediaDetails(mp));
         }
-      } catch (error) {
-        console.error(`Error fetching Wikipedia page for ${mp.name}: ${error.message}`);
-      }
-    } else {
-      // Try to find Wikipedia data using the MP's name
-      const bioData = await getWikipediaBio(mp.name);
+      });
       
-      if (bioData.found) {
-        mp.wikipediaData.biography = bioData.extract;
-        mp.wikipediaData.imageUrl = bioData.image;
-        mp.wikipediaUrl = bioData.url;
+      // Wait for batch to complete
+      await Promise.all(batchPromises);
+      
+      // Short delay between batches
+      if (i + batchSize < categoryMembers.length) {
+        await new Promise(resolve => setTimeout(resolve, 1000));
+      }
+    }
+    
+    return categoryMPs;
+  }
+
+  /**
+   * Extract MPs from the official Parliament website
+   */
+  extractMPsFromOfficialSite(html, sourceUrl) {
+    const $ = cheerio.load(html);
+    const officialMPs = [];
+    
+    // Find MP entries - adjust selectors based on the actual structure
+    $('tr.mp').each((i, row) => {
+      const $row = $(row);
+      const columns = $row.find('td');
+      
+      if (columns.length < 4) return;
+      
+      const name = $(columns[0]).text().trim();
+      if (!name) return;
+      
+      // Create MP object
+      const mp = {
+        name,
+        source: 'Official Parliament Website',
+        sourceUrl,
+        county: $(columns[2]).text().trim(),
+        constituency: $(columns[3]).text().trim(),
+        party: $(columns[4]).text().trim(),
+        wikipediaData: {}
+      };
+      
+      // Extract the 'More...' link for additional details
+      const moreLink = $(columns[6]).find('a').attr('href');
+      if (moreLink) {
+        mp.detailsLink = moreLink.startsWith('http') ? moreLink : `http://www.parliament.go.ke${moreLink}`;
+      }
+      
+      officialMPs.push(mp);
+    });
+    
+    return officialMPs;
+  }
+
+  /**
+   * Deduplicate MPs based on name
+   */
+  deduplicateMPs(mps) {
+    const uniqueMPs = [];
+    const seenNames = new Set();
+    
+    for (const mp of mps) {
+      const normalizedName = normalizeNameForComparison(mp.name);
+      
+      if (!seenNames.has(normalizedName)) {
+        seenNames.add(normalizedName);
+        uniqueMPs.push(mp);
+      }
+    }
+    
+    return uniqueMPs;
+  }
+
+  /**
+   * Enrich MP objects with detailed information from their Wikipedia pages
+   */
+  async enrichMPsWithWikipediaData(mps) {
+    logger.info('Enriching MPs with Wikipedia data...');
+    
+    // Check for existing checkpoint
+    const checkpoint = findLatestCheckpoint('wikipedia_enrichment');
+    if (checkpoint) {
+      logger.info(`Resuming from enrichment checkpoint with ${checkpoint.data.length} MPs`);
+      return checkpoint.data;
+    }
+    
+    const enrichedMPs = [];
+    
+    // Process MPs in batches to avoid overwhelming the server
+    const batchSize = 5;
+    for (let i = 0; i < mps.length; i += batchSize) {
+      logger.info(`Processing MPs ${i+1}-${Math.min(i+batchSize, mps.length)} of ${mps.length}`);
+      
+      const batch = mps.slice(i, i + batchSize);
+      const batchPromises = batch.map(mp => this.getWikipediaDetails(mp));
+      
+      // Wait for all MPs in this batch to be processed
+      const processedBatch = await Promise.all(batchPromises);
+      enrichedMPs.push(...processedBatch);
+      
+      // Save checkpoint after each batch
+      if (enrichedMPs.length > 0) {
+        saveCheckpoint('wikipedia_enrichment', enrichedMPs);
+      }
+      
+      // Add a delay between batches to be nice to Wikipedia
+      if (i + batchSize < mps.length) {
+        await new Promise(resolve => setTimeout(resolve, 2000));
+      }
+    }
+    
+    return enrichedMPs;
+  }
+
+  /**
+   * Get detailed information from an MP's Wikipedia page
+   */
+  async getWikipediaDetails(mp) {
+    // Create a copy of the MP object to avoid modifying the original
+    const enrichedMP = { ...mp };
+    
+    // Skip if no Wikipedia URL
+    if (!enrichedMP.wikipediaUrl) {
+      return enrichedMP;
+    }
+    
+    try {
+      logger.info(`Fetching Wikipedia details for: ${enrichedMP.name}`);
+      const html = await this.httpClient.get(enrichedMP.wikipediaUrl);
+      const $ = cheerio.load(html);
+      
+      // Basic biographical information
+      enrichedMP.wikipediaData.biography = this.extractBiography($);
+      
+      // Infobox data
+      enrichedMP.wikipediaData.infobox = this.extractInfoboxData($);
+      
+      // Political career, leadership positions
+      enrichedMP.wikipediaData.politicalCareer = this.extractPoliticalCareer($);
+      
+      // Committee memberships
+      enrichedMP.wikipediaData.committees = this.extractCommittees($);
+      
+      // Education history
+      enrichedMP.wikipediaData.education = this.extractEducation($);
+      
+      // Extract the structured information using regex
+      if (enrichedMP.wikipediaData.biography) {
+        enrichedMP.wikipediaData.structuredInfo = this.extractStructuredInfo(enrichedMP.wikipediaData.biography);
+      }
+      
+      // Extract image if available
+      const imageUrl = this.extractImageUrl($);
+      if (imageUrl) {
+        enrichedMP.wikipediaData.imageUrl = imageUrl;
+      }
+      
+      logger.info(`Successfully enriched MP: ${enrichedMP.name}`);
+    } catch (error) {
+      logger.error(`Error fetching Wikipedia details for ${enrichedMP.name}: ${error.message}`);
+    }
+    
+    return enrichedMP;
+  }
+
+  /**
+   * Extract the main biography from a Wikipedia page
+   */
+  extractBiography($) {
+    // Get the first paragraph, which typically contains the biography
+    const firstPara = $('#mw-content-text p').first().text().trim();
+    
+    // If the first paragraph is empty or very short, try to get more paragraphs
+    if (!firstPara || firstPara.length < 50) {
+      const allParas = [];
+      $('#mw-content-text p').slice(0, 3).each((i, el) => {
+        const text = $(el).text().trim();
+        if (text && text.length > 10) {
+          allParas.push(text);
+        }
+      });
+      return allParas.join(' ');
+    }
+    
+    return firstPara;
+  }
+
+  /**
+   * Extract data from the infobox
+   */
+  extractInfoboxData($) {
+    const infobox = {};
+    
+    // Find the infobox table
+    const infoboxTable = $('.infobox');
+    if (infoboxTable.length === 0) {
+      return infobox;
+    }
+    
+    // Extract key-value pairs
+    infoboxTable.find('tr').each((i, row) => {
+      const header = $(row).find('th').text().trim();
+      const value = $(row).find('td').text().trim();
+      
+      if (header && value) {
+        infobox[header] = value;
+      }
+    });
+    
+    return infobox;
+  }
+
+  /**
+   * Extract political career information
+   */
+  extractPoliticalCareer($) {
+    const career = [];
+    
+    // Look for sections about political career
+    let foundSection = false;
+    $('#Political_career, #Career, #Political_career ~ h2, #Career ~ h2').each((i, section) => {
+      foundSection = true;
+      
+      // Get the text until next heading
+      let content = '';
+      let current = $(section).next();
+      
+      while (current.length && !current.is('h1, h2')) {
+        if (current.is('p')) {
+          content += ' ' + current.text().trim();
+        }
+        current = current.next();
+      }
+      
+      if (content) {
+        career.push(content.trim());
+      }
+    });
+    
+    // If no specific sections found, try to find political content in paragraphs
+    if (!foundSection) {
+      $('#mw-content-text p').each((i, para) => {
+        const text = $(para).text().trim();
+        if (text && 
+            (text.includes('elected') || 
+             text.includes('parliament') || 
+             text.includes('political') || 
+             text.includes('constituency'))) {
+          career.push(text);
+        }
+      });
+    }
+    
+    return career;
+  }
+
+  /**
+   * Extract committee memberships
+   */
+  extractCommittees($) {
+    const committees = [];
+    
+    // Look for sections about committees
+    $('#Committee, #Committees, #Parliamentary_committees').each((i, section) => {
+      // Get the text until next heading
+      let current = $(section).next();
+      
+      while (current.length && !current.is('h1, h2, h3')) {
+        if (current.is('p')) {
+          const text = current.text().trim();
+          if (text) {
+            committees.push(text);
+          }
+        } else if (current.is('ul, ol')) {
+          current.find('li').each((j, item) => {
+            const text = $(item).text().trim();
+            if (text) {
+              committees.push(text);
+            }
+          });
+        }
+        current = current.next();
+      }
+    });
+    
+    // Look for committee mentions in paragraphs
+    if (committees.length === 0) {
+      $('#mw-content-text p').each((i, para) => {
+        const text = $(para).text().trim();
+        if (text && 
+            (text.includes('committee') || 
+             text.includes('Commission'))) {
+          committees.push(text);
+        }
+      });
+    }
+    
+    return committees;
+  }
+
+  /**
+   * Extract education information
+   */
+  extractEducation($) {
+    const education = [];
+    
+    // Look for sections about education
+    $('#Education, #Academic_background, #Educational_background').each((i, section) => {
+      // Get the text until next heading
+      let current = $(section).next();
+      
+      while (current.length && !current.is('h1, h2, h3')) {
+        if (current.is('p')) {
+          const text = current.text().trim();
+          if (text) {
+            education.push(text);
+          }
+        } else if (current.is('ul, ol')) {
+          current.find('li').each((j, item) => {
+            const text = $(item).text().trim();
+            if (text) {
+              education.push(text);
+            }
+          });
+        }
+        current = current.next();
+      }
+    });
+    
+    // Look for education mentions in paragraphs
+    if (education.length === 0) {
+      $('#mw-content-text p').each((i, para) => {
+        const text = $(para).text().trim();
+        if (text && 
+            (text.includes('educated') || 
+             text.includes('school') || 
+             text.includes('university') || 
+             text.includes('college') || 
+             text.includes('degree'))) {
+          education.push(text);
+        }
+      });
+    }
+    
+    return education;
+  }
+
+  /**
+   * Extract image URL from Wikipedia page
+   */
+  extractImageUrl($) {
+    // Try to find the main image
+    const infoboxImage = $('.infobox img').first();
+    if (infoboxImage.length) {
+      return infoboxImage.attr('src')?.startsWith('//') 
+        ? 'https:' + infoboxImage.attr('src')
+        : infoboxImage.attr('src');
+    }
+    
+    // Try other images
+    const otherImage = $('#mw-content-text img').first();
+    if (otherImage.length) {
+      return otherImage.attr('src')?.startsWith('//') 
+        ? 'https:' + otherImage.attr('src')
+        : otherImage.attr('src');
+    }
+    
+    return null;
+  }
+
+  /**
+   * Extract structured information from biography text using regex
+   */
+  extractStructuredInfo(biography) {
+    if (!biography) return {};
+    
+    const info = {
+      education: [],
+      professions: [],
+      birthYear: null,
+      birthPlace: null,
+      politicalPositions: []
+    };
+    
+    // Extract education information
+    const educationRegex = /(?:graduated|studied|degree|educated|diploma|certificate|bachelor|master|phd|doctorate) (?:from|at|in) ([^.]+)/gi;
+    let educationMatch;
+    while ((educationMatch = educationRegex.exec(biography)) !== null) {
+      info.education.push(educationMatch[1].trim());
+    }
+    
+    // Extract professional background
+    const professionRegex = /(?:worked as|profession|career|professional|occupation) (?:is|as|in) ([^.]+)/gi;
+    let professionMatch;
+    while ((professionMatch = professionRegex.exec(biography)) !== null) {
+      info.professions.push(professionMatch[1].trim());
+    }
+    
+    // Extract birth year
+    const yearMatch = biography.match(/born (?:in|on)?\s?(?:the year )?\s?(\d{4})/i);
+    if (yearMatch) {
+      info.birthYear = parseInt(yearMatch[1]);
+    }
+    
+    // Extract birth place
+    const birthPlaceMatch = biography.match(/born (?:in|at) ([^,.]+)/i);
+    if (birthPlaceMatch) {
+      info.birthPlace = birthPlaceMatch[1].trim();
+    }
+    
+    // Extract political positions
+    const politicalRegex = /(?:elected|appointed|served|serving) as ([^.]+)/gi;
+    let politicalMatch;
+    while ((politicalMatch = politicalRegex.exec(biography)) !== null) {
+      info.politicalPositions.push(politicalMatch[1].trim());
+    }
+    
+    return info;
+  }
+
+  /**
+   * Merge Wikipedia data with existing MP data
+   */
+  mergeWithExistingData(wikipediaMPs, existingMPs) {
+    logger.info('Merging Wikipedia data with existing MP data...');
+    
+    // Create maps for faster lookups
+    const mpsByName = {};
+    const mpsByConstituency = {};
+    const mpsByCounty = {};
+    
+    // Index existing MPs by name and constituency
+    existingMPs.forEach(mp => {
+      const normalizedName = normalizeNameForComparison(mp.name);
+      mpsByName[normalizedName] = mp;
+      
+      if (mp.constituency) {
+        const normalizedConstituency = mp.constituency.toUpperCase().trim();
+        mpsByConstituency[normalizedConstituency] = mp;
+      }
+      
+      if (mp.county) {
+        const normalizedCounty = mp.county.toUpperCase().trim();
+        if (!mpsByCounty[normalizedCounty]) {
+          mpsByCounty[normalizedCounty] = [];
+        }
+        mpsByCounty[normalizedCounty].push(mp);
+      }
+    });
+    
+    // Track match statistics
+    let directMatches = 0;
+    let constituencyMatches = 0;
+    let countyFuzzyMatches = 0;
+    let fuzzyMatches = 0;
+    let noMatches = 0;
+    
+    // Try to match Wikipedia MPs with existing MPs
+    wikipediaMPs.forEach(wikiMP => {
+      const normalizedName = normalizeNameForComparison(wikiMP.name);
+      let existingMP = mpsByName[normalizedName];
+      let matchType = 'none';
+      
+      // If no direct name match, try matching by constituency
+      if (!existingMP && wikiMP.constituency) {
+        const normalizedConstituency = wikiMP.constituency.toUpperCase().trim();
+        existingMP = mpsByConstituency[normalizedConstituency];
         
-        console.log(`Found Wikipedia bio for ${mp.name}`);
-      } else {
-        console.log(`No Wikipedia bio found for ${mp.name}`);
+        if (existingMP) {
+          matchType = 'constituency';
+          constituencyMatches++;
+        }
       }
-    }
-    
-    enrichedMPs.push(mp);
-    
-    // Add a small delay to avoid overwhelming Wikipedia's API
-    await new Promise(resolve => setTimeout(resolve, 1000));
-  }
-  
-  return enrichedMPs;
-}
-
-// Merge Wikipedia data with existing MP data
-function mergeWithExistingData(wikipediaMPs, existingMPs) {
-  console.log('Merging Wikipedia data with existing MP data...');
-  
-  // Create maps for faster lookups
-  const mpsByName = {};
-  const mpsByConstituency = {};
-  
-  // Index existing MPs by name and constituency
-  existingMPs.forEach(mp => {
-    const normalizedName = normalizeName(mp.name);
-    mpsByName[normalizedName] = mp;
-    
-    if (mp.constituency) {
-      const normalizedConstituency = mp.constituency.toUpperCase().trim();
-      mpsByConstituency[normalizedConstituency] = mp;
-    }
-  });
-  
-  // Track match statistics
-  let directMatches = 0;
-  let constituencyMatches = 0;
-  let noMatches = 0;
-  
-  // Try to match Wikipedia MPs with existing MPs
-  wikipediaMPs.forEach(wikiMP => {
-    const normalizedName = normalizeName(wikiMP.name);
-    let existingMP = mpsByName[normalizedName];
-    
-    // If no direct name match, try matching by constituency
-    if (!existingMP && wikiMP.constituency) {
-      const normalizedConstituency = wikiMP.constituency.toUpperCase().trim();
-      existingMP = mpsByConstituency[normalizedConstituency];
       
+      // If still no match, try matching by county and partial name
+      if (!existingMP && wikiMP.county) {
+        const normalizedCounty = wikiMP.county.toUpperCase().trim();
+        const countyMPs = mpsByCounty[normalizedCounty] || [];
+        
+        // Try to find a partial name match within the same county
+        for (const countyMP of countyMPs) {
+          const nameParts = normalizedName.split(' ');
+          const mpNameParts = normalizeNameForComparison(countyMP.name).split(' ');
+          
+          // Check if at least two name parts match
+          const matchingParts = nameParts.filter(part => 
+            mpNameParts.some(mpPart => mpPart === part && part.length > 2)
+          );
+          
+          if (matchingParts.length >= 2) {
+            existingMP = countyMP;
+            matchType = 'county_fuzzy';
+            countyFuzzyMatches++;
+            break;
+          }
+        }
+      }
+      
+      // If still no match, try fuzzy matching based on name parts
+      if (!existingMP) {
+        const nameParts = normalizedName.split(' ').filter(part => part.length > 3);
+        
+        for (const [mpName, mp] of Object.entries(mpsByName)) {
+          const mpNameParts = mpName.split(' ');
+          
+          // Check if at least half of the significant name parts match
+          const matchingParts = nameParts.filter(part => 
+            mpNameParts.some(mpPart => mpPart.includes(part) || part.includes(mpPart))
+          );
+          
+          if (matchingParts.length >= Math.ceil(nameParts.length / 2)) {
+            existingMP = mp;
+            matchType = 'fuzzy';
+            fuzzyMatches++;
+            break;
+          }
+        }
+      }
+      
+      if (existingMP && matchType === 'none') {
+        directMatches++;
+      }
+      
+      // If we found a match, merge the data
       if (existingMP) {
-        constituencyMatches++;
+        // Add Wikipedia data to the existing MP
+        existingMP.wikipediaData = wikiMP.wikipediaData || {};
+        existingMP.wikipediaUrl = existingMP.wikipediaUrl || wikiMP.wikipediaUrl;
+        
+        // Update missing fields with Wikipedia data
+        if (!existingMP.constituency && wikiMP.constituency) {
+          existingMP.constituency = wikiMP.constituency;
+        }
+        
+        if (!existingMP.county && wikiMP.county) {
+          existingMP.county = wikiMP.county;
+        }
+        
+        if (!existingMP.party && wikiMP.party) {
+          existingMP.party = wikiMP.party;
+        }
+        
+        if ((!existingMP.gender || existingMP.gender === 'Unknown') && wikiMP.gender) {
+          existingMP.gender = wikiMP.gender;
+        }
+        
+        // Add data source if not already present
+        if (!existingMP.dataSources) {
+          existingMP.dataSources = ['parliament'];
+        }
+        if (!existingMP.dataSources.includes('wikipedia')) {
+          existingMP.dataSources.push('wikipedia');
+        }
+      } else {
+        // If no match, add this as a new MP
+        wikiMP.dataSources = ['wikipedia'];
+        existingMPs.push(wikiMP);
+        noMatches++;
       }
-    } else if (existingMP) {
-      directMatches++;
-    }
+    });
     
-    // If we found a match, merge the data
-    if (existingMP) {
-      // Add Wikipedia data to the existing MP
-      existingMP.wikipediaData = wikiMP.wikipediaData || {};
-      existingMP.wikipediaUrl = wikiMP.wikipediaUrl;
-      
-      // Update other fields if they're missing in the existing data
-      if (!existingMP.constituency && wikiMP.constituency) {
-        existingMP.constituency = wikiMP.constituency;
-      }
-      
-      if (!existingMP.county && wikiMP.county) {
-        existingMP.county = wikiMP.county;
-      }
-      
-      if (!existingMP.party && wikiMP.party) {
-        existingMP.party = wikiMP.party;
-      }
-    } else {
-      // If no match, add this as a new MP
-      existingMPs.push(wikiMP);
-      noMatches++;
-    }
-  });
-  
-  console.log(`Direct name matches: ${directMatches}`);
-  console.log(`Constituency matches: ${constituencyMatches}`);
-  console.log(`No matches (added as new MPs): ${noMatches}`);
-  
-  return existingMPs;
-}
-
-// Helper function to normalize names for comparison
-function normalizeName(name) {
-  return name
-    .toUpperCase()
-    .replace(/HON\.?\s*/, '')
-    .replace(/\(.*?\)/, '')
-    .replace(/DR\.?\s*/, '')
-    .replace(/PROF\.?\s*/, '')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
-
-// Main function
-async function main() {
-  try {
-    // Load existing MPs data
-    const existingMPs = loadExistingMPData('kenyan_mps_enhanced.json');
+    logger.info(`Match statistics: Direct: ${directMatches}, Constituency: ${constituencyMatches}, County fuzzy: ${countyFuzzyMatches}, Fuzzy: ${fuzzyMatches}, No match: ${noMatches}`);
     
-    if (existingMPs.length === 0) {
-      console.error('No MP data found. Please run the scraper and enrichment script first.');
-      return;
-    }
-    
-    // Extract MPs data from Wikipedia
-    const wikipediaMPs = await extractMPsFromWikipedia();
-    
-    // Enrich with additional Wikipedia data
-    const enrichedWikipediaMPs = await enrichMPsWithWikipediaData(wikipediaMPs);
-    
-    // Merge Wikipedia data with existing MP data
-    const mergedMPs = mergeWithExistingData(enrichedWikipediaMPs, existingMPs);
-    
-    // Save the enriched data
-    fs.writeFileSync('kenyan_mps_with_wikipedia.json', JSON.stringify(mergedMPs, null, 2));
-    console.log('Enriched MP data saved to kenyan_mps_with_wikipedia.json');
-    
-  } catch (error) {
-    console.error(`An error occurred: ${error.message}`);
+    return existingMPs;
   }
 }
 
-// Run the main function
-main();
+module.exports = WikipediaScraper;

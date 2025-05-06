@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-05-06T12:00:44.262Z",
+  "stage": "wikipedia_enrichment",
+  "data": [
+    {
+      "name": "HON. ABDI, YUSUF HASSAN",
+      "gender": "Unknown",
+      "constituency": "KAMKUNJI",
+      "county": "NAIROBI",
+      "party": "JP",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0218.jpg?itok=Pa40r3RR",
+      "email": "Contact HON. ABDI, YUSUF HASSAN",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Hassan_Abdi",
+      "wikipediaData": {
+        "biography": "Yusuf Hassan Abdi (Somali: Yuusuf Xasan Cabdi, Arabic: يوسف حسن عبدي) (born March 9, 1953) is a Kenyan politician, diplomat, social activist and former journalist. After working many years with the United Nations, he joined the Kenya parliament as a legislator in 2011.\n\nHassan was born in 1953 in Nairobi to an ethnic Somali family.[1][2]",
+        "shortDescription": "Kenyan politician",
+        "infobox": {
+          "Preceded by": "Simon Mbugua",
+          "Born": "(1958-03-09) 9 March 1958 (age 67)Nairobi",
+          "Political party": "Jubilee",
+          "name": "Yusuf Hassan Abdi  يوسف حسن عبدي",
+          "party": "Jubilee",
+          "birthDetails": "(1958-03-09) 9 March 1958 (age 67)Nairobi"
+        },
+        "politicalCareer": [
+          "Yusuf Hassan Abdi (Somali: Yuusuf Xasan Cabdi, Arabic: يوسف حسن عبدي) (born March 9, 1953) is a Kenyan politician, diplomat, social activist and former journalist. After working many years with the United Nations, he joined the Kenya parliament as a legislator in 2011.",
+          "Between 1979 and 1984, Hassan served as a producer for the BBC External Service in London.[1] He spent the next five years as a Senior Editor for the Africa Events monthly magazine, which he had also co-founded.[1][4]",
+          "Due to political unrest and repression in Kenya, Hassan remained in exile at the end of his two-year work contract. He then served as an executive member of the Committee for the Release of Political Prisoners (CRPPK), a protest organization that he had helped found. He also co-edited the association's journal.[3]",
+          "In 1987, Hassan was elected Chairman of the Ukenya opposition group based in the United Kingdom.[5] Because of his leading role with the association in exposing human rights abuses committed by the Kenyan government against local residents, his passport was revoked and his father was arrested.[3]",
+          "From 1992 to 1994, Hassan served as a senior broadcaster of Voice of America's Africa Division. He subsequently traveled to South Africa, where he spent the next few months helping to set up the nation's first community radio station for the local South African population.[2]",
+          "In 1994, Hassan joined the UNHCR based in Geneva. He was thereafter assigned to a number of different diplomatic posts around the world,[2] acting as the Senior External Media Relations and Public Information Officer for the Southern SADC Region.[1] Between 1999 and 2001, he was the UNHCR's Head of External and Media Relations in Southwest and Central Asia, based in Islamabad. He also represented the agency in East Timor and Southern Africa.[4]",
+          "From 2006 to 2007, Hassan served as Director of IRIN, a UN news organization. He subsequently worked as the UNHCR's Regional Communications Manager in Nairobi.[4]",
+          "During his first few months in parliament, Hassan was a frequent floor speaker. Addressing the National Assembly 214 times as of December 2012, he often championed issues of concern to his Somali community.[5]",
+          "In March 2013, on a The National Alliance (TNA) party ticket, Hassan was re-elected to a second term as an MP for the Kamukunji Constituency.[1][5] On August 8, 2017, he was re-elected back to parliament in a Jubilee ticket winning by 54% of the total votes cast.",
+          "He was re-elected for a fourth term in the 2022 Kenyan general election.[9]",
+          "In 2012, Hassan was named Person of the Year by the Somali news organization Hiiraan Online.[10] According to the media outlet, Abdi was chosen because of his effective representation of the Somali community, his strong relationship with Eastleigh's business constituency, and his success in landing key infrastructure development projects for the riding.[8]"
+        ],
+        "committees": [
+          "Due to political unrest and repression in Kenya, Hassan remained in exile at the end of his two-year work contract. He then served as an executive member of the Committee for the Release of Political Prisoners (CRPPK), a protest organization that he had helped found. He also co-edited the association's journal.[3]\n"
+        ],
+        "electionResults": [],
+        "personalDetails": {
+          "birth": "March 9",
+          "birthPlace": "1953"
+        },
+        "controversies": [],
+        "education": [
+          "Yusuf Hassan Abdi (Somali: Yuusuf Xasan Cabdi, Arabic: يوسف حسن عبدي) (born March 9, 1953) is a Kenyan politician, diplomat, social activist and former journalist. After working many years with the United Nations, he joined the Kenya parliament as a legislator in 2011.\n",
+          "For his elementary education, Hassan studied at the Garissa Primary School in Garissa. He later transferred to Nairobi's Aga Khan Primary School. Upon graduation, Hassan attended the Chavakali high School in vihiga. In Form III, with one year of high school remaining, he was expelled from the institution for having reportedly spearheaded a strike.[2]\n",
+          "Hassan subsequently moved to London in pursuit of higher studies. He attended the University of Middlesex, where he earned a Bachelor of Arts degree (BA) in Humanities, graduating with honours.[1][3] He also earned a Diploma of Higher Education (DipHE) at the same institution.[1]\n",
+          "Additionally, Hassan worked toward a postgraduate degree in public administration and politics at the University of London. He later obtained a Master of Arts degree (MA) in international relations from The Fletcher School of Law and Diplomacy at Tufts University in Medford, Massachusetts.[3]\n",
+          "In 1994, Hassan joined the UNHCR based in Geneva. He was thereafter assigned to a number of different diplomatic posts around the world,[2] acting as the Senior External Media Relations and Public Information Officer for the Southern SADC Region.[1] Between 1999 and 2001, he was the UNHCR's Head of External and Media Relations in Southwest and Central Asia, based in Islamabad. He also represented the agency in East Timor and Southern Africa.[4]\n"
+        ],
+        "categories": [
+          "1953 births",
+          "Living people",
+          "Ethnic Somali people",
+          "Kenyan people of Somali descent",
+          "Kenyan Muslims",
+          "Politicians from Nairobi",
+          "Alumni of Middlesex University",
+          "Alumni of the University of London",
+          "Members of the 11th Parliament of Kenya",
+          "Party of National Unity (Kenya) politicians",
+          "Somalian expatriates in the United Kingdom",
+          "The Fletcher School at Tufts University alumni",
+          "Members of the 12th Parliament of Kenya",
+          "Members of the 13th Parliament of Kenya"
+        ],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Yusuf_Hassan.jpg/250px-Yusuf_Hassan.jpg",
+        "source": "https://en.wikipedia.org/wiki/Yusuf_Hassan_Abdi",
+        "extractedDate": "2025-05-06T12:00:41.173Z"
+      },
+      "newsMentions": [],
+      "dataSources": [
+        "parliament",
+        "wikipedia"
+      ],
+      "wikipediaTitle": "Yusuf Hassan Abdi"
+    },
+    {
+      "name": "HON. ABDIRAHMAN MOHAMED ABDI",
+      "gender": "Unknown",
+      "constituency": "LAFEY",
+      "county": "MANDERA",
+      "party": "JP",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Final.jpg?itok=AIUCZN02",
+      "email": "Contact HON. ABDIRAHMAN MOHAMED ABDI",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garissa_County",
+      "wikipediaData": {
+        "biography": "Garissa County is a county in Kenya located in Eastern Kenya bordering Somalia to the East, Wajir County and Isiolo County to the North, Tana River County to the West, Lamu County to the South and the Indian Ocean. Its capital and largest urban area is Garissa.\n\nThe county was created by the 2010 Constitution of Kenya as a new unit of the devolved government. Prior to the 2010 constitution, Garissa County was part of the North Eastern Province which was one of the former provinces of Kenya. The North Eastern Province was carved out of the then Northern Frontier District (NFD) prior to independence.",
+        "shortDescription": "County in Kenya",
+        "infobox": {
+          "Country": "Kenya",
+          "Formed": "4 March 2013",
+          "Capital": "Garissa",
+          "• Governor": "Nathif Jama Adam",
+          "• Deputy Governor": "Abdi Dagane Muhumed",
+          "• Senator": "Abdul Mohammed Haji",
+          "• County woman representative": "Amina Udgoon Siyad",
+          "• Total": "905,000",
+          "Elevation": "1,138 m (3,734 ft)",
+          "• Density": "20/km2 (52/sq mi)",
+          "• GDP": "$585 Million (2022) (41st)",
+          "• Per Capita": "$647 (2022) (45th)",
+          "Time zone": "UTC+3 (EAT)",
+          "Website": "www.garissa.go.ke",
+          "name": "Garissa County"
+        },
+        "politicalCareer": [
+          "Nathif Jama Adam was elected as the pioneer governor of Garissa in March 2013. Ali Bunow Korane became the second governor in 2017 however Nathif was re-elected in 2022.[3][4] Nathif is currently deputised by Abdi Dagane Muhumed.[5]",
+          "The current elected Senator of the county is Sen. Abdul Mohammed Haji[6] while the current County woman representative is Hon. Amina Udgoon Siyad.[7]",
+          "Every County Government in Kenya has a County Executive Committee (CEC) who are persons the Governor appoints, with the approval of the assembly. The CEC implements and coordinates the development projects of the County. The committee also implements the laws the County Assembly passes and ensures compliance from the various county departments. Below is a list of the current CECs of Garissa County:[8]",
+          "Garissa County has 6 constituencies.[9][10] The below is the list of all Constituencies and the current elected Member of Parliament (MP) for each constituency:[11]",
+          "Garissa County is further subdivided into 30 electoral wards. Each ward is represented by a Member of the County Assembly (MCA) or also known as Ward Representative whose main roles are legislation, representation, and oversight.[12][13] The current speaker of the County Assembly is Abdi Idle Gure.[14]",
+          "The list below shows all the wards of the county and the current elected MCA for each Ward:[15]"
+        ],
+        "committees": [],
+        "electionResults": [],
+        "personalDetails": {},
+        "controversies": [],
+        "education": [
+          "The county has 347 ECD centres, 224 primary schools, 41 secondary schools, 2 teachers training colleges and 2 public universities.\n"
+        ],
+        "categories": [
+          "Garissa County",
+          "Counties of Kenya"
+        ],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Flag_of_Garissa_County.gif/120px-Flag_of_Garissa_County.gif",
+        "source": "https://en.wikipedia.org/wiki/Garissa_County",
+        "extractedDate": "2025-05-06T12:00:41.103Z"
+      },
+      "newsMentions": [],
+      "dataSources": [
+        "parliament",
+        "wikipedia"
+      ],
+      "wikipediaTitle": "Garissa County"
+    },
+    {
+      "name": "HON. ABDULLAIH BASHIR SHEIKH",
+      "gender": "Unknown",
+      "constituency": "MANDERA NORTH",
+      "county": "MANDERA",
+      "party": "UDM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Abdullaih%20Bashir%20Sheikh.jpg?itok=XQ9vc8zc",
+      "email": "Contact HON. ABDULLAIH BASHIR SHEIKH",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/List_of_political_families",
+      "wikipediaData": {
+        "biography": "This is an incomplete list of prominent political families. Monarchical dynasties are not included, unless certain descendants have played political roles in a republican structure (e.g. Arslan family of Lebanon and Cakobau family of Fiji).\n\nThe Ardzinba family [ru]",
+        "shortDescription": "",
+        "infobox": {},
+        "politicalCareer": [],
+        "committees": [],
+        "electionResults": [],
+        "personalDetails": {},
+        "controversies": [],
+        "education": [],
+        "categories": [
+          "Lists of families",
+          "Lists of political families",
+          "Lists of dynasties"
+        ],
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png",
+        "source": "https://en.wikipedia.org/wiki/List_of_political_families",
+        "extractedDate": "2025-05-06T12:00:44.260Z"
+      },
+      "newsMentions": [],
+      "dataSources": [
+        "parliament",
+        "wikipedia"
+      ],
+      "wikipediaTitle": "List of political families"
+    }
+  ]
+}

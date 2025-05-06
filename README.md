@@ -1,6 +1,97 @@
 # Kenya MPs Data Collection Suite
 
-A comprehensive system for collecting, enriching, and analyzing data about Kenya's Members of Parliament.
+A modular, maintainable, and extensible system for collecting, enriching, and analyzing data about Kenya's Members of Parliament.
+
+## Directory Structure
+
+```
+kenya-mps-scraper/
+├── package.json
+├── README.md
+├── config/
+│   ├── index.js                  # Central config with URLs, timeouts, etc.
+│   └── committees.js             # Committee definitions
+├── src/
+│   ├── index.js                  # Main entry point
+│   ├── utils/
+│   │   ├── logger.js             # Unified logging
+│   │   ├── http-client.js        # Centralized HTTP client
+│   │   ├── name-utils.js         # Name normalization functions
+│   │   └── file-utils.js         # File operations and checkpoints
+│   ├── models/
+│   │   └── mp.js                 # MP data model
+│   ├── scrapers/
+│   │   ├── base-scraper.js       # Base scraper from parliament
+│   │   ├── wikipedia-scraper.js  # Wikipedia scraper
+│   │   └── news-scraper.js       # News articles scraper
+│   ├── enrichers/
+│   │   ├── leadership.js         # Leadership positions
+│   │   ├── committees.js         # Committee assignments
+│   │   ├── gender.js             # Gender inference
+│   │   └── wikipedia.js          # Wikipedia biography enhancement
+│   └── reports/
+│       ├── data-quality.js       # Data quality assessment
+│       └── summary-report.js     # Summary statistics
+└── output/
+    ├── data/                     # JSON data output
+    ├── checkpoints/              # Progress checkpoints
+    └── logs/                     # Log files
+```
+
+## Pipeline Steps
+
+1. **Scrape**: Collects all MPs from the official Parliament website, including details and contact info.
+2. **Enrich**: Adds leadership positions, committee assignments, and improves gender inference using enrichers.
+3. **Wikipedia**: Scrapes Wikipedia for additional MP data (bio, image, etc.) and merges it with the main dataset.
+4. **Report**: Generates data quality and summary reports (missing fields, party/county/gender breakdowns, etc.).
+
+## Usage
+
+- Run `npm install` to install dependencies.
+- Use `npm start scrape` to run the base scraper and collect MP data from the Parliament website.
+- Use `npm start enrich` to run the enrichment pipeline (leadership, committees, gender, Wikipedia enrichment).
+- Use `npm start wikipedia` to run the Wikipedia data integration (scrapes Wikipedia and merges with MPs).
+- Use `npm start report` to generate data quality and summary reports.
+- Use `npm start` or `npm start all` to run the full pipeline (scrape, enrich, wikipedia, report) sequentially.
+- Output data will be saved in the `output/data/` directory. Logs are in `output/logs/`.
+
+### Example Commands
+
+```bash
+npm install
+npm start scrape      # Scrape Parliament website for MPs
+npm start enrich      # Enrich MP data (leadership, committees, gender, etc.)
+npm start wikipedia   # Add Wikipedia data to MPs
+npm start report      # Generate data quality and summary reports
+npm start             # Run the full pipeline (all steps)
+```
+
+- See the `src/index.js` for command options (scrape, enrich, wikipedia, report, all).
+
+## Modular Approach
+
+- Each module handles a specific task (scraping, enrichment, reporting, etc.)
+- Utilities and models are reusable and testable
+- Central configuration for easy adjustments
+- Output, logs, and checkpoints are organized in the `output/` directory
+
+## Troubleshooting
+
+- If you encounter connection timeouts, try increasing the timeout in `config/index.js`.
+- If you see missing data, check the logs in `output/logs/` for errors or incomplete runs.
+- For Wikipedia scraping, ensure you have a stable internet connection.
+
+## Next Steps
+
+- Expand the enrichers with more leadership and committee data.
+- Improve Wikipedia scraping to fetch more detailed biographies and images.
+- Add more advanced analytics or visualizations to the reports.
+- Integrate additional data sources (e.g., news, scorecards).
+- Write tests for each module for better reliability.
+
+---
+
+(See code for further details on each module.)
 
 ## Overview
 

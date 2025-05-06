@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-05-06T11:56:47.610Z",
+  "stage": "wikipedia_url_search",
+  "data": [
+    {
+      "name": "HON.  MEJJADONK,  BENJAMIN GATHIRU",
+      "gender": "Unknown",
+      "constituency": "EMBAKASI CENTRAL",
+      "county": "NAIROBI",
+      "party": "UDA",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_gathiru%20cropped.jpg?itok=YBoa5txX",
+      "email": "Contact HON.  MEJJADONK,  BENJAMIN GATHIRU",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABDI, YUSUF HASSAN",
+      "gender": "Unknown",
+      "constituency": "KAMKUNJI",
+      "county": "NAIROBI",
+      "party": "JP",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_831A0218.jpg?itok=Pa40r3RR",
+      "email": "Contact HON. ABDI, YUSUF HASSAN",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yusuf_Hassan_Abdi",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Yusuf Hassan Abdi"
+    },
+    {
+      "name": "HON. ABDIRAHMAN MOHAMED ABDI",
+      "gender": "Unknown",
+      "constituency": "LAFEY",
+      "county": "MANDERA",
+      "party": "JP",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/Final.jpg?itok=AIUCZN02",
+      "email": "Contact HON. ABDIRAHMAN MOHAMED ABDI",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garissa_County",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ],
+      "wikipediaTitle": "Garissa County"
+    },
+    {
+      "name": "HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED",
+      "gender": "Unknown",
+      "constituency": "MANDERA EAST",
+      "county": "MANDERA",
+      "party": "ODM",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-09/mini_cropped%20mandera_1.jpg?itok=JGCBzCoB",
+      "email": "Contact HON. ABDIRAHMAN, HUSSEINWEYTAN MOHAMED",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    },
+    {
+      "name": "HON. ABDULLAHI AMINA DIKA",
+      "gender": "Unknown",
+      "constituency": "TANA RIVER",
+      "county": "TANA RIVER",
+      "party": "KANU",
+      "status": "Elected",
+      "profilePictureUrl": "http://www.parliament.go.ke/sites/default/files/styles/mp_photo/public/2022-10/cropped%20tana%20river.jpg?itok=ZYsdgF8Y",
+      "email": "Contact HON. ABDULLAHI AMINA DIKA",
+      "phone": "Not available",
+      "committees": [
+        "Not available"
+      ],
+      "committeeDetails": [],
+      "employmentHistory": [
+        "Not available"
+      ],
+      "leadershipPosition": "",
+      "wikipediaUrl": "",
+      "wikipediaData": {},
+      "newsMentions": [],
+      "dataSources": [
+        "parliament"
+      ]
+    }
+  ]
+}
